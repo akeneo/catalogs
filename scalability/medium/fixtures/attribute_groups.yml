@@ -1,0 +1,106 @@
+attribute_groups:
+    attr_gr_0:
+        sortOrder: 4
+        labels:
+            de_DE: 'Quis ut.'
+            en_US: 'Amet occaecati dolorem.'
+            es_ES: 'Sint corporis.'
+            fr_FR: 'Non debitis possimus.'
+    attr_gr_1:
+        sortOrder: 1
+        labels:
+            de_DE: 'Reprehenderit et velit.'
+            en_US: 'Eaque maiores quaerat.'
+            es_ES: 'Aut dignissimos tempore.'
+            fr_FR: 'Quia eum quos.'
+    attr_gr_2:
+        sortOrder: 1
+        labels:
+            de_DE: 'Ea sit.'
+            en_US: 'Earum recusandae.'
+            es_ES: 'Eos et modi.'
+            fr_FR: 'Enim nisi aut.'
+    attr_gr_3:
+        sortOrder: 8
+        labels:
+            de_DE: 'Eligendi quia deleniti.'
+            en_US: 'Ipsa et dolor.'
+            es_ES: 'Maxime doloribus.'
+            fr_FR: 'Quos in iusto.'
+    attr_gr_4:
+        sortOrder: 10
+        labels:
+            de_DE: 'Rerum asperiores.'
+            en_US: 'Dolorem iure.'
+            es_ES: 'Veniam facilis.'
+            fr_FR: 'Praesentium odio at.'
+    attr_gr_5:
+        sortOrder: 10
+        labels:
+            de_DE: 'Est esse.'
+            en_US: 'Vitae repudiandae.'
+            es_ES: 'Voluptatem fugit.'
+            fr_FR: 'Exercitationem eligendi.'
+    attr_gr_6:
+        sortOrder: 8
+        labels:
+            de_DE: 'Occaecati dolores.'
+            en_US: 'Voluptas harum dolorem.'
+            es_ES: 'Est cumque ullam.'
+            fr_FR: 'Optio quidem et.'
+    attr_gr_7:
+        sortOrder: 5
+        labels:
+            de_DE: 'Aut et ea.'
+            en_US: 'Sunt nihil repellat.'
+            es_ES: 'At exercitationem.'
+            fr_FR: 'Sed aut.'
+    attr_gr_8:
+        sortOrder: 2
+        labels:
+            de_DE: 'Quo repellendus.'
+            en_US: 'Dolores dolores.'
+            es_ES: 'Accusantium dolor labore.'
+            fr_FR: 'Nihil sed facere.'
+    attr_gr_9:
+        sortOrder: 5
+        labels:
+            de_DE: 'Unde vel nihil.'
+            en_US: 'Atque suscipit.'
+            es_ES: 'Exercitationem suscipit minima.'
+            fr_FR: 'Similique velit quo.'
+    attr_gr_10:
+        sortOrder: 1
+        labels:
+            de_DE: 'Quo enim.'
+            en_US: 'Est quis.'
+            es_ES: 'Dolores repellat.'
+            fr_FR: 'Consequatur saepe.'
+    attr_gr_11:
+        sortOrder: 9
+        labels:
+            de_DE: 'Dicta similique ipsum.'
+            en_US: 'Qui veritatis perferendis.'
+            es_ES: 'Illo dolor accusantium.'
+            fr_FR: 'Quibusdam rerum hic.'
+    attr_gr_12:
+        sortOrder: 8
+        labels:
+            de_DE: 'Voluptatum ea.'
+            en_US: 'Nostrum quae est.'
+            es_ES: 'Est enim consequatur.'
+            fr_FR: 'Et consequuntur et.'
+    attr_gr_13:
+        sortOrder: 2
+        labels:
+            de_DE: 'Ut aliquam.'
+            en_US: 'Qui sint vel.'
+            es_ES: 'Quasi reprehenderit.'
+            fr_FR: 'Illo ut voluptate.'
+    attr_gr_14:
+        sortOrder: 6
+        labels:
+            de_DE: 'Perspiciatis dignissimos qui.'
+            en_US: 'Ut voluptatem.'
+            es_ES: 'Sit quidem voluptates.'
+            fr_FR: 'Adipisci ut.'

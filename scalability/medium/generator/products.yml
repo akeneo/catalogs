@@ -1,0 +1,11 @@
+data_generator:
+    output_dir: data/medium/
+    entities:
+        product:
+            count: 50000
+            filled_attributes_count: 75
+            filled_attributes_standard_deviation: 10
+            mandatory_attributes: [sku, name]
+            delimiter: ;
+            start_index: 0
+            categories_count: 2

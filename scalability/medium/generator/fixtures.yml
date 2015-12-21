@@ -1,0 +1,22 @@
+data_generator:
+    output_dir: data/medium/fixtures
+    entities:
+        attribute:
+            count: 400
+            identifier_attribute: "sku"
+            localizable_probability: 5
+            scopable_probability: 2
+            localizable_and_scopable_probability: 1
+        attribute_option:
+            count_per_attribute: 300
+        attribute_group:
+            count: 15
+        family:
+            count: 50
+            attributes_count: 100
+            identifier_attribute: "sku"
+            label_attribute: "sku"
+        category:
+            count: 2000
+            levels: 3
+
