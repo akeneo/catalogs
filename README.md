@@ -24,7 +24,7 @@ ln -s /<path_to_catalog>/scalability/<catalog_size>/fixtures/ /<path_to_ee>/src/
 Update the installer catalog in `app/config/pim_parameters.yml`
 
 ```
-installer_data:       PimEnterpriseInstallerBundle:catalog_size
+sed -i -e 's/\(installer_data: *PimEnterpriseInstallerBundle:\).*$/\1small/g' app/config/pim_parameters.yml
 ```
 
 Install the fixtures (don't forget to disable xdebug if enabled)
@@ -33,3 +33,9 @@ Install the fixtures (don't forget to disable xdebug if enabled)
 rm -rf app/cache && app/console pim:install --env=prod --force
 ```
 
+The catalog don't have products as fixtures, you need to import in after fixtures:
+
+```
+gunzip -c /<path_to_catalog>/scalability/<catalog_size>/products.csv.gz > /tmp/product.csv
+app/console akeneo:batch:job csv_product_import --env=prod
+```

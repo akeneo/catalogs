@@ -1,0 +1,53 @@
+job_profile_accesses:
+    csv_product_import:
+        executeJobProfile: [All]
+    csv_product_export:
+        executeJobProfile: [All]
+    csv_category_import:
+        executeJobProfile: [All]
+    csv_category_export:
+        executeJobProfile: [All]
+    csv_association_type_import:
+        executeJobProfile: [All]
+    csv_association_type_export:
+        executeJobProfile: [All]
+    csv_group_import:
+        executeJobProfile: [All]
+    csv_variant_group_import:
+        executeJobProfile: [All]
+    csv_group_export:
+        executeJobProfile: [All]
+    csv_variant_group_export:
+        executeJobProfile: [All]
+    csv_attribute_import:
+        executeJobProfile: [All]
+    csv_attribute_export:
+        executeJobProfile: [All]
+    csv_option_import:
+        executeJobProfile: [All]
+    csv_option_export:
+        executeJobProfile: [All]
+    update_product_value:
+        executeJobProfile: [All]
+    add_product_value:
+        executeJobProfile: [All]
+    edit_common_attributes:
+        executeJobProfile: [All]
+    set_attribute_requirements:
+        executeJobProfile: [All]
+    add_to_variant_group:
+        executeJobProfile: [All]
+    csv_product_quick_export:
+        executeJobProfile: [All]
+    csv_asset_category_import:
+        executeJobProfile: [All]
+    csv_asset_export:
+        executeJobProfile: [All]
+    csv_asset_variation_export:
+        executeJobProfile: [All]
+    apply_assets_mass_upload:
+        executeJobProfile: [All]
+    yml_asset_channel_configuration_import:
+        executeJobProfile: [All]
+    yml_asset_channel_configuration_export:
+        executeJobProfile: [All]
