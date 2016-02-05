@@ -1,0 +1,16 @@
+users:
+    -
+        username: admin
+        password: admin
+        email: admin@example.com
+        firstname: Peter
+        lastname: Doe
+        catalog_locale: fr_FR
+        catalog_scope: ecommerce
+        default_tree: master
+        roles:
+            - ROLE_ADMINISTRATOR
+        groups:
+            - 'IT support'
+        enable: true
+        default_asset_tree: asset_main_catalog

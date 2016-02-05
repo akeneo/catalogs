@@ -1,0 +1,17 @@
+associations:
+    VEL:
+        labels:
+            fr_FR: qui
+            en_US: quidem
+    MAXIME:
+        labels:
+            fr_FR: nihil
+            en_US: ratione
+    DOLOREM:
+        labels:
+            fr_FR: autem
+            en_US: eos
+    UT:
+        labels:
+            fr_FR: quia
+            en_US: magni
