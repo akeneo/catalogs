@@ -1,0 +1,17 @@
+locales:
+    en_US:
+        currency: USD
+    fr_FR:
+        currency: EUR
+    de_DE:
+        currency: EUR
+    es_ES:
+        currency: EUR
+    it_IT:
+        currency: USD
+    pt_PT:
+        currency: EUR
+    zh_CN:
+        currency: CNY
+    en_AU:
+        currency: AUD
