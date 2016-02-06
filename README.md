@@ -1,22 +1,18 @@
 # PIM catalogs
 
-## From 1.4 to 1.5
+## Upgrade catalogs notes
+
+### From 1.4 to 1.5
 - add `ui_locale` to `users.yml`
 
-## Scalability
-- small
-- medium
-- large
+### From 1.3 to 1.4
+- remove `owner` to `users.yml`
 
-## How to generate?
+## How to generate a catalog?
 
 By using the https://github.com/akeneo-labs/DataGeneratorBundle
 
-## Caution
-
-Please use the relevant branch when using with Akeneo PIM (catalog 1.4 = pim 1.4)
-
-## How to install a catalog
+## How to install a catalog?
 
 To install a catalog, you will have to:
 
@@ -24,7 +20,6 @@ To install a catalog, you will have to:
 - set your catalog in the PIM parameters
 - install the fixtures
 - import the products
-
 
 ### Create a symbolik link to the fixtures
 

@@ -1,0 +1,17 @@
+channels:
+    ecommerce:
+        label: Default
+        locales:
+            - en_US
+        currencies:
+            - USD
+        tree: master
+        color: orange
+    print:
+        label: Print
+        locales:
+            - en_US
+        currencies:
+            - USD
+        tree: master
+        color: white
