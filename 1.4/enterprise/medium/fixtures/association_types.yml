@@ -1,0 +1,25 @@
+associations:
+    VENIAM:
+        labels:
+            fr_FR: hic
+            en_US: consequatur
+            ru_RU: nam
+            it_IT: incidunt
+    SIT:
+        labels:
+            fr_FR: autem
+            en_US: saepe
+            ru_RU: occaecati
+            it_IT: molestiae
+    REPELLENDUS:
+        labels:
+            fr_FR: quam
+            en_US: sequi
+            ru_RU: eum
+            it_IT: dolore
+    MOLESTIAE:
+        labels:
+            fr_FR: in
+            en_US: ea
+            ru_RU: deserunt
+            it_IT: provident

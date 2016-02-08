@@ -1,0 +1,106 @@
+attribute_groups:
+    attr_gr_0:
+        sortOrder: 6
+        labels:
+            fr_FR: 'Sit aspernatur.'
+            en_US: 'Tempora cupiditate facilis.'
+            ru_RU: 'Ullam enim dignissimos.'
+            it_IT: 'Sint officiis.'
+    attr_gr_1:
+        sortOrder: 5
+        labels:
+            fr_FR: 'Hic quidem.'
+            en_US: 'Quo et aut.'
+            ru_RU: 'Nisi qui aut.'
+            it_IT: 'Qui molestias natus.'
+    attr_gr_2:
+        sortOrder: 1
+        labels:
+            fr_FR: 'Aliquam voluptatem aut.'
+            en_US: 'In fugit et.'
+            ru_RU: 'Repellendus vel.'
+            it_IT: 'Esse eum voluptatem.'
+    attr_gr_3:
+        sortOrder: 7
+        labels:
+            fr_FR: 'Esse perferendis quae.'
+            en_US: 'Sed esse.'
+            ru_RU: 'Expedita iste quod.'
+            it_IT: 'Repellendus voluptatem aperiam.'
+    attr_gr_4:
+        sortOrder: 9
+        labels:
+            fr_FR: 'Dolorum autem molestias.'
+            en_US: 'Mollitia est totam.'
+            ru_RU: 'Consequatur quisquam.'
+            it_IT: 'Porro eum.'
+    attr_gr_5:
+        sortOrder: 3
+        labels:
+            fr_FR: 'At voluptatem.'
+            en_US: 'Iusto nemo.'
+            ru_RU: 'Hic vel.'
+            it_IT: 'Porro exercitationem.'
+    attr_gr_6:
+        sortOrder: 2
+        labels:
+            fr_FR: 'Id id laborum.'
+            en_US: 'Non iste.'
+            ru_RU: 'Aspernatur aspernatur.'
+            it_IT: 'Deleniti suscipit omnis.'
+    attr_gr_7:
+        sortOrder: 10
+        labels:
+            fr_FR: 'Doloribus voluptas.'
+            en_US: 'Voluptatem laborum.'
+            ru_RU: 'Ipsum tempore quas.'
+            it_IT: 'Quod rerum quae.'
+    attr_gr_8:
+        sortOrder: 8
+        labels:
+            fr_FR: 'Aut vero.'
+            en_US: 'Qui enim suscipit.'
+            ru_RU: 'Quod fuga ex.'
+            it_IT: 'Fuga placeat nostrum.'
+    attr_gr_9:
+        sortOrder: 4
+        labels:
+            fr_FR: 'Aut pariatur fuga.'
+            en_US: 'Quisquam quis consectetur.'
+            ru_RU: 'Impedit debitis.'
+            it_IT: 'Est ad.'
+    attr_gr_10:
+        sortOrder: 3
+        labels:
+            fr_FR: 'Recusandae et dolorum.'
+            en_US: 'Et cupiditate.'
+            ru_RU: 'Quod molestiae.'
+            it_IT: 'Vero distinctio sed.'
+    attr_gr_11:
+        sortOrder: 2
+        labels:
+            fr_FR: 'Hic dolores.'
+            en_US: 'Laborum quis ipsam.'
+            ru_RU: 'Aut qui.'
+            it_IT: 'Quia in voluptatem.'
+    attr_gr_12:
+        sortOrder: 1
+        labels:
+            fr_FR: 'Ea mollitia ducimus.'
+            en_US: 'Facere nemo.'
+            ru_RU: 'Aut id.'
+            it_IT: 'Sit nisi.'
+    attr_gr_13:
+        sortOrder: 4
+        labels:
+            fr_FR: 'Iure sunt.'
+            en_US: 'Ut voluptate suscipit.'
+            ru_RU: 'Rem ut.'
+            it_IT: 'Qui maiores rem.'
+    attr_gr_14:
+        sortOrder: 2
+        labels:
+            fr_FR: 'Qui incidunt.'
+            en_US: 'Dolorem et recusandae.'
+            ru_RU: 'Incidunt harum.'
+            it_IT: 'Non tenetur non.'

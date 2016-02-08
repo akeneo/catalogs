@@ -1,0 +1,13 @@
+locale_accesses:
+    fr_FR:
+        viewProducts: ['IT support', Manager]
+        editProducts: ['IT support', Manager]
+    en_US:
+        viewProducts: ['IT support', Manager]
+        editProducts: ['IT support', Manager]
+    ru_RU:
+        viewProducts: ['IT support', Manager]
+        editProducts: ['IT support', Manager]
+    it_IT:
+        viewProducts: ['IT support', Manager]
+        editProducts: ['IT support', Manager]
