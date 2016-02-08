@@ -1,0 +1,4 @@
+currencies:
+    - USD
+    - EUR
+removed_currencies: {  }

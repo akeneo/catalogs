@@ -1,0 +1,426 @@
+data_generator:
+    output_dir: /tmp/fixtures
+    entities:
+        associations:
+            count: 4
+        channels:
+            ecommerce:
+                code: ecommerce
+                label: Ecommerce
+                locales:
+                    - fr_FR
+                    - en_US
+                    - ru_RU
+                    - it_IT
+                currencies:
+                    - USD
+                    - EUR
+                color: blue
+            print:
+                code: print
+                label: Print
+                locales:
+                    - fr_FR
+                    - en_US
+                    - ru_RU
+                    - it_IT
+                currencies:
+                    - USD
+                    - EUR
+                color: white
+        attribute_groups:
+            count: 15
+        attributes:
+            count: 400
+            identifier_attribute: sku
+            localizable_probability: 5
+            scopable_probability: 2
+            localizable_and_scopable_probability: 1
+            force_attributes:
+                - name = pim_catalog_text
+        attribute_options:
+            count_per_attribute: 10
+        families:
+            count: 50
+            attributes_count: 100
+            identifier_attribute: sku
+            label_attribute: name
+            requirements_count: 5
+        categories:
+            delimiter: ;
+            count: 2000
+            levels: 3
+        jobs:
+          csv_product_import:
+              connector: Akeneo CSV Connector
+              alias:     csv_product_import
+              label:     Demo product import
+              type:      import
+              configuration:
+                  filePath:           /tmp/product.csv
+                  uploadAllowed:      true
+                  delimiter:          ;
+                  enclosure:          '"'
+                  escape:             '\'
+                  enabled:            true
+                  categoriesColumn:   categories
+                  familyColumn:       family
+                  groupsColumn:       groups
+                  realTimeVersioning: true
+          csv_product_export:
+              connector: Akeneo CSV Connector
+              alias:     csv_product_export
+              label:     Demo product export
+              type:      export
+              configuration:
+                  channel:    mobile
+                  delimiter:  ;
+                  enclosure:  '"'
+                  withHeader: true
+                  filePath:   /tmp/product.csv
+          csv_published_product_export:
+              connector: Akeneo CSV Connector
+              alias:     csv_published_product_export
+              label:     Demo published product export
+              type:      export
+              configuration:
+                  channel:    mobile
+                  delimiter:  ;
+                  enclosure:  '"'
+                  withHeader: true
+                  filePath:   /tmp/published-product.csv
+          csv_category_import:
+              connector: Akeneo CSV Connector
+              alias:     csv_category_import
+              label:     Demo category import
+              type:      import
+              configuration:
+                  filePath:            /tmp/category.csv
+                  uploadAllowed:       true
+                  delimiter:           ;
+                  enclosure:           '"'
+                  escape:              '\'
+                  circularRefsChecked: true
+          csv_category_export:
+              connector: Akeneo CSV Connector
+              alias:     csv_category_export
+              label:     Demo category export
+              type:      export
+              configuration:
+                  delimiter:  ;
+                  enclosure:  '"'
+                  withHeader: true
+                  filePath:   /tmp/category.csv
+          csv_association_type_import:
+              connector: Akeneo CSV Connector
+              alias:     csv_association_type_import
+              label:     Demo association type import
+              type:      import
+              configuration:
+                  filePath:      /tmp/association_type.csv
+                  uploadAllowed: true
+                  delimiter:     ;
+                  enclosure:     '"'
+                  escape:        '\'
+          csv_association_type_export:
+              connector: Akeneo CSV Connector
+              alias:     csv_association_type_export
+              label:     Demo association type export
+              type:      export
+              configuration:
+                  delimiter:  ;
+                  enclosure:  '"'
+                  withHeader: true
+                  filePath:   /tmp/association_type.csv
+          csv_group_import:
+              connector: Akeneo CSV Connector
+              alias:     csv_group_import
+              label:     Demo group import
+              type:      import
+              configuration:
+                  filePath:      /tmp/group.csv
+                  uploadAllowed: true
+                  delimiter:     ;
+                  enclosure:     '"'
+                  escape:        '\'
+          csv_variant_group_import:
+              connector: Akeneo CSV Connector
+              alias:     csv_variant_group_import
+              label:     Demo variant group import
+              type:      import
+              configuration:
+                  filePath:      /tmp/variant_group.csv
+                  uploadAllowed: true
+                  delimiter:     ;
+                  enclosure:     '"'
+                  escape:        '\'
+          csv_group_export:
+              connector: Akeneo CSV Connector
+              alias:     csv_group_export
+              label:     Demo group export
+              type:      export
+              configuration:
+                  delimiter:  ;
+                  enclosure:  '"'
+                  withHeader: true
+                  filePath:   /tmp/group.csv
+          csv_variant_group_export:
+              connector: Akeneo CSV Connector
+              alias:     csv_variant_group_export
+              label:     Demo variant group export
+              type:      export
+              configuration:
+                  delimiter:  ;
+                  enclosure:  '"'
+                  withHeader: true
+                  filePath:   /tmp/variant_group.csv
+          csv_attribute_import:
+              connector: Akeneo CSV Connector
+              alias:     csv_attribute_import
+              label:     Demo attribute import
+              type:      import
+              configuration:
+                  filePath:      /tmp/attribute.csv
+                  uploadAllowed: true
+                  delimiter:     ;
+                  enclosure:     '"'
+                  escape:        '\'
+          csv_attribute_export:
+              connector: Akeneo CSV Connector
+              alias:     csv_attribute_export
+              label:     Demo attribute export
+              type:      export
+              configuration:
+                  delimiter:  ;
+                  enclosure:  '"'
+                  withHeader: true
+                  filePath:   /tmp/attribute.csv
+          csv_option_import:
+              connector: Akeneo CSV Connector
+              alias:     csv_attribute_option_import
+              label:     Demo option import
+              type:      import
+              configuration:
+                  filePath:      /tmp/option.csv
+                  uploadAllowed: true
+                  delimiter:     ;
+                  enclosure:     '"'
+                  escape:        '\'
+          csv_option_export:
+              connector: Akeneo CSV Connector
+              alias:     csv_attribute_option_export
+              label:     Demo option export
+              type:      export
+              configuration:
+                  delimiter:  ;
+                  enclosure:  '"'
+                  withHeader: true
+                  filePath:   /tmp/option.csv
+          yml_rule_import:
+              connector: Akeneo Rule Engine Connector
+              alias:     yml_rule_import
+              label:     Demo rules import
+              type:      import
+              configuration:
+                  filePath:      /tmp/rules.yml
+                  uploadAllowed: true
+                  multiple:      false
+          yml_rule_export:
+              connector: Akeneo Rule Engine Connector
+              alias:     yml_rule_export
+              label:     Demo rules export
+              type:      export
+              configuration:
+                  filePath: /tmp/rules.yml
+                  header:   rules
+          csv_product_proposal_import:
+              connector: Akeneo CSV Connector
+              alias:     csv_product_proposal_import
+              label:     Demo product draft import
+              type:      import
+              configuration:
+                  filePath:           /tmp/product_draft.csv
+                  uploadAllowed:      true
+                  multiple:           false
+                  delimiter:          ;
+                  enclosure:          '"'
+                  escape:             '\'
+                  enabled:            true
+          update_product_value:
+              connector: Akeneo Mass Edit Connector
+              alias:     update_product_value
+              label:     Mass update products
+              type:      mass_edit
+          add_product_value:
+              connector: Akeneo Mass Edit Connector
+              alias:     add_product_value
+              label:     Mass add products values
+              type:      mass_edit
+          add_product_value_with_permission:
+              connector: Akeneo Mass Edit Connector
+              alias:     add_product_value_with_permission
+              label:     Mass add products values with permission check
+              type:      mass_edit
+          update_product_value_with_permission:
+              connector: Akeneo Mass Edit Connector
+              alias:     update_product_value_with_permission
+              label:     Mass update products values with permission check
+              type:      mass_edit
+          publish_product:
+              connector: Akeneo Mass Edit Connector
+              alias:     publish_product
+              label:     Mass publish products
+              type:      mass_edit
+          unpublish_product:
+              connector: Akeneo Mass Edit Connector
+              alias:     unpublish_product
+              label:     Mass unpublish products
+              type:      mass_edit
+          edit_common_attributes:
+              connector: Akeneo Mass Edit Connector
+              alias:     edit_common_attributes
+              label:     Mass edit common product attributes
+              type:      mass_edit
+          edit_common_attributes_with_permission:
+              connector: Akeneo Mass Edit Connector
+              alias:     edit_common_attributes_with_permission
+              label:     Mass edit common product attributes
+              type:      mass_edit
+          add_to_variant_group:
+              connector: Akeneo Mass Edit Connector
+              alias:     add_to_variant_group
+              label:     Mass add products to variant group
+              type:      mass_edit
+          set_attribute_requirements:
+              connector: Akeneo Mass Edit Connector
+              alias:     set_attribute_requirements
+              label:     Set family attribute requirements
+              type:      mass_edit
+          csv_product_quick_export:
+              connector: Akeneo Mass Edit Connector
+              alias: csv_product_quick_export
+              label: CSV product quick export
+              type: quick_export
+              configuration:
+                  delimiter:  ;
+                  enclosure:  '"'
+                  withHeader: true
+                  filePath:   /tmp/products_export_%locale%_%scope%_%datetime%.csv
+          csv_published_product_quick_export:
+              connector: Akeneo Mass Edit Connector
+              alias: csv_published_product_quick_export
+              label: CSV published product quick export
+              type: quick_export
+              configuration:
+                  delimiter:  ;
+                  enclosure:  '"'
+                  withHeader: true
+                  filePath:   /tmp/published_products_export_%locale%_%scope%_%datetime%.csv
+          approve_product_draft:
+              connector: Akeneo CSV Connector
+              alias:     approve_product_draft
+              label:     Mass approve product drafts
+              type:      mass_edit
+          refuse_product_draft:
+              connector: Akeneo CSV Connector
+              alias:     refuse_product_draft
+              label:     Mass reject product drafts
+              type:      mass_edit
+          csv_asset_import:
+              connector: Akeneo Product Asset Connector
+              alias:     csv_asset_import
+              label:     Demo asset import
+              type:      import
+              configuration:
+                  filePath:      /tmp/assets.csv
+                  uploadAllowed: true
+                  delimiter:     ;
+                  enclosure:     '"'
+                  escape:        '\'
+          csv_asset_category_export:
+              connector: Akeneo Product Asset Connector
+              alias:     csv_asset_category_export
+              label:     Demo asset category export
+              type:      export
+              configuration:
+                  delimiter:  ;
+                  enclosure:  '"'
+                  withHeader: true
+                  filePath:   /tmp/asset_category.csv
+          csv_asset_category_import:
+              connector: Akeneo Product Asset Connector
+              alias:     csv_asset_category_import
+              label:     Demo asset category import
+              type:      import
+              configuration:
+                  filePath:      /tmp/asset_categories.csv
+                  uploadAllowed: true
+                  delimiter:     ;
+                  enclosure:     '"'
+                  escape:        '\'
+          csv_asset_export:
+              connector: Akeneo Product Asset Connector
+              alias:     csv_asset_export
+              label:     Demo asset export
+              type:      export
+              configuration:
+                  delimiter:  ;
+                  enclosure:  '"'
+                  withHeader: true
+                  filePath:   /tmp/asset.csv
+          csv_asset_variation_export:
+              connector: Akeneo Product Asset Connector
+              alias:     csv_asset_variation_export
+              label:     Demo asset variation export
+              type:      export
+              configuration:
+                  delimiter:  ;
+                  enclosure:  '"'
+                  withHeader: true
+                  filePath:   /tmp/asset_variation.csv
+          apply_assets_mass_upload:
+              connector: Akeneo Product Asset Connector
+              alias:     apply_assets_mass_upload
+              label:     Process mass uploaded assets
+              type:      mass_upload
+          yml_asset_channel_configuration_import:
+              connector: Akeneo Product Asset Connector
+              alias:     yml_asset_channel_configuration_import
+              label:     Demo asset channel configuration import
+              type:      import
+              configuration:
+                  uploadAllowed: true
+                  filePath:      /tmp/asset_channel_configurations.yml
+          yml_asset_channel_configuration_export:
+              connector: Akeneo Product Asset Connector
+              alias:     yml_asset_channel_configuration_export
+              label:     Demo asset channel configuration export
+              type:      export
+              configuration:
+                  filePath:      /tmp/asset_channel_configurations.yml
+                  uploadAllowed: true
+                  multiple:      false
+                  header:        asset_channel_configurations
+        user_groups:
+            it_support:
+                name: IT support
+            manager:
+                name: Manager
+        user_roles:
+            ROLE_ADMINISTRATOR:
+                label: Administrator
+        users:
+            -   username: admin
+                password: admin
+                email: admin@example.com
+                firstname: Peter
+                lastname: Doe
+                roles: [ ROLE_ADMINISTRATOR ]
+                groups: [ IT support ]
+                enable: true
+        asset_categories: ~
+        asset_category_accesses: ~
+        attribute_groups_accesses: ~
+        job_profiles_accesses: ~
+        locales_accesses: ~
+        product_category_accesses: ~
