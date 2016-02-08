@@ -1,0 +1,33 @@
+attribute_groups:
+    attr_gr_0:
+        sortOrder: 10
+        labels:
+            en_US: 'Praesentium autem nemo.'
+    attr_gr_1:
+        sortOrder: 1
+        labels:
+            en_US: 'Fugit blanditiis.'
+    attr_gr_2:
+        sortOrder: 5
+        labels:
+            en_US: 'Porro repellendus possimus.'
+    attr_gr_3:
+        sortOrder: 10
+        labels:
+            en_US: 'Ullam sapiente aperiam.'
+    attr_gr_4:
+        sortOrder: 9
+        labels:
+            en_US: 'Magnam rerum.'
+    attr_gr_5:
+        sortOrder: 2
+        labels:
+            en_US: 'Consectetur deleniti.'
+    attr_gr_6:
+        sortOrder: 4
+        labels:
+            en_US: 'Eligendi quos.'
+    attr_gr_7:
+        sortOrder: 7
+        labels:
+            en_US: 'Reiciendis totam.'

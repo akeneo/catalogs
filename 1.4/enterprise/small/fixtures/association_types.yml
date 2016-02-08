@@ -1,0 +1,13 @@
+associations:
+    ENIM:
+        labels:
+            en_US: voluptas
+    AUTEM:
+        labels:
+            en_US: enim
+    ACCUSAMUS:
+        labels:
+            en_US: dolor
+    SAPIENTE:
+        labels:
+            en_US: impedit
