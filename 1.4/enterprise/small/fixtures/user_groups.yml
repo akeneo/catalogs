@@ -1,0 +1,7 @@
+user_groups:
+    -
+        name: 'IT support'
+    -
+        name: Manager
+    -
+        name: all
