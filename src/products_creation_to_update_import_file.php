@@ -56,11 +56,11 @@ $outputFile = sprintf(
     $inputFileInfo['extension']
 );
 
-$reader = Box\Spout\Reader\ReaderFactory::create(Box\Spout\Common\Type::CSV);
+$reader = \Box\Spout\Reader\ReaderFactory::create(\Box\Spout\Common\Type::CSV);
 $reader->setFieldDelimiter(';');
 $reader->open($inputFile);
 
-$writer = Box\Spout\Writer\WriterFactory::create(Box\Spout\Common\Type::CSV);
+$writer = new \Akeneo\Catalog\CsvWriterWithoutBOM();
 $writer->setFieldDelimiter(';');
 $writer->openToFile($outputFile);
 
@@ -86,3 +86,4 @@ $reader->close();
 $writer->close();
 
 echo sprintf('Output file "%s" written. Done!', $outputFile);
+
