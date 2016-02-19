@@ -2,11 +2,21 @@
 
 ## Upgrade catalogs notes
 
-### From 1.4 to 1.5
+## Community
+
+#### From 1.4 to 1.5
 - add `ui_locale` to `users.yml`
 
-### From 1.3 to 1.4
+#### From 1.3 to 1.4
 - remove `owner` to `users.yml`
+
+## Enterprise
+
+Same as community + the following changes:
+
+### From 1.4 to 1.5
+- add `proposals_to_review_notification: true` to `users.yml`
+- add `proposals_state_notifications: true` to `users.yml`
 
 ## How to generate a catalog?
 
