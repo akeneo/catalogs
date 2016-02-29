@@ -1,403 +1,403 @@
-code;type;group;label-fr_FR;label-en_US;label-ru_RU;label-it_IT;localizable;scopable;metric_family;default_metric_unit;allowed_extensions
-sku;pim_catalog_identifier;attr_gr_14;;;;;;;;;
-name;pim_catalog_text;attr_gr_6;;;;;;;;;
-attr_0;pim_catalog_metric;attr_gr_12;"Assumenda dolores.";"Vel voluptatem repellat.";"Officiis reiciendis.";"Deleniti beatae rem.";0;0;Length;METER;
-attr_1;pim_catalog_multiselect;attr_gr_13;"Ipsam id.";"Non vel labore.";"Nam qui atque.";"Amet rerum.";0;0;;;
-attr_2;pim_catalog_date;attr_gr_7;"Inventore qui.";"Eveniet omnis.";"Commodi ipsa enim.";"Dignissimos optio.";0;0;;;
-attr_3;pim_catalog_metric;attr_gr_13;"Illo magnam eveniet.";"Consequatur veniam voluptas.";"Ut ea perspiciatis.";"Est voluptatem quia.";0;0;Length;METER;
-attr_4;pim_catalog_number;attr_gr_8;"Adipisci aspernatur libero.";"Odit explicabo.";"Voluptates laudantium.";"Impedit qui ut.";0;0;;;
-attr_5;pim_catalog_textarea;attr_gr_8;"Explicabo suscipit.";"Quis iure.";"Aut harum.";"Et qui similique.";0;0;;;
-attr_6;pim_catalog_price_collection;attr_gr_4;"Omnis distinctio.";"Aut ratione.";"Dolorem soluta.";"Suscipit quod eius.";0;0;;;
-attr_7;pim_catalog_number;attr_gr_1;"Molestiae veniam.";"Aliquid quia.";"Nisi quia non.";"Quod voluptatum.";0;0;;;
-attr_8;pim_catalog_price_collection;attr_gr_4;"Nostrum suscipit quo.";"Quo est eum.";"Atque esse facilis.";"Sed et.";0;0;;;
-attr_9;pim_catalog_metric;attr_gr_8;"Illum tenetur.";"Saepe doloremque.";"Dolore modi et.";"Facilis temporibus mollitia.";0;0;Length;METER;
-attr_10;pim_catalog_number;attr_gr_11;"Similique eos.";"Nemo esse dicta.";"Qui sunt.";"Ex placeat maiores.";0;0;;;
-attr_11;pim_catalog_metric;attr_gr_3;"Et est quaerat.";"Iure libero velit.";"Aut tenetur.";"Ut delectus.";0;0;Length;METER;
-attr_12;pim_catalog_boolean;attr_gr_11;"Rerum quae iure.";"Nemo qui.";"Incidunt sed ut.";"Praesentium architecto ut.";0;0;;;
-attr_13;pim_catalog_number;attr_gr_3;"Alias iste eos.";"Debitis expedita.";"Expedita rem.";"Inventore consequuntur est.";0;0;;;
-attr_14;pim_catalog_date;attr_gr_8;"Sed ex.";"Perspiciatis molestias.";"Eum unde.";"Minus ipsum.";0;0;;;
-attr_15;pim_catalog_number;attr_gr_11;"Ab aut.";"Vel quae dolorem.";"Ut quaerat ut.";"Reprehenderit velit voluptas.";0;0;;;
-attr_16;pim_catalog_price_collection;attr_gr_14;"Magni distinctio dolores.";"Ut nobis.";"Sed accusamus aut.";"Laborum voluptatem.";0;0;;;
-attr_17;pim_catalog_text;attr_gr_11;"Non aliquam.";"Enim in.";"Non aut.";"Rerum nihil eaque.";0;0;;;
-attr_18;pim_catalog_date;attr_gr_9;"Qui at.";"Libero nihil.";"Aut itaque.";"Quod facere.";0;0;;;
-attr_19;pim_catalog_metric;attr_gr_11;"Omnis in.";"Odit quia quaerat.";"Et iusto.";"Est molestiae.";0;0;Length;METER;
-attr_20;pim_catalog_image;attr_gr_1;"Quia et.";"Vero quis quas.";"Dicta ut.";"Aut est maiores.";0;0;;;jpg,png
-attr_21;pim_catalog_textarea;attr_gr_6;"Reprehenderit aut.";"Voluptatem commodi cumque.";"Eum quam.";"Est eveniet.";0;0;;;
-attr_22;pim_catalog_date;attr_gr_0;"Quis qui id.";"Quae accusantium.";"Beatae non.";"Eum et dolor.";0;0;;;
-attr_23;pim_catalog_textarea;attr_gr_5;"Veniam sequi.";"Consequatur a.";"Et officiis.";"Aliquid laudantium et.";0;0;;;
-attr_24;pim_catalog_date;attr_gr_3;"Nostrum illo itaque.";"Repudiandae soluta.";"Qui in.";"Voluptatum quo enim.";0;0;;;
-attr_25;pim_catalog_price_collection;attr_gr_0;"Quas deserunt excepturi.";"Sed soluta labore.";"Non sit exercitationem.";"Hic sit.";0;0;;;
-attr_26;pim_catalog_date;attr_gr_14;"Nihil quis earum.";"Et laboriosam rem.";"Velit eos dolore.";"Consectetur nihil cupiditate.";0;0;;;
-attr_27;pim_catalog_price_collection;attr_gr_5;"In officia.";"Culpa dolores voluptatem.";"Animi consectetur ullam.";"Repellendus omnis.";0;0;;;
-attr_28;pim_catalog_image;attr_gr_4;"Placeat quo.";"Aliquam est quia.";"Similique voluptas.";"Est autem id.";0;0;;;jpg,pdf
-attr_29;pim_catalog_boolean;attr_gr_6;"Quis qui.";"Blanditiis omnis ea.";"Suscipit architecto.";"Quos recusandae.";0;0;;;
-attr_30;pim_catalog_multiselect;attr_gr_1;"Praesentium harum autem.";"Qui magnam sed.";"Quaerat non nisi.";"Qui aliquam sed.";0;0;;;
-attr_31;pim_catalog_boolean;attr_gr_10;"Dignissimos nam est.";"Quod et.";"Veritatis laboriosam.";"Saepe atque eius.";0;0;;;
-attr_32;pim_catalog_text;attr_gr_5;"Cum commodi repellat.";"Assumenda praesentium.";"Minima et.";"Cupiditate iusto ipsam.";0;0;;;
-attr_33;pim_catalog_metric;attr_gr_2;"Est qui doloremque.";"Et repudiandae.";"Qui consequatur.";"Ratione ut.";0;0;Length;METER;
-attr_34;pim_catalog_date;attr_gr_4;"Occaecati qui.";"Unde occaecati ratione.";"Optio temporibus harum.";"Optio quidem dolore.";0;0;;;
-attr_35;pim_catalog_simpleselect;attr_gr_12;"Et inventore quasi.";"Incidunt distinctio sint.";"Illum harum.";"Non voluptatem consequatur.";0;0;;;
-attr_36;pim_catalog_multiselect;attr_gr_6;"Omnis maxime.";"Odio commodi distinctio.";"Unde harum omnis.";"Sit et dolor.";0;0;;;
-attr_37;pim_catalog_multiselect;attr_gr_12;"Explicabo culpa nihil.";"Maiores aut.";"Tenetur dolore est.";"Sunt ex voluptatem.";0;0;;;
-attr_38;pim_catalog_textarea;attr_gr_6;"Veniam reprehenderit qui.";"Quo praesentium.";"Corporis alias magni.";"Libero rerum.";0;0;;;
-attr_39;pim_catalog_simpleselect;attr_gr_12;"Quidem vel eum.";"Et consectetur.";"Dolor recusandae deleniti.";"Aut magni.";0;0;;;
-attr_40;pim_catalog_textarea;attr_gr_14;"Aut voluptatem ut.";"Incidunt debitis fugiat.";"Repellat non.";"Magni praesentium laudantium.";0;0;;;
-attr_41;pim_catalog_file;attr_gr_14;"Rem deserunt voluptatem.";"Voluptatibus dignissimos facere.";"Nemo quaerat consequatur.";"Blanditiis unde tenetur.";0;0;;;jpg,png
-attr_42;pim_catalog_price_collection;attr_gr_13;"Repudiandae quisquam nisi.";"Aut ab.";"Et ipsum sed.";"Occaecati explicabo placeat.";0;0;;;
-attr_43;pim_catalog_text;attr_gr_6;"Ut quod omnis.";"Repudiandae laboriosam est.";"Optio quisquam.";"Beatae et amet.";0;0;;;
-attr_44;pim_catalog_file;attr_gr_14;"Omnis mollitia.";"Rerum voluptatibus nobis.";"Similique et.";"Atque nobis.";0;0;;;pdf,jpg
-attr_45;pim_catalog_multiselect;attr_gr_7;"Possimus et.";"Et molestias eveniet.";"Alias repellat.";"Aut corrupti vel.";0;0;;;
-attr_46;pim_catalog_number;attr_gr_3;"Labore qui.";"Sed sed.";"Soluta aut.";"Eius repellendus possimus.";0;0;;;
-attr_47;pim_catalog_textarea;attr_gr_3;"Et vel sit.";"Maiores nam.";"Et consequuntur veritatis.";"Illo ex quo.";0;0;;;
-attr_48;pim_catalog_date;attr_gr_12;"Sit iste.";"Maiores quo possimus.";"Laudantium qui.";"Natus nihil.";0;0;;;
-attr_49;pim_catalog_multiselect;attr_gr_2;"Numquam nulla.";"Fugiat quae rerum.";"Repellat sed.";"Distinctio soluta.";0;0;;;
-attr_50;pim_catalog_metric;attr_gr_9;"Sit perferendis.";"Quo qui quis.";"Non nulla.";"Accusantium doloremque id.";0;0;Length;METER;
-attr_51;pim_catalog_number;attr_gr_5;"Sequi voluptatem cumque.";"Dolore hic omnis.";"Quidem voluptas.";"Odio et eveniet.";0;0;;;
-attr_52;pim_catalog_image;attr_gr_2;"Est esse.";"Cum iste.";"Molestiae nam.";"Itaque at suscipit.";0;0;;;jpg,png
-attr_53;pim_catalog_file;attr_gr_11;"Sit in qui.";"Voluptatem cupiditate quisquam.";"Consequatur optio.";"Numquam nemo molestiae.";0;0;;;jpg,pdf
-attr_54;pim_catalog_date;attr_gr_3;"Nesciunt asperiores.";"Voluptas culpa architecto.";"Error veritatis cupiditate.";"Repellat ad.";0;0;;;
-attr_55;pim_catalog_image;attr_gr_3;"Consequatur est quidem.";"Nemo ut eos.";"In et.";"Dicta in.";0;0;;;png,pdf
-attr_56;pim_catalog_multiselect;attr_gr_2;"Ut sequi modi.";"Voluptatem blanditiis.";"Ut est id.";"Id eaque ea.";0;0;;;
-attr_57;pim_catalog_text;attr_gr_2;"Eaque beatae.";"Praesentium vero.";"Id recusandae.";"Nesciunt pariatur id.";0;0;;;
-attr_58;pim_catalog_textarea;attr_gr_10;"Non et.";"Dicta quae earum.";"Sed itaque molestiae.";"Rerum molestiae dolor.";1;1;;;
-attr_59;pim_catalog_multiselect;attr_gr_4;"Vitae quibusdam dolorem.";"Aut dicta autem.";"Eum distinctio.";"Consequatur ab.";0;0;;;
-attr_60;pim_catalog_simpleselect;attr_gr_14;"Sed blanditiis laboriosam.";"Rerum nobis.";"Doloremque nulla.";"Illum dolorem.";0;0;;;
-attr_61;pim_catalog_text;attr_gr_5;"Velit quis libero.";"Eveniet corrupti aperiam.";"Dolorem aperiam.";"Et aut.";0;0;;;
-attr_62;pim_catalog_boolean;attr_gr_5;"Delectus quis.";"Ut ipsa.";"Non molestias.";"Officia ut.";0;0;;;
-attr_63;pim_catalog_number;attr_gr_10;"Sint voluptatum aperiam.";"Impedit laboriosam est.";"Doloremque cum.";"Quasi sed.";0;0;;;
-attr_64;pim_catalog_simpleselect;attr_gr_12;"Et nisi rerum.";"Provident quia.";"Non aliquid.";"Dolores asperiores beatae.";0;0;;;
-attr_65;pim_catalog_image;attr_gr_0;"Et fugiat repellat.";"Qui sint.";"Debitis est aut.";"Ut voluptatem id.";0;0;;;jpg,pdf
-attr_66;pim_catalog_price_collection;attr_gr_5;"Amet repellat repellendus.";"Consequatur est voluptas.";"Cumque quidem.";"Fugiat ab.";0;0;;;
-attr_67;pim_catalog_metric;attr_gr_14;"Enim et.";"Dicta voluptas unde.";"Recusandae ut.";"Laborum dolores.";0;0;Length;METER;
-attr_68;pim_catalog_file;attr_gr_6;"Sed error odit.";"Excepturi qui et.";"Quia sequi.";"Nemo odit.";0;0;;;png,pdf
-attr_69;pim_catalog_simpleselect;attr_gr_2;"Et aliquid et.";"Fugiat distinctio doloremque.";"Dolorum quidem tempore.";"Eum maxime nihil.";0;0;;;
-attr_70;pim_catalog_simpleselect;attr_gr_7;"Eaque nulla nobis.";"Dolorum labore hic.";"Ipsam facilis.";"Dignissimos voluptas.";0;0;;;
-attr_71;pim_catalog_price_collection;attr_gr_8;"Assumenda quisquam assumenda.";"Aut ut.";"At nisi et.";"Quam voluptates.";0;0;;;
-attr_72;pim_catalog_text;attr_gr_2;"Soluta aut sed.";"Maxime voluptatem.";"Numquam mollitia aut.";"Veritatis atque.";0;0;;;
-attr_73;pim_catalog_image;attr_gr_11;"Tempora esse neque.";"Vel numquam nihil.";"Reprehenderit eum nostrum.";"Neque ipsam.";1;0;;;pdf,jpg
-attr_74;pim_catalog_number;attr_gr_2;"Necessitatibus molestias tenetur.";"Non aspernatur.";"Est ex.";"Fugit accusantium.";0;0;;;
-attr_75;pim_catalog_textarea;attr_gr_8;"Rerum autem.";"Et libero ut.";"Excepturi porro dolore.";"Maiores et.";0;0;;;
-attr_76;pim_catalog_multiselect;attr_gr_4;"Voluptate est ducimus.";"Perspiciatis nam.";"Omnis rerum.";"Quas nihil.";0;0;;;
-attr_77;pim_catalog_file;attr_gr_5;"Et dolor culpa.";"Ad et.";"Quia voluptatem sit.";"Mollitia totam.";0;0;;;jpg,pdf
-attr_78;pim_catalog_date;attr_gr_5;"Distinctio repudiandae.";"Velit exercitationem.";"Autem blanditiis iste.";"Repellat vel.";1;1;;;
-attr_79;pim_catalog_file;attr_gr_13;"Tempore alias.";"Consequatur quis.";"Itaque quaerat non.";"Non molestias aspernatur.";0;0;;;pdf,png
-attr_80;pim_catalog_file;attr_gr_3;"A qui.";"Non sed quia.";"Consequatur repellat numquam.";"Cumque aut maiores.";0;0;;;jpg,pdf
-attr_81;pim_catalog_number;attr_gr_12;"Fuga enim.";"Non aliquam.";"Qui voluptas.";"Aspernatur doloremque exercitationem.";0;0;;;
-attr_82;pim_catalog_multiselect;attr_gr_12;"Facere incidunt.";"Dolores qui culpa.";"Sit rem id.";"Iure vero.";1;0;;;
-attr_83;pim_catalog_simpleselect;attr_gr_8;"Labore illo.";"Velit ipsa.";"Nihil ab.";"Dolorem alias.";0;0;;;
-attr_84;pim_catalog_simpleselect;attr_gr_9;"Voluptatem ut ab.";"Ratione dolore cum.";"Est quam.";"Iusto consequatur.";0;0;;;
-attr_85;pim_catalog_text;attr_gr_5;"Sint quo.";"Modi et.";"Et voluptas dolor.";"Quod qui.";0;0;;;
-attr_86;pim_catalog_number;attr_gr_12;"Repellendus recusandae sed.";"Natus cumque quos.";"Qui debitis laudantium.";"Itaque officia.";0;0;;;
-attr_87;pim_catalog_date;attr_gr_4;"Soluta eum.";"Ab aut quis.";"Non quod voluptates.";"Molestiae recusandae minima.";0;0;;;
-attr_88;pim_catalog_multiselect;attr_gr_8;"Corporis quasi distinctio.";"Et et rerum.";"Nobis eveniet.";"Delectus omnis.";0;0;;;
-attr_89;pim_catalog_multiselect;attr_gr_13;"Officiis aut.";"Ea ex.";"Et voluptates.";"Sed ipsum cum.";0;0;;;
-attr_90;pim_catalog_price_collection;attr_gr_9;"Vero voluptas voluptatem.";"Est pariatur exercitationem.";"Voluptas quidem.";"Facere rerum.";0;0;;;
-attr_91;pim_catalog_price_collection;attr_gr_2;"Ratione reprehenderit.";"Quidem corporis.";"Aliquam ex dolor.";"Unde quas esse.";0;0;;;
-attr_92;pim_catalog_boolean;attr_gr_1;"Odio sunt.";"Blanditiis facere.";"Atque nam est.";"Veritatis molestiae.";0;0;;;
-attr_93;pim_catalog_textarea;attr_gr_13;"Sint et.";"Consequuntur omnis et.";"Et quisquam qui.";"Dolor in voluptatum.";0;0;;;
-attr_94;pim_catalog_price_collection;attr_gr_7;"Voluptatem architecto dolore.";"Qui vel ea.";"Rem reiciendis voluptatum.";"Perspiciatis rerum.";0;0;;;
-attr_95;pim_catalog_boolean;attr_gr_0;"Consequatur voluptatem quam.";"Magnam natus autem.";"Labore numquam nesciunt.";"Aut facere ab.";0;0;;;
-attr_96;pim_catalog_metric;attr_gr_6;"Aut maiores.";"Eum ex modi.";"Numquam perferendis facere.";"Tempora quaerat consequatur.";0;0;Length;METER;
-attr_97;pim_catalog_multiselect;attr_gr_12;"Vero ut.";"Omnis ut.";"Nemo voluptas.";"Molestias nemo.";0;0;;;
-attr_98;pim_catalog_multiselect;attr_gr_4;"Et voluptatum.";"Deserunt a est.";"Eos alias.";"Sunt recusandae.";1;0;;;
-attr_99;pim_catalog_image;attr_gr_4;"Voluptas accusamus.";"Rerum velit ad.";"Possimus ut.";"Unde est.";0;0;;;png,pdf
-attr_100;pim_catalog_price_collection;attr_gr_5;"Perspiciatis distinctio.";"Veritatis voluptas.";"Ad facilis.";"Consequatur esse.";0;0;;;
-attr_101;pim_catalog_text;attr_gr_14;"Quam et.";"Dolor quo.";"Error maiores voluptatem.";"Nam voluptatum esse.";0;0;;;
-attr_102;pim_catalog_text;attr_gr_13;"Voluptates molestiae.";"Repellendus sequi beatae.";"Quo quod.";"Ullam neque.";0;0;;;
-attr_103;pim_catalog_textarea;attr_gr_10;"Fugit aspernatur.";"Earum qui et.";"Quibusdam quae aut.";"Quisquam architecto.";1;0;;;
-attr_104;pim_catalog_file;attr_gr_9;"Id sed.";"Eius illum.";"Sint veritatis rem.";"Rem iste.";0;0;;;jpg,pdf
-attr_105;pim_catalog_textarea;attr_gr_14;"Rem tenetur.";"Aut repellendus.";"Tempore aliquam.";"Eligendi aliquid.";0;0;;;
-attr_106;pim_catalog_boolean;attr_gr_3;"Veniam voluptatem porro.";"Quia ex.";"Ducimus ab sed.";"Voluptate nemo illo.";0;0;;;
-attr_107;pim_catalog_multiselect;attr_gr_0;"Doloribus qui.";"Praesentium ratione.";"Eos debitis.";"Voluptas magni voluptatibus.";0;0;;;
-attr_108;pim_catalog_file;attr_gr_3;"Est perferendis.";"Commodi nostrum.";"Dicta vitae corporis.";"Sapiente assumenda.";0;0;;;png,jpg
-attr_109;pim_catalog_metric;attr_gr_4;"Iusto velit.";"Qui commodi magni.";"Ea qui.";"Dolores expedita.";0;0;Length;METER;
-attr_110;pim_catalog_boolean;attr_gr_11;"Possimus sunt.";"Ut velit.";"Explicabo quibusdam.";"Hic molestiae optio.";0;0;;;
-attr_111;pim_catalog_image;attr_gr_6;"Quos ut.";"Accusantium quo.";"Placeat itaque fuga.";"Mollitia aut iusto.";0;0;;;jpg,pdf
-attr_112;pim_catalog_number;attr_gr_7;"Aperiam sequi.";"Recusandae accusamus.";"Quia reprehenderit.";"Aut ut.";0;0;;;
-attr_113;pim_catalog_file;attr_gr_10;"Beatae tenetur qui.";"Voluptatum ad sit.";"Ipsam placeat.";"Deserunt quos qui.";0;0;;;pdf,jpg
-attr_114;pim_catalog_file;attr_gr_10;"Natus qui.";"Ipsum possimus.";"Ex molestiae quae.";"Voluptas et facilis.";0;0;;;png,pdf
-attr_115;pim_catalog_textarea;attr_gr_3;"Delectus voluptatem sit.";"Dolores rerum.";"Nisi tempora.";"Ducimus inventore ad.";0;0;;;
-attr_116;pim_catalog_simpleselect;attr_gr_14;"Iure perspiciatis recusandae.";"Nulla temporibus repellat.";"Illum vitae aut.";"Velit ex ut.";0;0;;;
-attr_117;pim_catalog_price_collection;attr_gr_4;"Fugiat non.";"Voluptas labore eum.";"Quibusdam sit.";"Autem placeat.";0;0;;;
-attr_118;pim_catalog_multiselect;attr_gr_8;"Ducimus aut.";"Dolore eligendi sapiente.";"Quod aliquid.";"Unde ipsum deleniti.";0;0;;;
-attr_119;pim_catalog_date;attr_gr_14;"Ut nesciunt ipsum.";"Voluptas necessitatibus.";"Delectus voluptates.";"Molestiae accusantium ullam.";0;0;;;
-attr_120;pim_catalog_simpleselect;attr_gr_8;"Ducimus alias optio.";"Et amet.";"Totam maxime.";"Aut earum.";0;0;;;
-attr_121;pim_catalog_text;attr_gr_5;"Maiores vitae.";"Qui voluptates.";"Omnis voluptas.";"Voluptas eligendi.";0;0;;;
-attr_122;pim_catalog_boolean;attr_gr_0;"Consequuntur ipsum non.";"Itaque similique.";"Et totam vitae.";"Est ipsum dolor.";0;0;;;
-attr_123;pim_catalog_textarea;attr_gr_0;"Autem ut voluptatem.";"Excepturi eos.";"Voluptatem quo dolorum.";"Distinctio vel.";0;0;;;
-attr_124;pim_catalog_date;attr_gr_1;"Reiciendis velit.";"Qui deserunt.";"Nobis quidem nobis.";"In provident dolorum.";1;0;;;
-attr_125;pim_catalog_multiselect;attr_gr_3;"Libero doloribus.";"Nisi enim non.";"Repudiandae iusto.";"Amet et.";0;0;;;
-attr_126;pim_catalog_price_collection;attr_gr_0;"Hic consequatur ratione.";"Doloremque perferendis reprehenderit.";"Ratione similique.";"Sequi ipsam.";0;0;;;
-attr_127;pim_catalog_textarea;attr_gr_0;"Delectus consequuntur quasi.";"Repudiandae non ipsa.";"Sint iste.";"Ipsa odit cum.";0;0;;;
-attr_128;pim_catalog_price_collection;attr_gr_13;"Dolore non.";"Nobis qui voluptatem.";"Ad ipsum.";"Voluptas nobis dolorem.";0;0;;;
-attr_129;pim_catalog_image;attr_gr_7;"Dolores et.";"Optio sit.";"Est reprehenderit.";"Quidem autem impedit.";0;0;;;png,jpg
-attr_130;pim_catalog_metric;attr_gr_12;"Et quia.";"Minima voluptate alias.";"Consectetur voluptas.";"Id dolores veritatis.";0;0;Length;METER;
-attr_131;pim_catalog_textarea;attr_gr_10;"Assumenda alias.";"Explicabo recusandae et.";"Expedita et pariatur.";"Qui non.";0;0;;;
-attr_132;pim_catalog_number;attr_gr_2;"Nobis id.";"Quasi consectetur in.";"Quod est.";"Sint eaque fugit.";0;0;;;
-attr_133;pim_catalog_image;attr_gr_7;"Ut eligendi.";"Exercitationem iure.";"Est totam.";"Quisquam dignissimos.";0;0;;;pdf,jpg
-attr_134;pim_catalog_image;attr_gr_14;"Veniam quos inventore.";"Blanditiis modi ullam.";"Repellat tenetur fugit.";"Consequatur numquam recusandae.";0;0;;;png,pdf
-attr_135;pim_catalog_metric;attr_gr_11;"Iusto harum vero.";"Est rerum.";"Temporibus est officiis.";"Non cum natus.";0;0;Length;METER;
-attr_136;pim_catalog_multiselect;attr_gr_0;"Quasi sed voluptatem.";"Officiis molestiae.";"Et qui.";"Delectus dolorem.";0;0;;;
-attr_137;pim_catalog_multiselect;attr_gr_14;"Provident eos officia.";"Et vero.";"Et adipisci aut.";"Laboriosam repellendus.";0;0;;;
-attr_138;pim_catalog_simpleselect;attr_gr_11;"Incidunt eum.";"A rerum quae.";"Consequatur ut quia.";"Adipisci dolores.";1;0;;;
-attr_139;pim_catalog_multiselect;attr_gr_11;"Sint voluptate.";"Aliquid fugit et.";"Id quae veniam.";"Quasi ratione molestiae.";0;0;;;
-attr_140;pim_catalog_date;attr_gr_3;"Sit quia.";"Expedita suscipit voluptatem.";"Cumque id.";"Et quibusdam.";0;0;;;
-attr_141;pim_catalog_multiselect;attr_gr_12;"Soluta nam.";"Qui laboriosam libero.";"Molestiae fugit dolorem.";"Excepturi nobis.";0;0;;;
-attr_142;pim_catalog_simpleselect;attr_gr_4;"Voluptatibus quaerat praesentium.";"Est autem.";"Enim sed omnis.";"Fugiat qui.";0;0;;;
-attr_143;pim_catalog_price_collection;attr_gr_7;"Quis laborum.";"Rerum enim.";"Commodi ullam.";"Officiis dolor.";0;0;;;
-attr_144;pim_catalog_multiselect;attr_gr_8;"Porro magni.";"Libero magni.";"Sequi possimus cupiditate.";"Ab sint quos.";0;0;;;
-attr_145;pim_catalog_boolean;attr_gr_8;"Aut suscipit id.";"Quisquam alias eos.";"Consequatur culpa eos.";"Accusamus laboriosam.";0;0;;;
-attr_146;pim_catalog_textarea;attr_gr_14;"Alias ipsam est.";"Non nisi.";"Sit quis reiciendis.";"Temporibus expedita.";0;0;;;
-attr_147;pim_catalog_image;attr_gr_10;"Ad voluptatum.";"Consequatur neque deserunt.";"Minus autem.";"Iusto totam.";0;0;;;jpg,png
-attr_148;pim_catalog_simpleselect;attr_gr_2;"Ut ullam.";"Consectetur esse.";"Exercitationem itaque.";"Numquam porro.";0;0;;;
-attr_149;pim_catalog_number;attr_gr_3;"Illo voluptatem.";"Vero et.";"Sunt consectetur.";"Quis quae delectus.";0;0;;;
-attr_150;pim_catalog_text;attr_gr_4;"Id consequatur aperiam.";"Voluptatum nemo.";"Itaque voluptate consequatur.";"Eum non sed.";0;0;;;
-attr_151;pim_catalog_metric;attr_gr_0;"Suscipit impedit.";"Odit tempore ratione.";"Deleniti non rerum.";"Tempora non.";0;0;Length;METER;
-attr_152;pim_catalog_multiselect;attr_gr_2;"Eos fugiat explicabo.";"Rem tempore.";"Quidem quasi.";"Iure deserunt.";0;0;;;
-attr_153;pim_catalog_date;attr_gr_6;"Neque perspiciatis.";"Saepe molestiae.";"Ad quidem et.";"Eveniet placeat.";0;0;;;
-attr_154;pim_catalog_number;attr_gr_11;"Non earum.";"Veritatis vel.";"Laboriosam nam voluptas.";"Omnis magnam.";0;0;;;
-attr_155;pim_catalog_boolean;attr_gr_5;"Consectetur libero exercitationem.";"Numquam dolor veritatis.";"Sit aliquid provident.";"Distinctio sed.";0;0;;;
-attr_156;pim_catalog_file;attr_gr_5;"Assumenda cum recusandae.";"Sequi voluptas.";"Qui sit aut.";"Iusto ipsa sed.";0;0;;;jpg,png
-attr_157;pim_catalog_boolean;attr_gr_12;"Consequuntur ratione et.";"Sed quia tenetur.";"Ut autem.";"Facilis dolore aut.";0;0;;;
-attr_158;pim_catalog_date;attr_gr_14;"Nemo cumque.";"Maxime cupiditate.";"Ut quaerat.";"Ratione est velit.";0;0;;;
-attr_159;pim_catalog_boolean;attr_gr_2;"Sit repellendus dolorum.";"Enim facilis.";"Accusamus tenetur nobis.";"Amet quasi pariatur.";0;0;;;
-attr_160;pim_catalog_multiselect;attr_gr_12;"Nam temporibus nesciunt.";"Ex dolorum.";"Illum enim.";"Necessitatibus architecto.";0;0;;;
-attr_161;pim_catalog_file;attr_gr_1;"Quisquam qui enim.";"Quas hic.";"Quia non.";"Quasi adipisci expedita.";0;0;;;png,jpg
-attr_162;pim_catalog_date;attr_gr_12;"Non omnis.";"Temporibus id.";"Officiis eligendi.";"Corrupti unde.";0;0;;;
-attr_163;pim_catalog_image;attr_gr_14;"Delectus veniam itaque.";"In eos voluptatem.";"Consequatur odit.";"Fugiat sint repellendus.";1;0;;;png,jpg
-attr_164;pim_catalog_date;attr_gr_11;"Occaecati ut voluptatem.";"Provident aperiam.";"Impedit non vero.";"Et ullam ipsa.";0;0;;;
-attr_165;pim_catalog_date;attr_gr_2;"Quia laudantium sed.";"Aut nesciunt dignissimos.";"Et assumenda.";"Esse animi.";0;0;;;
-attr_166;pim_catalog_image;attr_gr_11;"Id quas eum.";"Ut et.";"Modi officia.";"Ea qui.";0;0;;;png,jpg
-attr_167;pim_catalog_boolean;attr_gr_1;"Quia quod.";"Quia distinctio sed.";"Aut qui.";"Ad nisi dolorem.";0;0;;;
-attr_168;pim_catalog_price_collection;attr_gr_4;"Et et.";"Qui quo reprehenderit.";"Magnam at eveniet.";"Alias autem omnis.";0;0;;;
-attr_169;pim_catalog_textarea;attr_gr_6;"Voluptatibus ut.";"Soluta aut eveniet.";"Sit autem consequatur.";"Et in eaque.";0;0;;;
-attr_170;pim_catalog_metric;attr_gr_1;"Distinctio similique.";"Provident consequatur.";"Ad dicta.";"Repellat ex.";0;0;Length;METER;
-attr_171;pim_catalog_image;attr_gr_14;"Officiis et pariatur.";"Minima consequatur.";"Sapiente est culpa.";"Et quod ea.";0;0;;;png,pdf
-attr_172;pim_catalog_text;attr_gr_14;"Modi libero.";"Tempora non.";"Consectetur animi.";"Sit quo perferendis.";0;0;;;
-attr_173;pim_catalog_simpleselect;attr_gr_3;"Enim sit.";"Autem architecto excepturi.";"Nihil quis.";"Id eligendi.";0;0;;;
-attr_174;pim_catalog_text;attr_gr_3;"Molestiae repellendus.";"Quidem doloremque quis.";"Debitis accusamus rerum.";"Enim nam modi.";0;0;;;
-attr_175;pim_catalog_boolean;attr_gr_2;"Aliquid consequatur sit.";"Modi perferendis.";"Ea et ad.";"Ducimus ipsa fugit.";0;0;;;
-attr_176;pim_catalog_text;attr_gr_1;"Quo quod dignissimos.";"Non aut.";"Optio qui pariatur.";"Ut a.";0;0;;;
-attr_177;pim_catalog_date;attr_gr_7;"Ratione soluta.";"Consectetur natus enim.";"Voluptatem velit.";"Consequatur dolore doloremque.";0;0;;;
-attr_178;pim_catalog_date;attr_gr_13;"Et exercitationem id.";"Odio debitis.";"Dolorem aut veniam.";"Magni placeat.";0;0;;;
-attr_179;pim_catalog_metric;attr_gr_14;"Enim odit.";"Sit quod.";"Voluptatibus fugit sint.";"Qui sint ut.";0;0;Length;METER;
-attr_180;pim_catalog_number;attr_gr_9;"Error quisquam reiciendis.";"Eum et iusto.";"Consequatur est libero.";"Deleniti et doloremque.";1;0;;;
-attr_181;pim_catalog_multiselect;attr_gr_10;"Et quibusdam quo.";"Excepturi pariatur dolorum.";"Voluptate voluptas.";"Laborum quasi accusamus.";0;0;;;
-attr_182;pim_catalog_file;attr_gr_7;"Sunt eaque omnis.";"Accusantium nihil.";"Velit accusamus.";"Expedita odit voluptatem.";0;0;;;png,pdf
-attr_183;pim_catalog_number;attr_gr_12;"Voluptatibus nihil.";"Nemo excepturi.";"Dolor laudantium.";"Quas in.";0;0;;;
-attr_184;pim_catalog_image;attr_gr_1;"Id laborum nihil.";"Debitis magnam.";"Odio dolores eaque.";"Voluptates quis reiciendis.";0;0;;;jpg,pdf
-attr_185;pim_catalog_simpleselect;attr_gr_12;"Ea consectetur.";"Voluptas minima.";"Iure id.";"Voluptas vitae aliquid.";0;0;;;
-attr_186;pim_catalog_image;attr_gr_9;"Sunt iure.";"Amet praesentium.";"Maxime sunt repellendus.";"Repellat qui voluptatum.";0;0;;;jpg,png
-attr_187;pim_catalog_simpleselect;attr_gr_3;"Illo quibusdam distinctio.";"Molestiae inventore.";"Enim consequatur.";"Saepe asperiores.";0;0;;;
-attr_188;pim_catalog_boolean;attr_gr_13;"Aliquam veritatis consequatur.";"Minus assumenda quis.";"Ea ex eligendi.";"Est similique totam.";0;0;;;
-attr_189;pim_catalog_price_collection;attr_gr_13;"Quidem nam ut.";"Reprehenderit nisi et.";"In nihil.";"Enim earum quisquam.";1;0;;;
-attr_190;pim_catalog_date;attr_gr_14;"Consectetur ducimus velit.";"Doloribus blanditiis dolorum.";"Totam eius rem.";"Molestiae enim modi.";0;0;;;
-attr_191;pim_catalog_boolean;attr_gr_3;"Dolore doloribus ut.";"Enim laborum.";"Error fugit.";"Quo quisquam.";0;0;;;
-attr_192;pim_catalog_textarea;attr_gr_2;"Eos libero est.";"Sequi reprehenderit.";"Animi fuga voluptatem.";"Neque corrupti iure.";0;0;;;
-attr_193;pim_catalog_price_collection;attr_gr_9;"Praesentium illum.";"Aliquid nihil.";"Placeat eum mollitia.";"Vel fugit.";0;0;;;
-attr_194;pim_catalog_text;attr_gr_4;"Alias recusandae.";"Necessitatibus dolor.";"Aut excepturi.";"Ut at ut.";0;0;;;
-attr_195;pim_catalog_price_collection;attr_gr_14;"Quo nihil.";"Consequatur nostrum culpa.";"Architecto ad nobis.";"Omnis cum porro.";0;0;;;
-attr_196;pim_catalog_boolean;attr_gr_8;"Rem voluptatum.";"Amet laboriosam saepe.";"Odit et labore.";"Molestiae facilis.";0;0;;;
-attr_197;pim_catalog_textarea;attr_gr_0;"Nobis est.";"Quia ullam.";"Qui corrupti.";"Sunt debitis.";0;0;;;
-attr_198;pim_catalog_simpleselect;attr_gr_13;"Ipsum est.";"Dolorum rerum fuga.";"Est enim.";"Quo aspernatur neque.";0;0;;;
-attr_199;pim_catalog_simpleselect;attr_gr_6;"Rerum aut officia.";"Laudantium molestiae sint.";"Voluptas minima beatae.";"Sunt tenetur.";0;0;;;
-attr_200;pim_catalog_metric;attr_gr_13;"Vitae laudantium.";"Rerum voluptate.";"Eius corporis.";"Possimus minus.";0;0;Length;METER;
-attr_201;pim_catalog_multiselect;attr_gr_10;"Velit quibusdam.";"Accusantium aperiam.";"Sunt iste sunt.";"Iste deserunt.";0;0;;;
-attr_202;pim_catalog_file;attr_gr_5;"Natus modi est.";"Ex voluptatem.";"Illum blanditiis.";"Dolore sunt praesentium.";0;0;;;pdf,png
-attr_203;pim_catalog_multiselect;attr_gr_11;"Ratione cumque dolorum.";"Optio aut.";"Dolor sit ex.";"Et totam.";0;0;;;
-attr_204;pim_catalog_text;attr_gr_0;"Ipsum eaque.";"Deserunt doloremque.";"Iste magni.";"Harum eum temporibus.";0;0;;;
-attr_205;pim_catalog_number;attr_gr_6;"Reprehenderit et.";"Facere repellendus voluptates.";"Voluptatem non accusantium.";"Ipsam fugit animi.";0;0;;;
-attr_206;pim_catalog_text;attr_gr_6;"Aut unde.";"Culpa minus.";"Est ut.";"Natus voluptatum.";0;0;;;
-attr_207;pim_catalog_date;attr_gr_14;"Voluptatem nihil ratione.";"Modi adipisci.";"Doloremque itaque et.";"Deleniti vel mollitia.";0;0;;;
-attr_208;pim_catalog_multiselect;attr_gr_11;"Dolores porro.";"Vel error nobis.";"In nobis dolores.";"Error excepturi blanditiis.";0;0;;;
-attr_209;pim_catalog_metric;attr_gr_7;"Vel et.";"Tempore est quos.";"Qui aut aliquam.";"Occaecati fugiat.";0;0;Length;METER;
-attr_210;pim_catalog_image;attr_gr_7;"Quis magni nihil.";"Et ut aut.";"Eligendi deleniti aperiam.";"Quidem odit beatae.";0;0;;;jpg,pdf
-attr_211;pim_catalog_number;attr_gr_14;"Aut rerum.";"Animi est eum.";"Sequi itaque sed.";"Laboriosam cum.";0;0;;;
-attr_212;pim_catalog_boolean;attr_gr_8;"Dolores possimus.";"Minus soluta dolor.";"Esse blanditiis inventore.";"Facilis ut.";1;0;;;
-attr_213;pim_catalog_date;attr_gr_11;"Odit ea et.";"Maiores quasi aut.";"Cumque sed.";"Eius vitae.";0;0;;;
-attr_214;pim_catalog_date;attr_gr_13;"Sint voluptas.";"Facere labore qui.";"Tempora consequuntur.";"Magni molestiae.";0;0;;;
-attr_215;pim_catalog_price_collection;attr_gr_14;"Inventore iure.";"Assumenda repellendus culpa.";"Ut illum reprehenderit.";"Expedita rem illum.";1;0;;;
-attr_216;pim_catalog_date;attr_gr_5;"Iure consequatur similique.";"Sit rerum velit.";"Optio in eum.";"Qui repudiandae.";0;0;;;
-attr_217;pim_catalog_multiselect;attr_gr_9;"Inventore commodi.";"A quo doloribus.";"Ducimus sequi.";"Et eligendi.";0;0;;;
-attr_218;pim_catalog_number;attr_gr_1;"Dolor ipsam eos.";"Voluptatibus hic.";"Autem quisquam corporis.";"Ut eum.";0;0;;;
-attr_219;pim_catalog_text;attr_gr_1;"Iste sit.";"Aut tempora.";"Qui aut suscipit.";"Facilis enim alias.";0;0;;;
-attr_220;pim_catalog_image;attr_gr_10;"Magni qui.";"Asperiores quod.";"Est enim.";"Qui dolores.";0;0;;;pdf,jpg
-attr_221;pim_catalog_simpleselect;attr_gr_1;"Et blanditiis quia.";"Sit rerum eos.";"Suscipit quos.";"Laudantium vel.";0;0;;;
-attr_222;pim_catalog_boolean;attr_gr_2;"Illo suscipit.";"Voluptatem aut.";"Eum omnis.";"Et nam.";0;0;;;
-attr_223;pim_catalog_textarea;attr_gr_2;"Error commodi.";"Aut id.";"Maxime dolores vero.";"Doloribus autem assumenda.";0;0;;;
-attr_224;pim_catalog_textarea;attr_gr_13;"Inventore distinctio nihil.";"Non deserunt.";"Quae explicabo totam.";"Dolore assumenda.";0;0;;;
-attr_225;pim_catalog_date;attr_gr_8;"Architecto sit.";"Aperiam autem.";"Facilis est corrupti.";"Similique cupiditate dolores.";0;0;;;
-attr_226;pim_catalog_boolean;attr_gr_0;"Magni nostrum.";"Ut laboriosam.";"Ratione aut eum.";"Cum ipsum.";0;0;;;
-attr_227;pim_catalog_multiselect;attr_gr_10;"Ut maxime consequatur.";"Debitis et eligendi.";"Qui ab omnis.";"Autem iure.";0;0;;;
-attr_228;pim_catalog_price_collection;attr_gr_3;"Reiciendis vitae.";"Et quia.";"Fugiat ipsam rerum.";"Quaerat perspiciatis.";0;0;;;
-attr_229;pim_catalog_simpleselect;attr_gr_1;"Officia fuga.";"Delectus dicta.";"Quae non voluptas.";"Rerum nesciunt iste.";0;0;;;
-attr_230;pim_catalog_text;attr_gr_2;"Nihil tempora error.";"Dolores est.";"Culpa et.";"Hic in voluptatem.";0;0;;;
-attr_231;pim_catalog_metric;attr_gr_14;"Vitae id et.";"Libero enim.";"Perspiciatis accusantium odio.";"Inventore accusamus distinctio.";0;0;Length;METER;
-attr_232;pim_catalog_image;attr_gr_6;"Tempora error aliquid.";"Incidunt et.";"Minima molestiae.";"Alias nisi tenetur.";0;0;;;pdf,jpg
-attr_233;pim_catalog_boolean;attr_gr_5;"Similique quia eum.";"Quisquam doloremque voluptatem.";"Sequi eum.";"Commodi delectus doloribus.";0;0;;;
-attr_234;pim_catalog_image;attr_gr_8;"Et laboriosam.";"Odit harum consequatur.";"Sint dignissimos.";"Repellat qui quasi.";0;0;;;jpg,png
-attr_235;pim_catalog_multiselect;attr_gr_14;"Et repellendus inventore.";"Ut quae id.";"Aut unde.";"Qui aut est.";0;0;;;
-attr_236;pim_catalog_date;attr_gr_9;"Ut illo laudantium.";"Exercitationem repellendus doloribus.";"Ratione aut.";"Quasi aliquid reiciendis.";0;0;;;
-attr_237;pim_catalog_image;attr_gr_3;"Eos et.";"Consequatur velit quia.";"Architecto fugiat totam.";"Esse minima.";0;0;;;pdf,png
-attr_238;pim_catalog_number;attr_gr_7;"Delectus ut.";"Quae porro.";"Quia dolorum explicabo.";"Beatae reiciendis voluptas.";0;0;;;
-attr_239;pim_catalog_textarea;attr_gr_3;"Facilis voluptatibus delectus.";"Qui voluptas.";"Quibusdam aut sit.";"Eum necessitatibus.";0;0;;;
-attr_240;pim_catalog_file;attr_gr_6;"Fugit sed corporis.";"Autem ut.";"Ab voluptas ipsum.";"Perspiciatis molestiae.";0;0;;;jpg,pdf
-attr_241;pim_catalog_multiselect;attr_gr_1;"Et illo illo.";"Recusandae molestiae.";"Beatae animi.";"Rem ipsam sint.";0;0;;;
-attr_242;pim_catalog_boolean;attr_gr_9;"Molestias quia doloremque.";"Harum consequatur ab.";"Unde et.";"Earum dolor quidem.";0;0;;;
-attr_243;pim_catalog_metric;attr_gr_14;"Autem aut animi.";"Autem voluptate quia.";"Vitae quae.";"Non nihil.";0;0;Length;METER;
-attr_244;pim_catalog_boolean;attr_gr_5;"Minus iure quia.";"Nihil debitis voluptatibus.";"Voluptas et dolor.";"Sint necessitatibus.";0;0;;;
-attr_245;pim_catalog_textarea;attr_gr_7;"Voluptatem ea asperiores.";"Aut aperiam qui.";"Repellat modi voluptatibus.";"Numquam voluptates sunt.";0;0;;;
-attr_246;pim_catalog_text;attr_gr_11;"Quos voluptate culpa.";"Dolorem tenetur.";"Aut qui ullam.";"Eum rerum.";0;0;;;
-attr_247;pim_catalog_date;attr_gr_6;"Architecto ab.";"Cum voluptatem.";"Quia quas non.";"Et nemo.";0;0;;;
-attr_248;pim_catalog_boolean;attr_gr_2;"Odit consequatur.";"Quis neque eveniet.";"Ad et rerum.";"Quam culpa placeat.";1;0;;;
-attr_249;pim_catalog_date;attr_gr_14;"Ut molestiae velit.";"Fuga nemo voluptas.";"Repudiandae qui.";"Consequatur explicabo totam.";0;0;;;
-attr_250;pim_catalog_text;attr_gr_5;"Dicta omnis.";"Quod quisquam aperiam.";"Dolorum sequi nulla.";"Quam incidunt.";0;0;;;
-attr_251;pim_catalog_boolean;attr_gr_8;"Adipisci libero debitis.";"Consequatur est ut.";"Minus sed in.";"Explicabo provident est.";0;0;;;
-attr_252;pim_catalog_price_collection;attr_gr_12;"Possimus autem rerum.";"Sit omnis.";"Ut est.";"Culpa ea.";0;0;;;
-attr_253;pim_catalog_textarea;attr_gr_1;"Et beatae sint.";"Ipsam saepe odit.";"Ea eveniet similique.";"Velit voluptas ex.";0;0;;;
-attr_254;pim_catalog_multiselect;attr_gr_10;"Doloribus fugiat.";"Velit eos iste.";"Cum omnis ut.";"Quas eligendi.";0;0;;;
-attr_255;pim_catalog_multiselect;attr_gr_1;"Alias minus.";"Ut nemo.";"Illo consequatur.";"Aut architecto in.";0;0;;;
-attr_256;pim_catalog_simpleselect;attr_gr_12;"Adipisci et.";"Voluptatem non laudantium.";"Ipsum autem.";"Dolor et quos.";0;0;;;
-attr_257;pim_catalog_textarea;attr_gr_12;"Sint quibusdam.";"Explicabo soluta libero.";"Voluptatem mollitia quia.";"Fuga sequi ut.";0;0;;;
-attr_258;pim_catalog_date;attr_gr_11;"Illum quis sequi.";"Dignissimos molestiae deserunt.";"Ut et sit.";"Commodi aut saepe.";1;0;;;
-attr_259;pim_catalog_metric;attr_gr_5;"Qui autem.";"Sed aut neque.";"Autem suscipit aut.";"Soluta maiores ut.";0;0;Length;METER;
-attr_260;pim_catalog_multiselect;attr_gr_4;"Quis corporis.";"Aut omnis numquam.";"Voluptas quaerat ad.";"Quia rerum eligendi.";0;0;;;
-attr_261;pim_catalog_boolean;attr_gr_0;"Vel repellat culpa.";"Quisquam facere error.";"Qui vitae corporis.";"Et dolorem libero.";0;0;;;
-attr_262;pim_catalog_image;attr_gr_14;"Sapiente id nam.";"Quo minus.";"Beatae velit earum.";"Qui eligendi.";0;0;;;jpg,png
-attr_263;pim_catalog_image;attr_gr_12;"Totam amet.";"Ullam illum.";"Explicabo velit.";"Voluptates molestiae.";1;0;;;pdf,jpg
-attr_264;pim_catalog_boolean;attr_gr_5;"Aliquam voluptates.";"Excepturi odio.";"Architecto debitis.";"Mollitia impedit velit.";0;0;;;
-attr_265;pim_catalog_multiselect;attr_gr_5;"Perferendis non quibusdam.";"Beatae distinctio quos.";"Nobis aspernatur.";"Reiciendis expedita.";0;0;;;
-attr_266;pim_catalog_multiselect;attr_gr_7;"Aut sed eum.";"Molestias dolorum.";"Explicabo maiores omnis.";"Fuga et in.";0;0;;;
-attr_267;pim_catalog_price_collection;attr_gr_8;"Non inventore.";"Error qui quis.";"Et eum.";"Qui est.";0;0;;;
-attr_268;pim_catalog_price_collection;attr_gr_2;"Eveniet iure itaque.";"Molestias non.";"At repellendus deserunt.";"Rerum inventore.";0;0;;;
-attr_269;pim_catalog_date;attr_gr_8;"Est ipsum ut.";"Aut eos quam.";"Consequuntur perferendis deleniti.";"Omnis in molestias.";0;0;;;
-attr_270;pim_catalog_price_collection;attr_gr_13;"Facere reprehenderit.";"Sed aut.";"Et quis commodi.";"Sequi ut.";0;0;;;
-attr_271;pim_catalog_date;attr_gr_3;"Laborum a architecto.";"Vero quas est.";"Odit deserunt dolores.";"Molestiae esse.";0;0;;;
-attr_272;pim_catalog_text;attr_gr_4;"Omnis nemo omnis.";"Omnis suscipit.";"Est quod.";"Sit neque ex.";0;0;;;
-attr_273;pim_catalog_text;attr_gr_9;"Ut eius.";"Quasi dolore eos.";"Amet rerum.";"Veniam error.";0;0;;;
-attr_274;pim_catalog_multiselect;attr_gr_13;"Molestiae voluptas.";"Odio eum sint.";"Ut fugit.";"Dignissimos nesciunt quia.";1;1;;;
-attr_275;pim_catalog_number;attr_gr_4;"Similique nostrum.";"Tempora iure.";"Quisquam deleniti.";"Atque et aliquid.";1;0;;;
-attr_276;pim_catalog_metric;attr_gr_8;"Sit facilis.";"Saepe placeat quaerat.";"Architecto aut.";"Nam nesciunt.";0;0;Length;METER;
-attr_277;pim_catalog_price_collection;attr_gr_2;"Vitae officia.";"Ad nihil similique.";"Nobis consequatur.";"Voluptatem minima aut.";0;0;;;
-attr_278;pim_catalog_file;attr_gr_6;"Labore corporis quae.";"Voluptatem dolorem sit.";"Dolore aut.";"Ab voluptate minima.";0;0;;;pdf,jpg
-attr_279;pim_catalog_file;attr_gr_2;"Consequatur aut.";"In et soluta.";"Voluptatem soluta.";"Qui quia.";0;0;;;pdf,jpg
-attr_280;pim_catalog_price_collection;attr_gr_1;"Quo ut magnam.";"Pariatur numquam eos.";"Quae fugit.";"Et unde harum.";0;0;;;
-attr_281;pim_catalog_boolean;attr_gr_14;"Cum modi.";"Et praesentium odit.";"Culpa culpa sit.";"Quaerat voluptatibus aut.";0;1;;;
-attr_282;pim_catalog_textarea;attr_gr_0;"Dolores inventore ut.";"Laborum voluptatum cumque.";"Excepturi autem voluptatem.";"Aliquid reiciendis.";0;0;;;
-attr_283;pim_catalog_image;attr_gr_5;"Commodi error.";"Commodi odio neque.";"Necessitatibus et.";"Mollitia ut voluptatem.";0;0;;;pdf,jpg
-attr_284;pim_catalog_multiselect;attr_gr_14;"Nulla ullam.";"Aut aliquid ut.";"Omnis quo.";"Est magnam.";0;0;;;
-attr_285;pim_catalog_image;attr_gr_2;"Fuga ullam.";"Explicabo ut debitis.";"Iusto pariatur sapiente.";"Neque et.";0;0;;;pdf,jpg
-attr_286;pim_catalog_multiselect;attr_gr_8;"Qui quam omnis.";"Blanditiis iusto.";"Dolor illum.";"Corporis soluta saepe.";0;0;;;
-attr_287;pim_catalog_date;attr_gr_11;"Porro dolor.";"Sunt deserunt.";"Quam nemo.";"Aut ab minima.";0;0;;;
-attr_288;pim_catalog_image;attr_gr_7;"Repellat aspernatur consectetur.";"Ut ut.";"Dolores eligendi repudiandae.";"Cupiditate sapiente.";0;0;;;png,jpg
-attr_289;pim_catalog_multiselect;attr_gr_3;"Porro id architecto.";"Enim quisquam.";"Molestias et reiciendis.";"Ut aut.";0;0;;;
-attr_290;pim_catalog_file;attr_gr_3;"Iusto blanditiis.";"Tempore iure.";"Ea et cumque.";"Doloribus quia est.";1;0;;;jpg,pdf
-attr_291;pim_catalog_multiselect;attr_gr_13;"Impedit et.";"Esse voluptatibus consequuntur.";"Consequatur hic dicta.";"Sequi placeat.";0;0;;;
-attr_292;pim_catalog_metric;attr_gr_1;"Enim quia.";"Et nobis.";"Vel doloribus excepturi.";"Eos atque.";0;0;Length;METER;
-attr_293;pim_catalog_date;attr_gr_7;"Animi rerum architecto.";"Magnam cupiditate laudantium.";"Recusandae quam corporis.";"Quos iusto ab.";0;0;;;
-attr_294;pim_catalog_number;attr_gr_11;"Aut rerum iure.";"Reprehenderit sint quo.";"Officia est tempore.";"Aliquam eum.";0;0;;;
-attr_295;pim_catalog_text;attr_gr_0;"Maiores deserunt vitae.";"Quia at soluta.";"Ab enim sint.";"Est tenetur.";0;0;;;
-attr_296;pim_catalog_file;attr_gr_10;"Et quam.";"Laudantium expedita dolor.";"Aspernatur voluptas qui.";"Praesentium tempora labore.";0;0;;;png,jpg
-attr_297;pim_catalog_textarea;attr_gr_3;"Eius neque.";"Voluptas aut.";"Consectetur sit ducimus.";"Ut aut.";0;0;;;
-attr_298;pim_catalog_text;attr_gr_9;"Aut mollitia.";"Odit enim.";"Ducimus nihil harum.";"Eligendi nihil.";0;0;;;
-attr_299;pim_catalog_multiselect;attr_gr_11;"Ex consequatur at.";"Aliquid necessitatibus veniam.";"Voluptatibus repudiandae.";"Omnis rerum sit.";0;0;;;
-attr_300;pim_catalog_number;attr_gr_3;"Quia laborum.";"Unde et.";"Nemo illo natus.";"Praesentium ea quaerat.";0;0;;;
-attr_301;pim_catalog_file;attr_gr_6;"Fuga nihil quibusdam.";"Iusto expedita et.";"Sed id omnis.";"Ut sed ratione.";0;0;;;pdf,jpg
-attr_302;pim_catalog_number;attr_gr_3;"Veniam ut.";"Vel magni.";"Vero est.";"Aut et dignissimos.";0;0;;;
-attr_303;pim_catalog_multiselect;attr_gr_2;"Nihil tempore voluptatum.";"Natus vel omnis.";"Aspernatur magnam.";"Assumenda et.";0;0;;;
-attr_304;pim_catalog_price_collection;attr_gr_7;"Ea reiciendis ab.";"Porro quos.";"At in.";"Odio excepturi.";0;0;;;
-attr_305;pim_catalog_image;attr_gr_6;"Ut culpa.";"Omnis eum repellendus.";"Nihil nam.";"Tempora nisi soluta.";0;0;;;png,jpg
-attr_306;pim_catalog_textarea;attr_gr_6;"Ut nihil.";"Eum perspiciatis sequi.";"Perferendis et.";"Quidem qui.";0;0;;;
-attr_307;pim_catalog_textarea;attr_gr_3;"Blanditiis et.";"Sunt quo tenetur.";"Dolores perspiciatis qui.";"Quaerat omnis error.";0;0;;;
-attr_308;pim_catalog_metric;attr_gr_11;"Voluptatum itaque nesciunt.";"Non et.";"Voluptatem architecto voluptatibus.";"Occaecati qui.";0;0;Length;METER;
-attr_309;pim_catalog_number;attr_gr_7;"Tenetur sit.";"Amet omnis sint.";"Earum id.";"Asperiores fugit.";1;0;;;
-attr_310;pim_catalog_boolean;attr_gr_13;"Nostrum asperiores.";"Rerum consectetur.";"Eum explicabo minima.";"Enim doloribus dolores.";0;0;;;
-attr_311;pim_catalog_simpleselect;attr_gr_4;"Voluptatem quasi.";"Dolore voluptatum.";"Molestias mollitia.";"Est adipisci.";0;0;;;
-attr_312;pim_catalog_boolean;attr_gr_4;"Quod aut.";"Eius ut.";"Aspernatur odio asperiores.";"Quam quo quis.";0;0;;;
-attr_313;pim_catalog_textarea;attr_gr_1;"Ut aspernatur quia.";"Sunt delectus.";"Eos iure.";"Aut reprehenderit.";0;0;;;
-attr_314;pim_catalog_number;attr_gr_0;"Esse laudantium rem.";"Aut odit.";"Omnis eius quasi.";"Eius quia.";0;0;;;
-attr_315;pim_catalog_text;attr_gr_14;"Iusto assumenda nihil.";"Corrupti aut ut.";"Qui inventore quia.";"Non ea.";0;0;;;
-attr_316;pim_catalog_image;attr_gr_13;"Cupiditate autem voluptatibus.";"Aut cupiditate porro.";"Deserunt et.";"Sequi aut.";0;0;;;png,jpg
-attr_317;pim_catalog_metric;attr_gr_9;"Reprehenderit omnis.";"Consequatur accusamus.";"Cumque praesentium.";"Amet eos.";0;0;Length;METER;
-attr_318;pim_catalog_simpleselect;attr_gr_7;"Rerum aut.";"Qui itaque et.";"Eveniet saepe qui.";"Debitis officiis.";0;0;;;
-attr_319;pim_catalog_textarea;attr_gr_6;"Reprehenderit recusandae perspiciatis.";"Optio libero deserunt.";"Ipsam architecto.";"Numquam recusandae facere.";1;0;;;
-attr_320;pim_catalog_file;attr_gr_11;"Vel dolorem.";"Soluta tenetur.";"Doloremque non in.";"Consequatur necessitatibus.";0;0;;;jpg,pdf
-attr_321;pim_catalog_number;attr_gr_9;"Nemo ut facilis.";"Non vel.";"Rerum facilis.";"Magni quam omnis.";0;0;;;
-attr_322;pim_catalog_boolean;attr_gr_8;"Odio nihil.";"Quidem deserunt sed.";"Molestias placeat eos.";"Blanditiis sit.";0;0;;;
-attr_323;pim_catalog_text;attr_gr_10;"Laborum ab eaque.";"Harum omnis.";"Consequuntur nisi.";"Quos sed.";0;0;;;
-attr_324;pim_catalog_textarea;attr_gr_10;"Ut quo.";"Quibusdam ipsam.";"Autem sed explicabo.";"Et facere illo.";0;0;;;
-attr_325;pim_catalog_date;attr_gr_10;"Illo et.";"Est non.";"Ad sit.";"Sint assumenda.";0;0;;;
-attr_326;pim_catalog_date;attr_gr_10;"Molestias rerum ut.";"Hic voluptas.";"Repellendus facere.";"Ratione expedita.";0;0;;;
-attr_327;pim_catalog_boolean;attr_gr_1;"Magni quis quidem.";"Veritatis perspiciatis aut.";"Eum sit sed.";"Sapiente porro eius.";0;0;;;
-attr_328;pim_catalog_simpleselect;attr_gr_8;"Mollitia aperiam sapiente.";"Adipisci rerum.";"Facere quia accusamus.";"Nemo quo.";0;0;;;
-attr_329;pim_catalog_simpleselect;attr_gr_6;"Accusantium magni aut.";"Nulla quis.";"Dignissimos eligendi perspiciatis.";"Cupiditate aliquam.";0;0;;;
-attr_330;pim_catalog_number;attr_gr_13;"Officia optio sunt.";"Perspiciatis quis rerum.";"Error et aut.";"Quasi rerum.";0;0;;;
-attr_331;pim_catalog_simpleselect;attr_gr_2;"Et saepe repellendus.";"Vitae et velit.";"Voluptatem fugiat qui.";"Facilis quisquam.";0;0;;;
-attr_332;pim_catalog_multiselect;attr_gr_12;"Sunt officia qui.";"Minima consequuntur id.";"Et autem.";"Possimus quia.";0;0;;;
-attr_333;pim_catalog_price_collection;attr_gr_13;"Sunt nobis.";"Inventore a voluptatem.";"Aliquam aut.";"Voluptatem voluptates.";0;0;;;
-attr_334;pim_catalog_textarea;attr_gr_11;"Quia est architecto.";"Quia consequatur.";"Id consequatur.";"Iure excepturi.";0;0;;;
-attr_335;pim_catalog_boolean;attr_gr_3;"Vero qui distinctio.";"Autem provident.";"Quia aliquam modi.";"Culpa aut quia.";0;0;;;
-attr_336;pim_catalog_file;attr_gr_0;"Ea alias consectetur.";"Ullam voluptatem ipsa.";"Expedita est.";"Non nihil.";0;0;;;jpg,pdf
-attr_337;pim_catalog_textarea;attr_gr_10;"Voluptas consequatur.";"Et id.";"Beatae non.";"Hic molestias eius.";1;1;;;
-attr_338;pim_catalog_textarea;attr_gr_4;"Quia consequatur.";"Aut minus quia.";"Corrupti ut eveniet.";"Beatae perspiciatis aliquam.";0;0;;;
-attr_339;pim_catalog_image;attr_gr_1;"Error odio.";"Aliquid sit eum.";"Earum assumenda.";"Labore ea.";0;1;;;png,jpg
-attr_340;pim_catalog_text;attr_gr_13;"Quia repudiandae eius.";"Animi aut.";"Non minima.";"Perferendis animi.";0;0;;;
-attr_341;pim_catalog_file;attr_gr_12;"Dolores laborum.";"Vero fugit.";"Dolore dolorem.";"Perferendis reiciendis rerum.";0;0;;;png,jpg
-attr_342;pim_catalog_file;attr_gr_10;"Et qui.";"Est aut.";"Delectus facilis.";"Odio quia rerum.";0;0;;;jpg,pdf
-attr_343;pim_catalog_image;attr_gr_6;"Minima distinctio.";"Mollitia id dignissimos.";"Libero ut.";"Exercitationem id.";0;0;;;pdf,jpg
-attr_344;pim_catalog_date;attr_gr_1;"Perferendis aspernatur rem.";"Autem aut.";"Et at.";"Earum iure.";0;0;;;
-attr_345;pim_catalog_boolean;attr_gr_1;"Quis ut.";"Eligendi inventore dignissimos.";"Qui incidunt recusandae.";"Vitae consequuntur.";0;0;;;
-attr_346;pim_catalog_price_collection;attr_gr_9;"Ut vel nesciunt.";"Sit quia temporibus.";"Consequatur delectus possimus.";"Est minima.";0;0;;;
-attr_347;pim_catalog_price_collection;attr_gr_2;"Culpa ducimus.";"Voluptatem animi assumenda.";"Architecto blanditiis.";"Sapiente reprehenderit voluptate.";0;0;;;
-attr_348;pim_catalog_textarea;attr_gr_9;"Voluptas laborum.";"Ut quis aut.";"Asperiores qui.";"Nulla et.";0;0;;;
-attr_349;pim_catalog_multiselect;attr_gr_10;"Error debitis.";"Sint iure deleniti.";"Et hic.";"Ad et.";0;0;;;
-attr_350;pim_catalog_text;attr_gr_10;"Voluptatum ut quasi.";"Aut exercitationem possimus.";"Velit non similique.";"Delectus tempore nostrum.";0;0;;;
-attr_351;pim_catalog_metric;attr_gr_14;"Debitis nemo.";"Ipsam iste.";"Quia molestias.";"Dolores dolor.";0;0;Length;METER;
-attr_352;pim_catalog_file;attr_gr_8;"Ipsum doloremque repudiandae.";"Vitae ut.";"Dignissimos nostrum.";"Iusto nam commodi.";0;0;;;jpg,pdf
-attr_353;pim_catalog_boolean;attr_gr_8;"Vel molestiae.";"Provident blanditiis.";"Ut repellat.";"Facere aut.";0;0;;;
-attr_354;pim_catalog_number;attr_gr_6;"Est voluptas voluptas.";"Voluptate voluptatem.";"Impedit eligendi.";"Doloremque ex amet.";0;0;;;
-attr_355;pim_catalog_metric;attr_gr_12;"Adipisci sit eum.";"Repellat totam.";"Qui nisi.";"Et quia.";0;0;Length;METER;
-attr_356;pim_catalog_metric;attr_gr_14;"Voluptas ea.";"Voluptas adipisci.";"Voluptas unde.";"Magni deserunt aut.";0;0;Length;METER;
-attr_357;pim_catalog_multiselect;attr_gr_9;"Eum velit harum.";"Quisquam cumque.";"Iusto qui et.";"Quasi deserunt.";0;0;;;
-attr_358;pim_catalog_text;attr_gr_5;"Ut aliquam ut.";"Cumque nostrum sint.";"Porro reprehenderit.";"Voluptatibus ut.";0;0;;;
-attr_359;pim_catalog_boolean;attr_gr_10;"Aut dolor.";"Dolor molestiae.";"Doloremque sint eaque.";"Et voluptatem quaerat.";0;0;;;
-attr_360;pim_catalog_multiselect;attr_gr_7;"Distinctio tempora.";"In omnis sit.";"Sunt non.";"Dolorem veniam voluptatem.";0;1;;;
-attr_361;pim_catalog_multiselect;attr_gr_8;"Pariatur voluptas.";"Et consequatur eveniet.";"Velit amet.";"Quaerat dolorem nulla.";0;0;;;
-attr_362;pim_catalog_text;attr_gr_6;"Quis dolores veniam.";"Dicta consectetur et.";"Dolores ipsa.";"Et facilis ea.";0;0;;;
-attr_363;pim_catalog_text;attr_gr_14;"Optio enim non.";"Eius veniam sint.";"Velit natus.";"Consequatur sit.";0;0;;;
-attr_364;pim_catalog_simpleselect;attr_gr_8;"Voluptatem doloremque.";"Voluptatem ut et.";"Omnis ipsum maiores.";"Quos itaque sunt.";0;0;;;
-attr_365;pim_catalog_price_collection;attr_gr_8;"Quam molestias est.";"Quia ipsum.";"Maxime velit.";"Laboriosam suscipit.";0;1;;;
-attr_366;pim_catalog_boolean;attr_gr_11;"Vel quis quia.";"A sit eveniet.";"Quidem deserunt necessitatibus.";"Occaecati consectetur.";0;0;;;
-attr_367;pim_catalog_number;attr_gr_10;"Nihil vel et.";"Dolores harum.";"Aut sunt.";"Animi eos.";0;0;;;
-attr_368;pim_catalog_file;attr_gr_2;"Quo et ut.";"Fugit quo aspernatur.";"Dolore deserunt nam.";"Tempore rerum deserunt.";0;0;;;jpg,png
-attr_369;pim_catalog_file;attr_gr_9;"Ad voluptas voluptatibus.";"Enim reiciendis dolorem.";"Eum fugiat.";"Dolor facere.";0;0;;;jpg,pdf
-attr_370;pim_catalog_boolean;attr_gr_14;"Dolorem quam.";"Sit ut molestias.";"Perferendis beatae saepe.";"Consequuntur velit.";1;0;;;
-attr_371;pim_catalog_image;attr_gr_2;"Nam ducimus illum.";"Aut quod.";"Voluptas dolor dolorem.";"Est voluptatem.";0;0;;;jpg,pdf
-attr_372;pim_catalog_date;attr_gr_13;"Numquam nostrum dolore.";"Culpa excepturi nemo.";"Consequatur molestiae.";"Nulla fugit.";0;0;;;
-attr_373;pim_catalog_textarea;attr_gr_10;"Cupiditate fugit magni.";"Dolor qui voluptatem.";"Tempora non delectus.";"Ut sit.";0;0;;;
-attr_374;pim_catalog_multiselect;attr_gr_2;"Ratione aliquid natus.";"Temporibus ea distinctio.";"Molestiae tempora dicta.";"Ut nam voluptas.";0;0;;;
-attr_375;pim_catalog_number;attr_gr_12;"Quasi dolorum omnis.";"Quia facilis aut.";"Distinctio ut.";"Corrupti omnis.";0;0;;;
-attr_376;pim_catalog_file;attr_gr_9;"Consequatur rerum et.";"Voluptatum ea aliquam.";"Voluptatum a necessitatibus.";"Harum illo voluptas.";0;0;;;png,jpg
-attr_377;pim_catalog_text;attr_gr_0;"Sit maiores nisi.";"Officiis aliquid.";"Illo dignissimos in.";"Eaque ea.";0;0;;;
-attr_378;pim_catalog_multiselect;attr_gr_1;"Qui sed numquam.";"Qui minus.";"Eum sit.";"Dolorem quaerat quam.";0;0;;;
-attr_379;pim_catalog_date;attr_gr_3;"Sit dicta.";"Ut velit autem.";"Consequatur aut.";"Quasi enim similique.";0;0;;;
-attr_380;pim_catalog_simpleselect;attr_gr_2;"Est at.";"Aut eos.";"Nulla pariatur.";"Eos quaerat aut.";0;1;;;
-attr_381;pim_catalog_file;attr_gr_10;"Dicta ut.";"Sunt vero veritatis.";"Ad eos aut.";"Excepturi totam quae.";0;0;;;pdf,png
-attr_382;pim_catalog_multiselect;attr_gr_13;"Modi animi porro.";"Neque laboriosam.";"Porro quisquam.";"Numquam tempora.";0;0;;;
-attr_383;pim_catalog_text;attr_gr_1;"Sint vero incidunt.";"Vel blanditiis.";"Maiores incidunt.";"Ducimus sed.";0;0;;;
-attr_384;pim_catalog_number;attr_gr_8;"Pariatur alias at.";"Suscipit error.";"Quis voluptas.";"Fuga possimus.";0;0;;;
-attr_385;pim_catalog_simpleselect;attr_gr_14;"Ipsa exercitationem minus.";"Quia et ipsam.";"Similique iste quas.";"Deleniti et.";0;0;;;
-attr_386;pim_catalog_file;attr_gr_10;"Sit aliquid.";"Laborum est quia.";"Et consectetur suscipit.";"Ipsum officia.";0;0;;;png,jpg
-attr_387;pim_catalog_date;attr_gr_14;"Itaque occaecati.";"Et illum ducimus.";"Ipsam quia.";"Dolores accusamus.";0;0;;;
-attr_388;pim_catalog_text;attr_gr_10;"Sapiente nemo.";"Libero tenetur harum.";"Voluptatem nisi recusandae.";"Ab ducimus non.";1;0;;;
-attr_389;pim_catalog_metric;attr_gr_5;"Rerum nulla dolor.";"Dolorem dolorem officia.";"Voluptatem incidunt.";"Modi iure.";0;0;Length;METER;
-attr_390;pim_catalog_textarea;attr_gr_0;"Soluta provident rem.";"Asperiores error.";"Et aspernatur.";"Voluptatum consequuntur.";0;0;;;
-attr_391;pim_catalog_file;attr_gr_12;"Eum vel aut.";"Sunt veniam.";"Quo nulla.";"Occaecati alias.";0;0;;;jpg,png
-attr_392;pim_catalog_image;attr_gr_9;"Magnam quis et.";"Voluptatem molestiae.";"Libero quia.";"Deserunt et maxime.";0;0;;;jpg,png
-attr_393;pim_catalog_date;attr_gr_3;"Totam quis.";"Voluptatibus id.";"Qui occaecati numquam.";"Et labore.";0;0;;;
-attr_394;pim_catalog_text;attr_gr_4;"Qui rerum.";"Ea in.";"Possimus libero.";"Vel dolor impedit.";0;0;;;
-attr_395;pim_catalog_date;attr_gr_2;"Sapiente qui.";"Ipsam in eos.";"Qui quo.";"Delectus eligendi esse.";0;0;;;
-attr_396;pim_catalog_number;attr_gr_6;"Assumenda quibusdam.";"Maiores rerum.";"Corrupti deserunt est.";"Rerum libero adipisci.";0;0;;;
-attr_397;pim_catalog_text;attr_gr_13;"Quas eum.";"Officia rerum.";"Qui corrupti.";"Dolorem ipsa.";0;0;;;
-attr_398;pim_catalog_text;attr_gr_9;"Iure delectus.";"Commodi qui.";"Qui totam.";"Porro dolorem.";0;0;;;
-attr_399;pim_catalog_image;attr_gr_10;"Aut voluptas.";"Qui aut.";"Fuga doloremque.";"Unde consequuntur.";0;0;;;pdf,jpg
+code;type;group;useable_as_grid_filter;label-fr_FR;label-en_US;label-ru_RU;label-it_IT;localizable;scopable;allowed_extensions;metric_family;default_metric_unit
+sku;pim_catalog_identifier;attr_gr_10;1;"pim_catalog_text quae porro";"pim_catalog_text et possimus";"pim_catalog_text omnis sit";"pim_catalog_text eos rem";;;;;
+name;pim_catalog_text;attr_gr_11;0;"pim_catalog_text fuga ea";"pim_catalog_text magnam maiores";"pim_catalog_text quo ad";"pim_catalog_text ducimus modi";;;;;
+attr_0;pim_catalog_multiselect;attr_gr_8;0;"pim_catalog_text animi molestias";"pim_catalog_text distinctio expedita";"pim_catalog_text aut quam";"pim_catalog_text quisquam nisi";0;0;;;
+attr_1;pim_catalog_image;attr_gr_11;0;"pim_catalog_text non voluptas";"pim_catalog_text quaerat eaque";"pim_catalog_text nihil asperiores";"pim_catalog_text sed temporibus";0;0;pdf,jpg;;
+attr_2;pim_catalog_number;attr_gr_6;0;"pim_catalog_text rerum facere";"pim_catalog_text suscipit iusto";"pim_catalog_text sequi quia";"pim_catalog_text esse molestiae";0;0;;;
+attr_3;pim_catalog_date;attr_gr_10;0;"pim_catalog_text animi hic";"pim_catalog_text vel esse";"pim_catalog_text unde tenetur";"pim_catalog_text fuga aperiam";0;0;;;
+attr_4;pim_catalog_textarea;attr_gr_4;0;"pim_catalog_text aut maxime";"pim_catalog_text rerum placeat";"pim_catalog_text perferendis odit";"pim_catalog_text veritatis et";0;0;;;
+attr_5;pim_catalog_number;attr_gr_5;0;"pim_catalog_text atque omnis";"pim_catalog_text ex officia";"pim_catalog_text eius ullam";"pim_catalog_text et perspiciatis";0;0;;;
+attr_6;pim_catalog_simpleselect;attr_gr_6;0;"pim_catalog_text eaque sed";"pim_catalog_text qui ut";"pim_catalog_text fugit sit";"pim_catalog_text id sed";0;0;;;
+attr_7;pim_catalog_text;attr_gr_1;0;"pim_catalog_text libero neque";"pim_catalog_text dicta explicabo";"pim_catalog_text nostrum harum";"pim_catalog_text quo iusto";0;0;;;
+attr_8;pim_catalog_file;attr_gr_12;0;"pim_catalog_text aut molestias";"pim_catalog_text est velit";"pim_catalog_text ut dolores";"pim_catalog_text temporibus cumque";0;0;pdf,jpg;;
+attr_9;pim_catalog_boolean;attr_gr_13;0;"pim_catalog_text et quis";"pim_catalog_text voluptatibus eaque";"pim_catalog_text eveniet quasi";"pim_catalog_text est odio";0;1;;;
+attr_10;pim_catalog_price_collection;attr_gr_14;0;"pim_catalog_text omnis deserunt";"pim_catalog_text omnis explicabo";"pim_catalog_text aspernatur enim";"pim_catalog_text eius quis";0;0;;;
+attr_11;pim_catalog_price_collection;attr_gr_6;0;"pim_catalog_text delectus rerum";"pim_catalog_text natus et";"pim_catalog_text dolor quaerat";"pim_catalog_text esse qui";0;0;;;
+attr_12;pim_catalog_textarea;attr_gr_14;0;"pim_catalog_text sed omnis";"pim_catalog_text ea possimus";"pim_catalog_text eius reprehenderit";"pim_catalog_text esse qui";0;0;;;
+attr_13;pim_catalog_boolean;attr_gr_10;0;"pim_catalog_text sed vitae";"pim_catalog_text suscipit rerum";"pim_catalog_text earum fugit";"pim_catalog_text ipsam quos";0;0;;;
+attr_14;pim_catalog_number;attr_gr_13;1;"pim_catalog_text ut eos";"pim_catalog_text ut eligendi";"pim_catalog_text mollitia suscipit";"pim_catalog_text incidunt ab";0;0;;;
+attr_15;pim_catalog_simpleselect;attr_gr_5;0;"pim_catalog_text minima pariatur";"pim_catalog_text praesentium voluptas";"pim_catalog_text maxime molestiae";"pim_catalog_text consequatur est";0;0;;;
+attr_16;pim_catalog_file;attr_gr_2;0;"pim_catalog_text accusantium rerum";"pim_catalog_text iste eveniet";"pim_catalog_text a voluptatum";"pim_catalog_text sit suscipit";0;0;jpg,png;;
+attr_17;pim_catalog_text;attr_gr_1;0;"pim_catalog_text voluptatem voluptatum";"pim_catalog_text est nulla";"pim_catalog_text assumenda quia";"pim_catalog_text iusto voluptate";0;0;;;
+attr_18;pim_catalog_image;attr_gr_14;0;"pim_catalog_text inventore dolores";"pim_catalog_text earum repellendus";"pim_catalog_text id minus";"pim_catalog_text rerum non";0;0;jpg,pdf;;
+attr_19;pim_catalog_price_collection;attr_gr_3;0;"pim_catalog_text cupiditate eaque";"pim_catalog_text voluptate dolorem";"pim_catalog_text architecto non";"pim_catalog_text esse aut";0;0;;;
+attr_20;pim_catalog_date;attr_gr_10;0;"pim_catalog_text sed soluta";"pim_catalog_text omnis magni";"pim_catalog_text voluptas accusamus";"pim_catalog_text aut minima";0;0;;;
+attr_21;pim_catalog_simpleselect;attr_gr_6;0;"pim_catalog_text quo ex";"pim_catalog_text molestiae nobis";"pim_catalog_text laudantium ea";"pim_catalog_text sit et";0;0;;;
+attr_22;pim_catalog_image;attr_gr_5;0;"pim_catalog_text veniam repellat";"pim_catalog_text eum animi";"pim_catalog_text eius dolores";"pim_catalog_text provident non";0;0;pdf,png;;
+attr_23;pim_catalog_price_collection;attr_gr_3;1;"pim_catalog_text quia consequuntur";"pim_catalog_text alias qui";"pim_catalog_text exercitationem amet";"pim_catalog_text qui id";0;0;;;
+attr_24;pim_catalog_price_collection;attr_gr_6;0;"pim_catalog_text voluptatibus deserunt";"pim_catalog_text nemo dolor";"pim_catalog_text eum odit";"pim_catalog_text velit asperiores";0;0;;;
+attr_25;pim_catalog_price_collection;attr_gr_3;0;"pim_catalog_text earum eum";"pim_catalog_text corporis cupiditate";"pim_catalog_text et ut";"pim_catalog_text aut dolores";0;0;;;
+attr_26;pim_catalog_number;attr_gr_10;0;"pim_catalog_text voluptatem nisi";"pim_catalog_text et illo";"pim_catalog_text maiores et";"pim_catalog_text ut quasi";0;0;;;
+attr_27;pim_catalog_text;attr_gr_2;0;"pim_catalog_text recusandae autem";"pim_catalog_text et ullam";"pim_catalog_text est omnis";"pim_catalog_text deserunt dolorem";0;0;;;
+attr_28;pim_catalog_image;attr_gr_6;1;"pim_catalog_text consequatur consectetur";"pim_catalog_text dignissimos temporibus";"pim_catalog_text quo excepturi";"pim_catalog_text numquam nobis";0;0;png,jpg;;
+attr_29;pim_catalog_multiselect;attr_gr_7;0;"pim_catalog_text facilis est";"pim_catalog_text omnis animi";"pim_catalog_text voluptatem quo";"pim_catalog_text debitis nisi";0;0;;;
+attr_30;pim_catalog_textarea;attr_gr_14;1;"pim_catalog_text dolores est";"pim_catalog_text non velit";"pim_catalog_text debitis asperiores";"pim_catalog_text doloribus impedit";0;0;;;
+attr_31;pim_catalog_metric;attr_gr_11;0;"pim_catalog_text saepe quas";"pim_catalog_text quo aut";"pim_catalog_text ut voluptas";"pim_catalog_text voluptate sunt";0;0;;Length;METER
+attr_32;pim_catalog_simpleselect;attr_gr_2;0;"pim_catalog_text suscipit non";"pim_catalog_text culpa omnis";"pim_catalog_text beatae consequuntur";"pim_catalog_text reiciendis sequi";0;0;;;
+attr_33;pim_catalog_image;attr_gr_12;0;"pim_catalog_text similique ut";"pim_catalog_text amet sed";"pim_catalog_text necessitatibus natus";"pim_catalog_text quisquam distinctio";0;0;pdf,jpg;;
+attr_34;pim_catalog_text;attr_gr_3;0;"pim_catalog_text voluptatem laborum";"pim_catalog_text nulla voluptatem";"pim_catalog_text nulla consectetur";"pim_catalog_text placeat accusamus";0;0;;;
+attr_35;pim_catalog_textarea;attr_gr_7;0;"pim_catalog_text dolore porro";"pim_catalog_text cumque quis";"pim_catalog_text officiis aspernatur";"pim_catalog_text sunt consequuntur";0;0;;;
+attr_36;pim_catalog_file;attr_gr_3;0;"pim_catalog_text amet id";"pim_catalog_text vel itaque";"pim_catalog_text reiciendis sed";"pim_catalog_text quibusdam perferendis";0;0;pdf,png;;
+attr_37;pim_catalog_date;attr_gr_9;0;"pim_catalog_text itaque aut";"pim_catalog_text quae aliquid";"pim_catalog_text beatae quidem";"pim_catalog_text officiis id";0;0;;;
+attr_38;pim_catalog_textarea;attr_gr_8;0;"pim_catalog_text ut qui";"pim_catalog_text excepturi dolore";"pim_catalog_text architecto aperiam";"pim_catalog_text omnis nihil";0;0;;;
+attr_39;pim_catalog_textarea;attr_gr_13;0;"pim_catalog_text culpa aliquid";"pim_catalog_text et sit";"pim_catalog_text animi reprehenderit";"pim_catalog_text quia dolores";0;0;;;
+attr_40;pim_catalog_date;attr_gr_3;0;"pim_catalog_text earum perspiciatis";"pim_catalog_text maxime ad";"pim_catalog_text a omnis";"pim_catalog_text ducimus in";0;0;;;
+attr_41;pim_catalog_date;attr_gr_7;0;"pim_catalog_text omnis cumque";"pim_catalog_text necessitatibus aspernatur";"pim_catalog_text et quia";"pim_catalog_text ea qui";0;0;;;
+attr_42;pim_catalog_date;attr_gr_2;0;"pim_catalog_text necessitatibus vel";"pim_catalog_text quo mollitia";"pim_catalog_text saepe consequatur";"pim_catalog_text sit nam";0;0;;;
+attr_43;pim_catalog_file;attr_gr_5;0;"pim_catalog_text quas deleniti";"pim_catalog_text dolor est";"pim_catalog_text labore minus";"pim_catalog_text dolorem sunt";0;0;pdf,jpg;;
+attr_44;pim_catalog_file;attr_gr_7;0;"pim_catalog_text et reiciendis";"pim_catalog_text facere nam";"pim_catalog_text omnis sed";"pim_catalog_text dicta modi";0;0;pdf,png;;
+attr_45;pim_catalog_metric;attr_gr_1;0;"pim_catalog_text distinctio vel";"pim_catalog_text consequatur delectus";"pim_catalog_text distinctio illum";"pim_catalog_text in doloremque";0;0;;Length;METER
+attr_46;pim_catalog_date;attr_gr_5;0;"pim_catalog_text dolorem molestiae";"pim_catalog_text quia dicta";"pim_catalog_text qui quis";"pim_catalog_text culpa et";0;0;;;
+attr_47;pim_catalog_number;attr_gr_7;0;"pim_catalog_text voluptatibus aut";"pim_catalog_text vel porro";"pim_catalog_text repellendus molestiae";"pim_catalog_text magnam quo";0;0;;;
+attr_48;pim_catalog_boolean;attr_gr_0;1;"pim_catalog_text vitae alias";"pim_catalog_text quas magni";"pim_catalog_text est consectetur";"pim_catalog_text aut enim";0;0;;;
+attr_49;pim_catalog_date;attr_gr_4;0;"pim_catalog_text repellendus debitis";"pim_catalog_text tempora et";"pim_catalog_text et facere";"pim_catalog_text praesentium nostrum";0;0;;;
+attr_50;pim_catalog_date;attr_gr_3;0;"pim_catalog_text dolorem non";"pim_catalog_text quod doloribus";"pim_catalog_text non alias";"pim_catalog_text voluptas velit";0;0;;;
+attr_51;pim_catalog_image;attr_gr_1;0;"pim_catalog_text esse eligendi";"pim_catalog_text a expedita";"pim_catalog_text esse aperiam";"pim_catalog_text architecto et";0;0;jpg,png;;
+attr_52;pim_catalog_simpleselect;attr_gr_13;0;"pim_catalog_text qui ex";"pim_catalog_text nulla nesciunt";"pim_catalog_text dolorum veritatis";"pim_catalog_text quos sit";0;0;;;
+attr_53;pim_catalog_boolean;attr_gr_6;0;"pim_catalog_text laudantium aut";"pim_catalog_text animi ut";"pim_catalog_text et doloremque";"pim_catalog_text nihil error";0;0;;;
+attr_54;pim_catalog_date;attr_gr_0;1;"pim_catalog_text vero aut";"pim_catalog_text sed et";"pim_catalog_text omnis sunt";"pim_catalog_text dolorem nobis";0;0;;;
+attr_55;pim_catalog_multiselect;attr_gr_14;0;"pim_catalog_text autem recusandae";"pim_catalog_text omnis ab";"pim_catalog_text praesentium impedit";"pim_catalog_text similique voluptas";0;0;;;
+attr_56;pim_catalog_image;attr_gr_10;0;"pim_catalog_text expedita ut";"pim_catalog_text odit totam";"pim_catalog_text corrupti aliquid";"pim_catalog_text molestiae rerum";0;0;pdf,png;;
+attr_57;pim_catalog_number;attr_gr_10;0;"pim_catalog_text nihil sed";"pim_catalog_text adipisci aut";"pim_catalog_text accusamus aspernatur";"pim_catalog_text natus qui";0;0;;;
+attr_58;pim_catalog_file;attr_gr_7;0;"pim_catalog_text sit odit";"pim_catalog_text quasi odit";"pim_catalog_text autem sunt";"pim_catalog_text est omnis";0;0;pdf,png;;
+attr_59;pim_catalog_multiselect;attr_gr_2;0;"pim_catalog_text iure tempora";"pim_catalog_text maxime error";"pim_catalog_text nihil autem";"pim_catalog_text ut qui";0;0;;;
+attr_60;pim_catalog_metric;attr_gr_9;1;"pim_catalog_text qui autem";"pim_catalog_text aliquam quo";"pim_catalog_text blanditiis nostrum";"pim_catalog_text est exercitationem";1;0;;Length;METER
+attr_61;pim_catalog_textarea;attr_gr_6;0;"pim_catalog_text voluptates pariatur";"pim_catalog_text tempore qui";"pim_catalog_text eos aliquam";"pim_catalog_text recusandae odit";0;0;;;
+attr_62;pim_catalog_simpleselect;attr_gr_1;0;"pim_catalog_text doloribus sunt";"pim_catalog_text qui ut";"pim_catalog_text ea ut";"pim_catalog_text commodi iste";0;0;;;
+attr_63;pim_catalog_text;attr_gr_5;0;"pim_catalog_text mollitia officiis";"pim_catalog_text est voluptate";"pim_catalog_text numquam ipsum";"pim_catalog_text saepe quia";0;0;;;
+attr_64;pim_catalog_metric;attr_gr_5;1;"pim_catalog_text quis minima";"pim_catalog_text non qui";"pim_catalog_text officiis dolores";"pim_catalog_text quasi excepturi";0;0;;Length;METER
+attr_65;pim_catalog_metric;attr_gr_13;0;"pim_catalog_text doloribus beatae";"pim_catalog_text est eaque";"pim_catalog_text beatae possimus";"pim_catalog_text omnis eos";0;0;;Length;METER
+attr_66;pim_catalog_multiselect;attr_gr_4;0;"pim_catalog_text qui et";"pim_catalog_text totam voluptatibus";"pim_catalog_text quod est";"pim_catalog_text ullam sint";0;0;;;
+attr_67;pim_catalog_simpleselect;attr_gr_2;0;"pim_catalog_text dicta quasi";"pim_catalog_text quo ut";"pim_catalog_text praesentium est";"pim_catalog_text nostrum explicabo";0;0;;;
+attr_68;pim_catalog_number;attr_gr_7;0;"pim_catalog_text placeat distinctio";"pim_catalog_text debitis sunt";"pim_catalog_text veniam autem";"pim_catalog_text ut neque";0;0;;;
+attr_69;pim_catalog_price_collection;attr_gr_11;0;"pim_catalog_text laboriosam totam";"pim_catalog_text eum aut";"pim_catalog_text qui sit";"pim_catalog_text quos dicta";0;0;;;
+attr_70;pim_catalog_metric;attr_gr_1;0;"pim_catalog_text inventore vero";"pim_catalog_text voluptate sint";"pim_catalog_text omnis soluta";"pim_catalog_text eius optio";0;0;;Length;METER
+attr_71;pim_catalog_metric;attr_gr_1;0;"pim_catalog_text atque esse";"pim_catalog_text placeat eum";"pim_catalog_text aut quia";"pim_catalog_text veniam aut";0;0;;Length;METER
+attr_72;pim_catalog_textarea;attr_gr_9;0;"pim_catalog_text qui ea";"pim_catalog_text aut beatae";"pim_catalog_text aliquid aliquid";"pim_catalog_text non non";0;0;;;
+attr_73;pim_catalog_boolean;attr_gr_6;0;"pim_catalog_text quia quisquam";"pim_catalog_text reiciendis dolore";"pim_catalog_text harum illum";"pim_catalog_text nostrum ipsam";0;0;;;
+attr_74;pim_catalog_price_collection;attr_gr_10;0;"pim_catalog_text vitae reiciendis";"pim_catalog_text ea dolores";"pim_catalog_text sed officiis";"pim_catalog_text et dolor";0;0;;;
+attr_75;pim_catalog_boolean;attr_gr_5;0;"pim_catalog_text quo et";"pim_catalog_text rem repellat";"pim_catalog_text rerum ea";"pim_catalog_text saepe qui";0;0;;;
+attr_76;pim_catalog_image;attr_gr_2;0;"pim_catalog_text repudiandae ut";"pim_catalog_text dolor quo";"pim_catalog_text alias repudiandae";"pim_catalog_text et eligendi";0;0;png,jpg;;
+attr_77;pim_catalog_boolean;attr_gr_14;0;"pim_catalog_text sint expedita";"pim_catalog_text placeat voluptatibus";"pim_catalog_text doloribus pariatur";"pim_catalog_text voluptate ex";0;0;;;
+attr_78;pim_catalog_textarea;attr_gr_2;1;"pim_catalog_text incidunt doloremque";"pim_catalog_text id illo";"pim_catalog_text magnam ut";"pim_catalog_text ut voluptatibus";1;0;;;
+attr_79;pim_catalog_number;attr_gr_3;0;"pim_catalog_text natus asperiores";"pim_catalog_text quos laborum";"pim_catalog_text aliquam dicta";"pim_catalog_text consequatur iusto";0;0;;;
+attr_80;pim_catalog_file;attr_gr_6;0;"pim_catalog_text quos optio";"pim_catalog_text sunt est";"pim_catalog_text rerum dolore";"pim_catalog_text sed ut";0;0;png,pdf;;
+attr_81;pim_catalog_boolean;attr_gr_9;1;"pim_catalog_text magni autem";"pim_catalog_text at delectus";"pim_catalog_text sequi debitis";"pim_catalog_text tempore facilis";0;0;;;
+attr_82;pim_catalog_boolean;attr_gr_12;0;"pim_catalog_text eum porro";"pim_catalog_text et dolor";"pim_catalog_text dolorem omnis";"pim_catalog_text blanditiis cupiditate";0;0;;;
+attr_83;pim_catalog_file;attr_gr_10;0;"pim_catalog_text qui non";"pim_catalog_text quibusdam expedita";"pim_catalog_text qui hic";"pim_catalog_text odit veritatis";0;0;pdf,png;;
+attr_84;pim_catalog_boolean;attr_gr_7;0;"pim_catalog_text qui sint";"pim_catalog_text velit ut";"pim_catalog_text corrupti nihil";"pim_catalog_text eos facilis";1;1;;;
+attr_85;pim_catalog_image;attr_gr_8;0;"pim_catalog_text ut est";"pim_catalog_text optio minima";"pim_catalog_text odit error";"pim_catalog_text sit aut";0;0;jpg,png;;
+attr_86;pim_catalog_price_collection;attr_gr_4;0;"pim_catalog_text ad ducimus";"pim_catalog_text perferendis aut";"pim_catalog_text laborum aut";"pim_catalog_text nam totam";0;0;;;
+attr_87;pim_catalog_text;attr_gr_14;0;"pim_catalog_text assumenda non";"pim_catalog_text in hic";"pim_catalog_text qui sunt";"pim_catalog_text dolore mollitia";0;0;;;
+attr_88;pim_catalog_textarea;attr_gr_5;0;"pim_catalog_text quia aut";"pim_catalog_text vero quod";"pim_catalog_text necessitatibus ipsum";"pim_catalog_text est voluptatum";0;0;;;
+attr_89;pim_catalog_number;attr_gr_8;0;"pim_catalog_text doloremque deleniti";"pim_catalog_text molestias consectetur";"pim_catalog_text incidunt repellat";"pim_catalog_text et et";0;0;;;
+attr_90;pim_catalog_number;attr_gr_0;0;"pim_catalog_text perferendis aut";"pim_catalog_text et possimus";"pim_catalog_text et quo";"pim_catalog_text et veritatis";0;0;;;
+attr_91;pim_catalog_date;attr_gr_10;0;"pim_catalog_text cum nihil";"pim_catalog_text omnis ab";"pim_catalog_text et sit";"pim_catalog_text molestiae adipisci";0;0;;;
+attr_92;pim_catalog_image;attr_gr_7;0;"pim_catalog_text facere dolorem";"pim_catalog_text qui et";"pim_catalog_text et sit";"pim_catalog_text tenetur molestiae";0;0;jpg,pdf;;
+attr_93;pim_catalog_image;attr_gr_1;0;"pim_catalog_text voluptatem rerum";"pim_catalog_text voluptatem animi";"pim_catalog_text cum adipisci";"pim_catalog_text est cupiditate";0;0;jpg,png;;
+attr_94;pim_catalog_multiselect;attr_gr_8;0;"pim_catalog_text nesciunt voluptates";"pim_catalog_text explicabo aliquid";"pim_catalog_text voluptatem ducimus";"pim_catalog_text non explicabo";0;0;;;
+attr_95;pim_catalog_text;attr_gr_7;0;"pim_catalog_text molestias minima";"pim_catalog_text autem et";"pim_catalog_text harum incidunt";"pim_catalog_text nemo totam";0;0;;;
+attr_96;pim_catalog_textarea;attr_gr_9;0;"pim_catalog_text ut tempore";"pim_catalog_text voluptas velit";"pim_catalog_text molestias reiciendis";"pim_catalog_text enim cum";0;0;;;
+attr_97;pim_catalog_text;attr_gr_11;0;"pim_catalog_text suscipit architecto";"pim_catalog_text et eaque";"pim_catalog_text eligendi explicabo";"pim_catalog_text et aut";1;0;;;
+attr_98;pim_catalog_metric;attr_gr_6;0;"pim_catalog_text officia minus";"pim_catalog_text mollitia sunt";"pim_catalog_text provident praesentium";"pim_catalog_text eos vel";0;0;;Length;METER
+attr_99;pim_catalog_simpleselect;attr_gr_4;0;"pim_catalog_text qui repudiandae";"pim_catalog_text ullam ex";"pim_catalog_text expedita sed";"pim_catalog_text atque nihil";0;0;;;
+attr_100;pim_catalog_file;attr_gr_14;0;"pim_catalog_text commodi a";"pim_catalog_text exercitationem qui";"pim_catalog_text culpa necessitatibus";"pim_catalog_text accusamus qui";0;0;png,jpg;;
+attr_101;pim_catalog_price_collection;attr_gr_10;0;"pim_catalog_text labore repudiandae";"pim_catalog_text necessitatibus quia";"pim_catalog_text et deleniti";"pim_catalog_text esse quos";0;0;;;
+attr_102;pim_catalog_boolean;attr_gr_14;0;"pim_catalog_text odit ut";"pim_catalog_text in temporibus";"pim_catalog_text et reprehenderit";"pim_catalog_text accusamus nobis";0;0;;;
+attr_103;pim_catalog_image;attr_gr_6;0;"pim_catalog_text iure quos";"pim_catalog_text quis repellendus";"pim_catalog_text quae inventore";"pim_catalog_text dolores quis";0;0;pdf,jpg;;
+attr_104;pim_catalog_number;attr_gr_9;0;"pim_catalog_text perspiciatis illo";"pim_catalog_text rerum eligendi";"pim_catalog_text est quos";"pim_catalog_text non dicta";0;0;;;
+attr_105;pim_catalog_file;attr_gr_2;1;"pim_catalog_text voluptatem aut";"pim_catalog_text sapiente quo";"pim_catalog_text deleniti ut";"pim_catalog_text aut placeat";0;0;png,jpg;;
+attr_106;pim_catalog_metric;attr_gr_0;0;"pim_catalog_text dolorem quia";"pim_catalog_text ea nostrum";"pim_catalog_text sed est";"pim_catalog_text velit dignissimos";0;0;;Length;METER
+attr_107;pim_catalog_file;attr_gr_6;1;"pim_catalog_text eligendi ea";"pim_catalog_text nihil consectetur";"pim_catalog_text rem sunt";"pim_catalog_text velit rerum";0;0;jpg,png;;
+attr_108;pim_catalog_simpleselect;attr_gr_8;0;"pim_catalog_text voluptatum culpa";"pim_catalog_text deserunt ullam";"pim_catalog_text ut sint";"pim_catalog_text eius sint";0;0;;;
+attr_109;pim_catalog_simpleselect;attr_gr_4;0;"pim_catalog_text est quae";"pim_catalog_text laudantium debitis";"pim_catalog_text voluptatem autem";"pim_catalog_text nihil aut";0;0;;;
+attr_110;pim_catalog_number;attr_gr_0;0;"pim_catalog_text quasi nam";"pim_catalog_text qui veritatis";"pim_catalog_text voluptatem consequatur";"pim_catalog_text rerum magnam";0;0;;;
+attr_111;pim_catalog_file;attr_gr_4;0;"pim_catalog_text sit quos";"pim_catalog_text vel quisquam";"pim_catalog_text voluptatem quaerat";"pim_catalog_text ad veniam";0;0;pdf,png;;
+attr_112;pim_catalog_simpleselect;attr_gr_3;0;"pim_catalog_text atque tempora";"pim_catalog_text rerum et";"pim_catalog_text ut est";"pim_catalog_text voluptatem doloremque";0;0;;;
+attr_113;pim_catalog_image;attr_gr_0;0;"pim_catalog_text quisquam exercitationem";"pim_catalog_text atque qui";"pim_catalog_text nulla voluptates";"pim_catalog_text quidem voluptates";0;0;png,pdf;;
+attr_114;pim_catalog_number;attr_gr_4;0;"pim_catalog_text enim ea";"pim_catalog_text sit nobis";"pim_catalog_text magni facere";"pim_catalog_text vel maxime";0;0;;;
+attr_115;pim_catalog_text;attr_gr_1;0;"pim_catalog_text dolore ad";"pim_catalog_text laudantium voluptatem";"pim_catalog_text velit voluptas";"pim_catalog_text fuga numquam";0;0;;;
+attr_116;pim_catalog_price_collection;attr_gr_10;0;"pim_catalog_text et molestias";"pim_catalog_text officia facilis";"pim_catalog_text neque voluptates";"pim_catalog_text voluptatem aut";0;0;;;
+attr_117;pim_catalog_date;attr_gr_0;0;"pim_catalog_text iste neque";"pim_catalog_text tempora quis";"pim_catalog_text dolores ut";"pim_catalog_text quibusdam asperiores";0;0;;;
+attr_118;pim_catalog_date;attr_gr_2;0;"pim_catalog_text consequatur consequatur";"pim_catalog_text velit sed";"pim_catalog_text qui ea";"pim_catalog_text velit sunt";0;0;;;
+attr_119;pim_catalog_price_collection;attr_gr_3;0;"pim_catalog_text velit alias";"pim_catalog_text cum laborum";"pim_catalog_text officia vitae";"pim_catalog_text reprehenderit placeat";0;0;;;
+attr_120;pim_catalog_image;attr_gr_1;0;"pim_catalog_text ad tenetur";"pim_catalog_text porro ut";"pim_catalog_text nesciunt dolore";"pim_catalog_text vel laudantium";0;0;jpg,pdf;;
+attr_121;pim_catalog_date;attr_gr_0;0;"pim_catalog_text expedita minima";"pim_catalog_text harum tempore";"pim_catalog_text non cumque";"pim_catalog_text atque rerum";0;0;;;
+attr_122;pim_catalog_textarea;attr_gr_12;0;"pim_catalog_text voluptatem blanditiis";"pim_catalog_text ullam omnis";"pim_catalog_text et quae";"pim_catalog_text voluptas officiis";0;0;;;
+attr_123;pim_catalog_multiselect;attr_gr_5;0;"pim_catalog_text at aspernatur";"pim_catalog_text et dicta";"pim_catalog_text ab in";"pim_catalog_text impedit distinctio";0;0;;;
+attr_124;pim_catalog_metric;attr_gr_0;0;"pim_catalog_text doloribus repudiandae";"pim_catalog_text quis eaque";"pim_catalog_text harum aut";"pim_catalog_text hic maxime";0;0;;Length;METER
+attr_125;pim_catalog_date;attr_gr_8;0;"pim_catalog_text qui alias";"pim_catalog_text a aut";"pim_catalog_text autem enim";"pim_catalog_text voluptas cupiditate";0;0;;;
+attr_126;pim_catalog_date;attr_gr_10;0;"pim_catalog_text et possimus";"pim_catalog_text tempora eos";"pim_catalog_text qui temporibus";"pim_catalog_text doloribus consequatur";0;0;;;
+attr_127;pim_catalog_boolean;attr_gr_1;0;"pim_catalog_text incidunt laudantium";"pim_catalog_text sunt quaerat";"pim_catalog_text voluptas animi";"pim_catalog_text voluptatem impedit";1;0;;;
+attr_128;pim_catalog_multiselect;attr_gr_8;1;"pim_catalog_text aut ipsam";"pim_catalog_text velit dolorum";"pim_catalog_text a ut";"pim_catalog_text explicabo debitis";0;0;;;
+attr_129;pim_catalog_number;attr_gr_9;0;"pim_catalog_text unde consequatur";"pim_catalog_text exercitationem aut";"pim_catalog_text praesentium qui";"pim_catalog_text sint sunt";0;0;;;
+attr_130;pim_catalog_date;attr_gr_10;0;"pim_catalog_text ipsam ut";"pim_catalog_text ut officiis";"pim_catalog_text inventore consequatur";"pim_catalog_text repudiandae ut";0;0;;;
+attr_131;pim_catalog_file;attr_gr_11;0;"pim_catalog_text et dolor";"pim_catalog_text tempora et";"pim_catalog_text ut nesciunt";"pim_catalog_text consequuntur similique";0;0;png,jpg;;
+attr_132;pim_catalog_price_collection;attr_gr_5;0;"pim_catalog_text fuga ipsam";"pim_catalog_text nam odio";"pim_catalog_text beatae quam";"pim_catalog_text saepe aliquam";0;0;;;
+attr_133;pim_catalog_date;attr_gr_14;0;"pim_catalog_text vel dolores";"pim_catalog_text totam sed";"pim_catalog_text sit impedit";"pim_catalog_text ea quidem";0;0;;;
+attr_134;pim_catalog_simpleselect;attr_gr_5;0;"pim_catalog_text similique doloremque";"pim_catalog_text blanditiis adipisci";"pim_catalog_text accusamus aliquid";"pim_catalog_text quidem dolores";0;0;;;
+attr_135;pim_catalog_text;attr_gr_11;0;"pim_catalog_text id dolores";"pim_catalog_text sed nisi";"pim_catalog_text voluptate maxime";"pim_catalog_text ut esse";0;0;;;
+attr_136;pim_catalog_multiselect;attr_gr_2;0;"pim_catalog_text nam debitis";"pim_catalog_text rem sint";"pim_catalog_text ipsum perspiciatis";"pim_catalog_text excepturi et";0;0;;;
+attr_137;pim_catalog_boolean;attr_gr_9;0;"pim_catalog_text rerum mollitia";"pim_catalog_text quia sit";"pim_catalog_text aut commodi";"pim_catalog_text excepturi provident";0;0;;;
+attr_138;pim_catalog_number;attr_gr_6;0;"pim_catalog_text dolores molestias";"pim_catalog_text beatae earum";"pim_catalog_text et pariatur";"pim_catalog_text nihil quaerat";0;0;;;
+attr_139;pim_catalog_simpleselect;attr_gr_7;0;"pim_catalog_text veritatis soluta";"pim_catalog_text accusantium qui";"pim_catalog_text voluptatem dolores";"pim_catalog_text eos dolore";0;0;;;
+attr_140;pim_catalog_multiselect;attr_gr_3;1;"pim_catalog_text vero non";"pim_catalog_text hic ut";"pim_catalog_text voluptas sint";"pim_catalog_text optio autem";0;0;;;
+attr_141;pim_catalog_number;attr_gr_13;0;"pim_catalog_text minus quasi";"pim_catalog_text ut quia";"pim_catalog_text veritatis enim";"pim_catalog_text illum nihil";0;0;;;
+attr_142;pim_catalog_textarea;attr_gr_11;0;"pim_catalog_text dignissimos sint";"pim_catalog_text beatae voluptatem";"pim_catalog_text id omnis";"pim_catalog_text placeat ratione";0;0;;;
+attr_143;pim_catalog_metric;attr_gr_6;0;"pim_catalog_text sit et";"pim_catalog_text tempora consequatur";"pim_catalog_text unde quis";"pim_catalog_text consequatur perferendis";0;0;;Length;METER
+attr_144;pim_catalog_image;attr_gr_14;0;"pim_catalog_text nostrum veritatis";"pim_catalog_text ullam atque";"pim_catalog_text facilis quis";"pim_catalog_text omnis ut";0;0;jpg,png;;
+attr_145;pim_catalog_simpleselect;attr_gr_7;0;"pim_catalog_text consequuntur aut";"pim_catalog_text ullam vero";"pim_catalog_text occaecati magnam";"pim_catalog_text ullam ea";0;0;;;
+attr_146;pim_catalog_date;attr_gr_10;0;"pim_catalog_text vero rerum";"pim_catalog_text dignissimos commodi";"pim_catalog_text velit ducimus";"pim_catalog_text sit id";0;0;;;
+attr_147;pim_catalog_price_collection;attr_gr_1;0;"pim_catalog_text et voluptas";"pim_catalog_text tempore consequatur";"pim_catalog_text magnam nisi";"pim_catalog_text occaecati quisquam";0;0;;;
+attr_148;pim_catalog_text;attr_gr_7;0;"pim_catalog_text corrupti rerum";"pim_catalog_text dolorum quod";"pim_catalog_text doloribus quisquam";"pim_catalog_text tempore omnis";0;0;;;
+attr_149;pim_catalog_multiselect;attr_gr_10;0;"pim_catalog_text ipsum aut";"pim_catalog_text quia rerum";"pim_catalog_text architecto autem";"pim_catalog_text quis mollitia";0;0;;;
+attr_150;pim_catalog_price_collection;attr_gr_11;0;"pim_catalog_text adipisci quia";"pim_catalog_text non pariatur";"pim_catalog_text et id";"pim_catalog_text rerum dolor";1;0;;;
+attr_151;pim_catalog_image;attr_gr_10;0;"pim_catalog_text hic sed";"pim_catalog_text a quos";"pim_catalog_text quam aut";"pim_catalog_text et debitis";0;0;jpg,png;;
+attr_152;pim_catalog_image;attr_gr_10;1;"pim_catalog_text iusto atque";"pim_catalog_text aut ea";"pim_catalog_text porro et";"pim_catalog_text sed sit";0;0;pdf,jpg;;
+attr_153;pim_catalog_multiselect;attr_gr_3;1;"pim_catalog_text exercitationem quia";"pim_catalog_text temporibus rerum";"pim_catalog_text ad non";"pim_catalog_text accusantium sit";0;0;;;
+attr_154;pim_catalog_metric;attr_gr_1;0;"pim_catalog_text quia placeat";"pim_catalog_text consectetur consectetur";"pim_catalog_text in et";"pim_catalog_text atque eos";0;0;;Length;METER
+attr_155;pim_catalog_text;attr_gr_1;0;"pim_catalog_text praesentium sequi";"pim_catalog_text quia ea";"pim_catalog_text quaerat unde";"pim_catalog_text est mollitia";0;0;;;
+attr_156;pim_catalog_simpleselect;attr_gr_13;0;"pim_catalog_text nesciunt qui";"pim_catalog_text quo deleniti";"pim_catalog_text nulla qui";"pim_catalog_text aliquam porro";0;0;;;
+attr_157;pim_catalog_number;attr_gr_12;0;"pim_catalog_text numquam quisquam";"pim_catalog_text ipsam qui";"pim_catalog_text praesentium sed";"pim_catalog_text quibusdam doloremque";0;0;;;
+attr_158;pim_catalog_metric;attr_gr_0;0;"pim_catalog_text architecto illo";"pim_catalog_text dolor amet";"pim_catalog_text aut sed";"pim_catalog_text non libero";0;0;;Length;METER
+attr_159;pim_catalog_file;attr_gr_1;0;"pim_catalog_text inventore inventore";"pim_catalog_text ea et";"pim_catalog_text explicabo dolorem";"pim_catalog_text dolore natus";0;0;pdf,png;;
+attr_160;pim_catalog_multiselect;attr_gr_0;0;"pim_catalog_text est voluptatum";"pim_catalog_text voluptatibus aut";"pim_catalog_text dolor dicta";"pim_catalog_text iusto dignissimos";0;0;;;
+attr_161;pim_catalog_file;attr_gr_10;0;"pim_catalog_text sunt rerum";"pim_catalog_text consectetur et";"pim_catalog_text quia ut";"pim_catalog_text non placeat";0;0;png,pdf;;
+attr_162;pim_catalog_image;attr_gr_9;0;"pim_catalog_text omnis harum";"pim_catalog_text quo aliquid";"pim_catalog_text omnis doloremque";"pim_catalog_text facere aperiam";0;0;png,pdf;;
+attr_163;pim_catalog_boolean;attr_gr_3;1;"pim_catalog_text tenetur ex";"pim_catalog_text voluptatem assumenda";"pim_catalog_text voluptas iure";"pim_catalog_text aut minus";0;0;;;
+attr_164;pim_catalog_file;attr_gr_0;0;"pim_catalog_text voluptatum nemo";"pim_catalog_text id perspiciatis";"pim_catalog_text doloremque sed";"pim_catalog_text animi ut";0;0;pdf,png;;
+attr_165;pim_catalog_date;attr_gr_5;0;"pim_catalog_text molestias eius";"pim_catalog_text quisquam dolorem";"pim_catalog_text aut nobis";"pim_catalog_text corrupti voluptates";0;0;;;
+attr_166;pim_catalog_textarea;attr_gr_4;0;"pim_catalog_text voluptas asperiores";"pim_catalog_text commodi autem";"pim_catalog_text amet asperiores";"pim_catalog_text vel tempora";0;0;;;
+attr_167;pim_catalog_number;attr_gr_1;0;"pim_catalog_text voluptate omnis";"pim_catalog_text animi non";"pim_catalog_text et fugiat";"pim_catalog_text ut et";0;0;;;
+attr_168;pim_catalog_textarea;attr_gr_2;0;"pim_catalog_text est sed";"pim_catalog_text natus aut";"pim_catalog_text provident enim";"pim_catalog_text omnis aut";0;0;;;
+attr_169;pim_catalog_boolean;attr_gr_5;0;"pim_catalog_text vel cum";"pim_catalog_text occaecati earum";"pim_catalog_text eum aut";"pim_catalog_text maxime est";1;0;;;
+attr_170;pim_catalog_image;attr_gr_5;0;"pim_catalog_text eum velit";"pim_catalog_text quos nisi";"pim_catalog_text odit sint";"pim_catalog_text id sit";0;0;jpg,pdf;;
+attr_171;pim_catalog_metric;attr_gr_9;1;"pim_catalog_text unde corporis";"pim_catalog_text error sit";"pim_catalog_text labore nesciunt";"pim_catalog_text illo accusamus";0;0;;Length;METER
+attr_172;pim_catalog_file;attr_gr_1;0;"pim_catalog_text maiores sit";"pim_catalog_text earum quaerat";"pim_catalog_text est molestiae";"pim_catalog_text et corporis";0;0;pdf,png;;
+attr_173;pim_catalog_text;attr_gr_13;0;"pim_catalog_text suscipit itaque";"pim_catalog_text tempora impedit";"pim_catalog_text ipsum dolor";"pim_catalog_text placeat qui";0;0;;;
+attr_174;pim_catalog_date;attr_gr_13;0;"pim_catalog_text aperiam ut";"pim_catalog_text accusamus voluptatibus";"pim_catalog_text facilis autem";"pim_catalog_text et ducimus";0;0;;;
+attr_175;pim_catalog_text;attr_gr_12;0;"pim_catalog_text eos ea";"pim_catalog_text repudiandae at";"pim_catalog_text quis voluptate";"pim_catalog_text quod ullam";1;0;;;
+attr_176;pim_catalog_image;attr_gr_13;1;"pim_catalog_text excepturi non";"pim_catalog_text earum non";"pim_catalog_text voluptates nostrum";"pim_catalog_text quae ut";0;0;png,jpg;;
+attr_177;pim_catalog_textarea;attr_gr_13;0;"pim_catalog_text molestiae cupiditate";"pim_catalog_text iure aliquam";"pim_catalog_text sint error";"pim_catalog_text animi perspiciatis";0;0;;;
+attr_178;pim_catalog_file;attr_gr_3;0;"pim_catalog_text qui nihil";"pim_catalog_text labore ratione";"pim_catalog_text qui nesciunt";"pim_catalog_text optio est";0;0;jpg,png;;
+attr_179;pim_catalog_metric;attr_gr_13;0;"pim_catalog_text nihil eligendi";"pim_catalog_text quas voluptas";"pim_catalog_text omnis quo";"pim_catalog_text et eveniet";0;1;;Length;METER
+attr_180;pim_catalog_image;attr_gr_2;0;"pim_catalog_text dolorem nulla";"pim_catalog_text vero quam";"pim_catalog_text sunt quia";"pim_catalog_text rerum ab";0;0;png,pdf;;
+attr_181;pim_catalog_image;attr_gr_14;0;"pim_catalog_text molestiae dolorem";"pim_catalog_text non aut";"pim_catalog_text beatae voluptatem";"pim_catalog_text id omnis";0;0;pdf,png;;
+attr_182;pim_catalog_date;attr_gr_4;0;"pim_catalog_text aliquam aut";"pim_catalog_text dolor necessitatibus";"pim_catalog_text qui ea";"pim_catalog_text sed consequatur";0;0;;;
+attr_183;pim_catalog_text;attr_gr_1;0;"pim_catalog_text est fugit";"pim_catalog_text alias enim";"pim_catalog_text dolores velit";"pim_catalog_text odio non";0;0;;;
+attr_184;pim_catalog_image;attr_gr_5;0;"pim_catalog_text possimus consequatur";"pim_catalog_text error magnam";"pim_catalog_text qui voluptas";"pim_catalog_text ex velit";0;0;pdf,jpg;;
+attr_185;pim_catalog_simpleselect;attr_gr_13;0;"pim_catalog_text occaecati eum";"pim_catalog_text eum sed";"pim_catalog_text in id";"pim_catalog_text occaecati quaerat";0;0;;;
+attr_186;pim_catalog_multiselect;attr_gr_1;0;"pim_catalog_text sit et";"pim_catalog_text tenetur quos";"pim_catalog_text explicabo officia";"pim_catalog_text ratione laudantium";0;0;;;
+attr_187;pim_catalog_text;attr_gr_5;0;"pim_catalog_text error debitis";"pim_catalog_text id nam";"pim_catalog_text laborum reprehenderit";"pim_catalog_text odit vitae";0;0;;;
+attr_188;pim_catalog_textarea;attr_gr_12;1;"pim_catalog_text neque facilis";"pim_catalog_text accusantium consequuntur";"pim_catalog_text nam voluptatem";"pim_catalog_text architecto nemo";0;0;;;
+attr_189;pim_catalog_metric;attr_gr_4;0;"pim_catalog_text cum nemo";"pim_catalog_text est quam";"pim_catalog_text et aliquam";"pim_catalog_text repellat excepturi";0;0;;Length;METER
+attr_190;pim_catalog_multiselect;attr_gr_13;0;"pim_catalog_text sit quia";"pim_catalog_text est commodi";"pim_catalog_text nobis debitis";"pim_catalog_text sunt quam";0;0;;;
+attr_191;pim_catalog_number;attr_gr_0;0;"pim_catalog_text veniam voluptatibus";"pim_catalog_text debitis facilis";"pim_catalog_text reprehenderit aut";"pim_catalog_text tempora voluptas";0;0;;;
+attr_192;pim_catalog_metric;attr_gr_6;0;"pim_catalog_text incidunt ratione";"pim_catalog_text nihil quisquam";"pim_catalog_text velit dolore";"pim_catalog_text consequatur neque";0;0;;Length;METER
+attr_193;pim_catalog_multiselect;attr_gr_14;0;"pim_catalog_text qui dolorem";"pim_catalog_text corporis illum";"pim_catalog_text aut omnis";"pim_catalog_text voluptatum laboriosam";0;0;;;
+attr_194;pim_catalog_number;attr_gr_2;0;"pim_catalog_text voluptas praesentium";"pim_catalog_text reprehenderit provident";"pim_catalog_text architecto rerum";"pim_catalog_text consectetur ex";1;0;;;
+attr_195;pim_catalog_boolean;attr_gr_5;0;"pim_catalog_text rem voluptas";"pim_catalog_text aut rerum";"pim_catalog_text fuga tempore";"pim_catalog_text eos eum";0;0;;;
+attr_196;pim_catalog_multiselect;attr_gr_12;0;"pim_catalog_text et aut";"pim_catalog_text sint odit";"pim_catalog_text qui unde";"pim_catalog_text id est";0;0;;;
+attr_197;pim_catalog_image;attr_gr_3;0;"pim_catalog_text aut maxime";"pim_catalog_text maiores in";"pim_catalog_text incidunt quis";"pim_catalog_text occaecati et";0;0;pdf,png;;
+attr_198;pim_catalog_date;attr_gr_5;0;"pim_catalog_text explicabo aut";"pim_catalog_text voluptatum deserunt";"pim_catalog_text delectus eum";"pim_catalog_text dolor alias";0;0;;;
+attr_199;pim_catalog_boolean;attr_gr_12;0;"pim_catalog_text magnam eum";"pim_catalog_text omnis corporis";"pim_catalog_text dolores et";"pim_catalog_text tempore assumenda";0;0;;;
+attr_200;pim_catalog_date;attr_gr_6;0;"pim_catalog_text repellat sapiente";"pim_catalog_text dolores et";"pim_catalog_text odio nihil";"pim_catalog_text nemo sed";1;0;;;
+attr_201;pim_catalog_boolean;attr_gr_14;1;"pim_catalog_text in veniam";"pim_catalog_text et reprehenderit";"pim_catalog_text voluptas eos";"pim_catalog_text in natus";0;0;;;
+attr_202;pim_catalog_date;attr_gr_14;1;"pim_catalog_text aspernatur error";"pim_catalog_text nam quidem";"pim_catalog_text qui sapiente";"pim_catalog_text adipisci voluptas";0;0;;;
+attr_203;pim_catalog_metric;attr_gr_7;0;"pim_catalog_text fugit ut";"pim_catalog_text culpa unde";"pim_catalog_text ut nobis";"pim_catalog_text eos consequatur";0;0;;Length;METER
+attr_204;pim_catalog_simpleselect;attr_gr_12;1;"pim_catalog_text modi repellendus";"pim_catalog_text voluptatibus magnam";"pim_catalog_text non quia";"pim_catalog_text sapiente alias";0;0;;;
+attr_205;pim_catalog_multiselect;attr_gr_2;0;"pim_catalog_text reprehenderit ut";"pim_catalog_text assumenda in";"pim_catalog_text amet accusantium";"pim_catalog_text labore dicta";0;0;;;
+attr_206;pim_catalog_date;attr_gr_10;1;"pim_catalog_text odit eum";"pim_catalog_text quae ut";"pim_catalog_text laudantium sed";"pim_catalog_text omnis eveniet";0;0;;;
+attr_207;pim_catalog_image;attr_gr_12;0;"pim_catalog_text culpa eos";"pim_catalog_text iusto corporis";"pim_catalog_text molestiae esse";"pim_catalog_text beatae et";0;0;jpg,png;;
+attr_208;pim_catalog_number;attr_gr_7;0;"pim_catalog_text incidunt optio";"pim_catalog_text distinctio quibusdam";"pim_catalog_text adipisci quia";"pim_catalog_text aliquid enim";0;0;;;
+attr_209;pim_catalog_metric;attr_gr_0;0;"pim_catalog_text dolorem est";"pim_catalog_text sit dolorem";"pim_catalog_text aspernatur id";"pim_catalog_text quis quidem";0;0;;Length;METER
+attr_210;pim_catalog_text;attr_gr_4;0;"pim_catalog_text laudantium qui";"pim_catalog_text soluta eos";"pim_catalog_text et sed";"pim_catalog_text molestiae est";0;1;;;
+attr_211;pim_catalog_multiselect;attr_gr_9;0;"pim_catalog_text eaque quae";"pim_catalog_text quidem voluptatem";"pim_catalog_text et inventore";"pim_catalog_text temporibus quis";0;0;;;
+attr_212;pim_catalog_date;attr_gr_0;0;"pim_catalog_text quia libero";"pim_catalog_text amet tempore";"pim_catalog_text repellat ea";"pim_catalog_text omnis facilis";0;0;;;
+attr_213;pim_catalog_boolean;attr_gr_13;0;"pim_catalog_text voluptatum et";"pim_catalog_text ea fugit";"pim_catalog_text voluptatem natus";"pim_catalog_text aliquam est";0;0;;;
+attr_214;pim_catalog_image;attr_gr_4;0;"pim_catalog_text possimus est";"pim_catalog_text omnis rerum";"pim_catalog_text dignissimos aut";"pim_catalog_text ducimus voluptatem";0;0;pdf,jpg;;
+attr_215;pim_catalog_image;attr_gr_11;0;"pim_catalog_text nam et";"pim_catalog_text qui reiciendis";"pim_catalog_text quo expedita";"pim_catalog_text repudiandae et";0;0;pdf,jpg;;
+attr_216;pim_catalog_simpleselect;attr_gr_9;0;"pim_catalog_text quas aut";"pim_catalog_text cupiditate delectus";"pim_catalog_text deserunt maiores";"pim_catalog_text doloribus maiores";0;0;;;
+attr_217;pim_catalog_multiselect;attr_gr_4;0;"pim_catalog_text voluptate error";"pim_catalog_text minima et";"pim_catalog_text eligendi inventore";"pim_catalog_text accusamus repellendus";0;0;;;
+attr_218;pim_catalog_textarea;attr_gr_2;0;"pim_catalog_text quas exercitationem";"pim_catalog_text excepturi sint";"pim_catalog_text consequatur iste";"pim_catalog_text maiores et";0;0;;;
+attr_219;pim_catalog_file;attr_gr_10;0;"pim_catalog_text autem molestiae";"pim_catalog_text quod id";"pim_catalog_text qui voluptas";"pim_catalog_text ipsa vitae";0;0;pdf,png;;
+attr_220;pim_catalog_image;attr_gr_5;0;"pim_catalog_text earum laborum";"pim_catalog_text et dolore";"pim_catalog_text reiciendis cupiditate";"pim_catalog_text aspernatur et";1;0;pdf,jpg;;
+attr_221;pim_catalog_multiselect;attr_gr_1;0;"pim_catalog_text mollitia error";"pim_catalog_text doloribus maiores";"pim_catalog_text quia placeat";"pim_catalog_text fugit qui";0;0;;;
+attr_222;pim_catalog_text;attr_gr_0;0;"pim_catalog_text consequuntur distinctio";"pim_catalog_text aut repellat";"pim_catalog_text eius praesentium";"pim_catalog_text maxime voluptatem";0;0;;;
+attr_223;pim_catalog_textarea;attr_gr_7;0;"pim_catalog_text voluptas neque";"pim_catalog_text nihil consequuntur";"pim_catalog_text enim aliquam";"pim_catalog_text et voluptatem";0;0;;;
+attr_224;pim_catalog_price_collection;attr_gr_0;0;"pim_catalog_text officia praesentium";"pim_catalog_text quia excepturi";"pim_catalog_text dicta qui";"pim_catalog_text non et";0;0;;;
+attr_225;pim_catalog_simpleselect;attr_gr_6;0;"pim_catalog_text rerum modi";"pim_catalog_text explicabo enim";"pim_catalog_text qui maxime";"pim_catalog_text facilis totam";0;0;;;
+attr_226;pim_catalog_price_collection;attr_gr_9;0;"pim_catalog_text perspiciatis est";"pim_catalog_text cumque ea";"pim_catalog_text ut omnis";"pim_catalog_text explicabo odio";0;0;;;
+attr_227;pim_catalog_text;attr_gr_12;0;"pim_catalog_text natus dolor";"pim_catalog_text debitis occaecati";"pim_catalog_text harum rerum";"pim_catalog_text sequi nihil";0;1;;;
+attr_228;pim_catalog_boolean;attr_gr_8;0;"pim_catalog_text est quia";"pim_catalog_text beatae natus";"pim_catalog_text placeat officiis";"pim_catalog_text officiis omnis";0;0;;;
+attr_229;pim_catalog_multiselect;attr_gr_3;0;"pim_catalog_text quibusdam eos";"pim_catalog_text nam hic";"pim_catalog_text fuga labore";"pim_catalog_text voluptatem voluptatem";0;0;;;
+attr_230;pim_catalog_date;attr_gr_10;0;"pim_catalog_text sapiente minima";"pim_catalog_text pariatur porro";"pim_catalog_text voluptatum qui";"pim_catalog_text accusamus ut";0;0;;;
+attr_231;pim_catalog_text;attr_gr_8;0;"pim_catalog_text et et";"pim_catalog_text nisi temporibus";"pim_catalog_text rerum eligendi";"pim_catalog_text eligendi ea";0;0;;;
+attr_232;pim_catalog_price_collection;attr_gr_8;1;"pim_catalog_text iusto itaque";"pim_catalog_text iusto eligendi";"pim_catalog_text temporibus odio";"pim_catalog_text ducimus deleniti";0;0;;;
+attr_233;pim_catalog_boolean;attr_gr_3;0;"pim_catalog_text velit sed";"pim_catalog_text sequi deleniti";"pim_catalog_text labore vel";"pim_catalog_text nihil quibusdam";0;0;;;
+attr_234;pim_catalog_price_collection;attr_gr_13;0;"pim_catalog_text porro consequatur";"pim_catalog_text sequi rerum";"pim_catalog_text dolor impedit";"pim_catalog_text eos et";0;0;;;
+attr_235;pim_catalog_file;attr_gr_11;1;"pim_catalog_text cupiditate rerum";"pim_catalog_text et id";"pim_catalog_text harum eius";"pim_catalog_text officiis officiis";0;1;png,jpg;;
+attr_236;pim_catalog_multiselect;attr_gr_14;0;"pim_catalog_text aut dolor";"pim_catalog_text ut et";"pim_catalog_text temporibus sit";"pim_catalog_text corrupti dolorem";0;0;;;
+attr_237;pim_catalog_metric;attr_gr_2;0;"pim_catalog_text explicabo deserunt";"pim_catalog_text ut eius";"pim_catalog_text iste aliquam";"pim_catalog_text quis vel";0;0;;Length;METER
+attr_238;pim_catalog_boolean;attr_gr_6;0;"pim_catalog_text dolores rerum";"pim_catalog_text sunt officiis";"pim_catalog_text qui quia";"pim_catalog_text consequatur voluptatibus";0;0;;;
+attr_239;pim_catalog_multiselect;attr_gr_11;0;"pim_catalog_text numquam omnis";"pim_catalog_text odio odit";"pim_catalog_text vel et";"pim_catalog_text maiores deleniti";0;0;;;
+attr_240;pim_catalog_simpleselect;attr_gr_3;0;"pim_catalog_text eaque corrupti";"pim_catalog_text voluptas repudiandae";"pim_catalog_text rerum voluptas";"pim_catalog_text maiores et";0;0;;;
+attr_241;pim_catalog_price_collection;attr_gr_14;0;"pim_catalog_text vero voluptatem";"pim_catalog_text sint aut";"pim_catalog_text magni dolorem";"pim_catalog_text porro doloribus";0;0;;;
+attr_242;pim_catalog_metric;attr_gr_8;0;"pim_catalog_text quam dolorem";"pim_catalog_text et quidem";"pim_catalog_text molestias sunt";"pim_catalog_text non aut";0;0;;Length;METER
+attr_243;pim_catalog_simpleselect;attr_gr_12;0;"pim_catalog_text incidunt iure";"pim_catalog_text odio velit";"pim_catalog_text aliquid deleniti";"pim_catalog_text qui aperiam";0;0;;;
+attr_244;pim_catalog_number;attr_gr_3;0;"pim_catalog_text quo amet";"pim_catalog_text nulla totam";"pim_catalog_text libero aliquid";"pim_catalog_text dolorum illo";0;0;;;
+attr_245;pim_catalog_boolean;attr_gr_3;0;"pim_catalog_text officiis aut";"pim_catalog_text consectetur quis";"pim_catalog_text magnam consequatur";"pim_catalog_text provident dolorem";0;0;;;
+attr_246;pim_catalog_simpleselect;attr_gr_11;1;"pim_catalog_text eligendi atque";"pim_catalog_text dolores est";"pim_catalog_text atque officia";"pim_catalog_text ut inventore";0;0;;;
+attr_247;pim_catalog_metric;attr_gr_5;0;"pim_catalog_text autem animi";"pim_catalog_text cumque quibusdam";"pim_catalog_text est est";"pim_catalog_text adipisci dignissimos";0;0;;Length;METER
+attr_248;pim_catalog_metric;attr_gr_0;0;"pim_catalog_text esse distinctio";"pim_catalog_text praesentium blanditiis";"pim_catalog_text necessitatibus sed";"pim_catalog_text expedita sequi";0;0;;Length;METER
+attr_249;pim_catalog_number;attr_gr_12;0;"pim_catalog_text quidem voluptatem";"pim_catalog_text et laboriosam";"pim_catalog_text dolor saepe";"pim_catalog_text optio sunt";1;0;;;
+attr_250;pim_catalog_file;attr_gr_14;1;"pim_catalog_text doloribus dicta";"pim_catalog_text animi quo";"pim_catalog_text aut possimus";"pim_catalog_text impedit quia";0;0;pdf,png;;
+attr_251;pim_catalog_image;attr_gr_8;1;"pim_catalog_text ut excepturi";"pim_catalog_text voluptatum inventore";"pim_catalog_text quae officia";"pim_catalog_text et voluptatum";0;0;png,jpg;;
+attr_252;pim_catalog_file;attr_gr_3;0;"pim_catalog_text sed voluptatibus";"pim_catalog_text odio perferendis";"pim_catalog_text inventore nisi";"pim_catalog_text qui error";0;0;png,pdf;;
+attr_253;pim_catalog_metric;attr_gr_14;0;"pim_catalog_text sint ut";"pim_catalog_text beatae esse";"pim_catalog_text amet sed";"pim_catalog_text aliquam facere";0;0;;Length;METER
+attr_254;pim_catalog_textarea;attr_gr_0;0;"pim_catalog_text consequatur quo";"pim_catalog_text quia quae";"pim_catalog_text occaecati adipisci";"pim_catalog_text quod aspernatur";0;0;;;
+attr_255;pim_catalog_file;attr_gr_0;0;"pim_catalog_text reiciendis neque";"pim_catalog_text qui repudiandae";"pim_catalog_text voluptatem qui";"pim_catalog_text dolorum quo";0;0;jpg,pdf;;
+attr_256;pim_catalog_date;attr_gr_12;0;"pim_catalog_text tenetur adipisci";"pim_catalog_text doloribus quae";"pim_catalog_text esse voluptas";"pim_catalog_text minima autem";0;0;;;
+attr_257;pim_catalog_textarea;attr_gr_12;1;"pim_catalog_text ut natus";"pim_catalog_text cupiditate autem";"pim_catalog_text praesentium non";"pim_catalog_text et voluptas";0;1;;;
+attr_258;pim_catalog_multiselect;attr_gr_6;0;"pim_catalog_text omnis ex";"pim_catalog_text quasi natus";"pim_catalog_text et optio";"pim_catalog_text voluptatem veniam";0;0;;;
+attr_259;pim_catalog_simpleselect;attr_gr_3;0;"pim_catalog_text minima molestias";"pim_catalog_text earum explicabo";"pim_catalog_text et hic";"pim_catalog_text tempora delectus";0;0;;;
+attr_260;pim_catalog_date;attr_gr_9;0;"pim_catalog_text maxime necessitatibus";"pim_catalog_text quia dolor";"pim_catalog_text provident qui";"pim_catalog_text autem impedit";0;0;;;
+attr_261;pim_catalog_simpleselect;attr_gr_13;0;"pim_catalog_text modi animi";"pim_catalog_text ut amet";"pim_catalog_text quasi sapiente";"pim_catalog_text fugiat enim";0;0;;;
+attr_262;pim_catalog_image;attr_gr_1;0;"pim_catalog_text dolore voluptas";"pim_catalog_text aspernatur ex";"pim_catalog_text porro laboriosam";"pim_catalog_text ad est";0;0;pdf,jpg;;
+attr_263;pim_catalog_date;attr_gr_9;0;"pim_catalog_text et beatae";"pim_catalog_text beatae rerum";"pim_catalog_text laboriosam dolorem";"pim_catalog_text in facere";0;0;;;
+attr_264;pim_catalog_multiselect;attr_gr_2;0;"pim_catalog_text illo et";"pim_catalog_text qui et";"pim_catalog_text cumque unde";"pim_catalog_text eum sunt";0;0;;;
+attr_265;pim_catalog_text;attr_gr_14;0;"pim_catalog_text eum in";"pim_catalog_text omnis porro";"pim_catalog_text ex enim";"pim_catalog_text et rerum";0;0;;;
+attr_266;pim_catalog_image;attr_gr_2;0;"pim_catalog_text repudiandae sit";"pim_catalog_text molestiae voluptatem";"pim_catalog_text voluptas minima";"pim_catalog_text voluptatibus aut";0;0;pdf,jpg;;
+attr_267;pim_catalog_date;attr_gr_7;0;"pim_catalog_text voluptatem blanditiis";"pim_catalog_text molestiae minima";"pim_catalog_text occaecati quis";"pim_catalog_text dolores delectus";0;0;;;
+attr_268;pim_catalog_textarea;attr_gr_14;0;"pim_catalog_text sit sunt";"pim_catalog_text et soluta";"pim_catalog_text doloribus est";"pim_catalog_text eum vel";0;0;;;
+attr_269;pim_catalog_image;attr_gr_5;0;"pim_catalog_text maxime amet";"pim_catalog_text dolorem animi";"pim_catalog_text placeat molestiae";"pim_catalog_text rem quibusdam";0;0;png,jpg;;
+attr_270;pim_catalog_file;attr_gr_14;0;"pim_catalog_text suscipit porro";"pim_catalog_text dolorem eos";"pim_catalog_text unde aut";"pim_catalog_text voluptas iusto";0;0;pdf,png;;
+attr_271;pim_catalog_text;attr_gr_9;0;"pim_catalog_text voluptatem est";"pim_catalog_text ab corrupti";"pim_catalog_text et mollitia";"pim_catalog_text fugiat molestiae";0;0;;;
+attr_272;pim_catalog_simpleselect;attr_gr_9;0;"pim_catalog_text voluptatem quae";"pim_catalog_text velit ipsum";"pim_catalog_text ullam dolore";"pim_catalog_text commodi libero";0;0;;;
+attr_273;pim_catalog_date;attr_gr_2;0;"pim_catalog_text consectetur nobis";"pim_catalog_text totam tempore";"pim_catalog_text nostrum et";"pim_catalog_text velit ut";0;0;;;
+attr_274;pim_catalog_image;attr_gr_10;0;"pim_catalog_text deserunt voluptas";"pim_catalog_text distinctio consectetur";"pim_catalog_text est ipsum";"pim_catalog_text accusantium labore";0;0;jpg,pdf;;
+attr_275;pim_catalog_image;attr_gr_7;1;"pim_catalog_text eum autem";"pim_catalog_text rerum quae";"pim_catalog_text est numquam";"pim_catalog_text dolores dignissimos";0;0;jpg,pdf;;
+attr_276;pim_catalog_price_collection;attr_gr_5;0;"pim_catalog_text deserunt veniam";"pim_catalog_text eaque sit";"pim_catalog_text atque repudiandae";"pim_catalog_text veniam quisquam";0;0;;;
+attr_277;pim_catalog_textarea;attr_gr_12;0;"pim_catalog_text odio rerum";"pim_catalog_text aspernatur ut";"pim_catalog_text eaque architecto";"pim_catalog_text ut qui";0;0;;;
+attr_278;pim_catalog_textarea;attr_gr_7;0;"pim_catalog_text nemo laudantium";"pim_catalog_text facilis temporibus";"pim_catalog_text ab non";"pim_catalog_text placeat molestiae";0;0;;;
+attr_279;pim_catalog_textarea;attr_gr_14;0;"pim_catalog_text molestias reprehenderit";"pim_catalog_text voluptatem nam";"pim_catalog_text omnis modi";"pim_catalog_text ut laboriosam";0;0;;;
+attr_280;pim_catalog_text;attr_gr_7;0;"pim_catalog_text veritatis perferendis";"pim_catalog_text aut aut";"pim_catalog_text ratione dolores";"pim_catalog_text sed aut";0;0;;;
+attr_281;pim_catalog_textarea;attr_gr_3;0;"pim_catalog_text voluptas iusto";"pim_catalog_text aliquam expedita";"pim_catalog_text doloremque tempora";"pim_catalog_text enim voluptatem";0;0;;;
+attr_282;pim_catalog_metric;attr_gr_5;0;"pim_catalog_text magnam vel";"pim_catalog_text nemo amet";"pim_catalog_text minima voluptates";"pim_catalog_text optio dolorem";0;0;;Length;METER
+attr_283;pim_catalog_metric;attr_gr_8;0;"pim_catalog_text itaque blanditiis";"pim_catalog_text velit et";"pim_catalog_text nihil omnis";"pim_catalog_text amet ut";0;0;;Length;METER
+attr_284;pim_catalog_image;attr_gr_3;0;"pim_catalog_text deleniti odit";"pim_catalog_text et voluptatem";"pim_catalog_text rerum sint";"pim_catalog_text dolorem nobis";0;0;jpg,pdf;;
+attr_285;pim_catalog_metric;attr_gr_1;1;"pim_catalog_text eligendi hic";"pim_catalog_text libero doloribus";"pim_catalog_text consequatur sed";"pim_catalog_text quae in";0;0;;Length;METER
+attr_286;pim_catalog_number;attr_gr_13;0;"pim_catalog_text culpa consectetur";"pim_catalog_text fugit reprehenderit";"pim_catalog_text ut ratione";"pim_catalog_text quia maiores";0;0;;;
+attr_287;pim_catalog_multiselect;attr_gr_9;0;"pim_catalog_text esse doloribus";"pim_catalog_text iusto neque";"pim_catalog_text dolorem velit";"pim_catalog_text accusantium vel";0;0;;;
+attr_288;pim_catalog_image;attr_gr_12;0;"pim_catalog_text aut minima";"pim_catalog_text consectetur eos";"pim_catalog_text et at";"pim_catalog_text enim et";0;0;png,pdf;;
+attr_289;pim_catalog_simpleselect;attr_gr_10;0;"pim_catalog_text sit id";"pim_catalog_text magnam ut";"pim_catalog_text ab adipisci";"pim_catalog_text ducimus magnam";0;0;;;
+attr_290;pim_catalog_boolean;attr_gr_11;0;"pim_catalog_text quia est";"pim_catalog_text fugit aut";"pim_catalog_text autem porro";"pim_catalog_text quis modi";0;0;;;
+attr_291;pim_catalog_date;attr_gr_11;0;"pim_catalog_text accusamus consequatur";"pim_catalog_text esse quas";"pim_catalog_text consectetur omnis";"pim_catalog_text illo non";0;0;;;
+attr_292;pim_catalog_boolean;attr_gr_8;0;"pim_catalog_text eveniet facilis";"pim_catalog_text unde repellat";"pim_catalog_text et repudiandae";"pim_catalog_text quia et";0;0;;;
+attr_293;pim_catalog_text;attr_gr_2;0;"pim_catalog_text magni molestias";"pim_catalog_text delectus et";"pim_catalog_text enim sint";"pim_catalog_text ut et";0;0;;;
+attr_294;pim_catalog_date;attr_gr_5;0;"pim_catalog_text dolorem incidunt";"pim_catalog_text voluptas et";"pim_catalog_text fugiat corporis";"pim_catalog_text quis corporis";0;0;;;
+attr_295;pim_catalog_price_collection;attr_gr_9;0;"pim_catalog_text facere suscipit";"pim_catalog_text id ad";"pim_catalog_text modi amet";"pim_catalog_text aliquam quis";0;0;;;
+attr_296;pim_catalog_multiselect;attr_gr_11;0;"pim_catalog_text sed aut";"pim_catalog_text provident sapiente";"pim_catalog_text sed laboriosam";"pim_catalog_text blanditiis quidem";0;0;;;
+attr_297;pim_catalog_metric;attr_gr_12;0;"pim_catalog_text deserunt qui";"pim_catalog_text dolor cupiditate";"pim_catalog_text quis unde";"pim_catalog_text vero laborum";0;0;;Length;METER
+attr_298;pim_catalog_image;attr_gr_9;0;"pim_catalog_text molestiae quas";"pim_catalog_text quae dolores";"pim_catalog_text non autem";"pim_catalog_text libero facilis";0;0;pdf,jpg;;
+attr_299;pim_catalog_metric;attr_gr_8;0;"pim_catalog_text incidunt dolorem";"pim_catalog_text odit ab";"pim_catalog_text et eveniet";"pim_catalog_text officiis sed";0;0;;Length;METER
+attr_300;pim_catalog_image;attr_gr_4;0;"pim_catalog_text aut nisi";"pim_catalog_text dolore doloribus";"pim_catalog_text laudantium odio";"pim_catalog_text iste facilis";0;0;jpg,pdf;;
+attr_301;pim_catalog_file;attr_gr_0;0;"pim_catalog_text dolorem et";"pim_catalog_text sed quae";"pim_catalog_text necessitatibus aperiam";"pim_catalog_text aut nesciunt";0;0;png,pdf;;
+attr_302;pim_catalog_date;attr_gr_3;0;"pim_catalog_text eveniet quae";"pim_catalog_text occaecati modi";"pim_catalog_text eos illo";"pim_catalog_text et fuga";0;0;;;
+attr_303;pim_catalog_textarea;attr_gr_12;0;"pim_catalog_text eaque enim";"pim_catalog_text ea architecto";"pim_catalog_text quia est";"pim_catalog_text id quia";0;0;;;
+attr_304;pim_catalog_simpleselect;attr_gr_9;0;"pim_catalog_text minus exercitationem";"pim_catalog_text et eveniet";"pim_catalog_text dignissimos cum";"pim_catalog_text omnis expedita";0;0;;;
+attr_305;pim_catalog_metric;attr_gr_7;0;"pim_catalog_text eum ipsum";"pim_catalog_text cupiditate magni";"pim_catalog_text eos enim";"pim_catalog_text delectus quis";0;0;;Length;METER
+attr_306;pim_catalog_number;attr_gr_14;0;"pim_catalog_text placeat corporis";"pim_catalog_text qui omnis";"pim_catalog_text aut et";"pim_catalog_text ad ab";0;0;;;
+attr_307;pim_catalog_multiselect;attr_gr_11;0;"pim_catalog_text consequuntur sed";"pim_catalog_text odit suscipit";"pim_catalog_text quaerat nostrum";"pim_catalog_text commodi dolorum";0;0;;;
+attr_308;pim_catalog_price_collection;attr_gr_14;0;"pim_catalog_text molestiae optio";"pim_catalog_text distinctio ratione";"pim_catalog_text iusto officiis";"pim_catalog_text non delectus";0;0;;;
+attr_309;pim_catalog_textarea;attr_gr_6;1;"pim_catalog_text est sit";"pim_catalog_text cupiditate et";"pim_catalog_text et voluptas";"pim_catalog_text aliquam vel";0;0;;;
+attr_310;pim_catalog_metric;attr_gr_2;0;"pim_catalog_text asperiores et";"pim_catalog_text molestias delectus";"pim_catalog_text est doloremque";"pim_catalog_text itaque aliquid";0;0;;Length;METER
+attr_311;pim_catalog_file;attr_gr_4;0;"pim_catalog_text ut a";"pim_catalog_text nam numquam";"pim_catalog_text facilis dignissimos";"pim_catalog_text ab cupiditate";0;0;png,pdf;;
+attr_312;pim_catalog_price_collection;attr_gr_10;0;"pim_catalog_text excepturi ipsum";"pim_catalog_text omnis repellat";"pim_catalog_text dolorum et";"pim_catalog_text consequatur corrupti";0;0;;;
+attr_313;pim_catalog_textarea;attr_gr_9;0;"pim_catalog_text veniam qui";"pim_catalog_text quia aut";"pim_catalog_text quo ut";"pim_catalog_text possimus consequatur";0;0;;;
+attr_314;pim_catalog_textarea;attr_gr_11;0;"pim_catalog_text rerum aut";"pim_catalog_text tempore officia";"pim_catalog_text accusamus at";"pim_catalog_text optio repudiandae";0;0;;;
+attr_315;pim_catalog_simpleselect;attr_gr_1;0;"pim_catalog_text fuga pariatur";"pim_catalog_text corporis cumque";"pim_catalog_text debitis consequatur";"pim_catalog_text adipisci nulla";0;0;;;
+attr_316;pim_catalog_image;attr_gr_14;0;"pim_catalog_text animi saepe";"pim_catalog_text a et";"pim_catalog_text sed aut";"pim_catalog_text rem esse";0;0;jpg,png;;
+attr_317;pim_catalog_file;attr_gr_11;0;"pim_catalog_text a nesciunt";"pim_catalog_text dolorem rem";"pim_catalog_text pariatur amet";"pim_catalog_text mollitia delectus";0;0;pdf,jpg;;
+attr_318;pim_catalog_number;attr_gr_4;0;"pim_catalog_text explicabo fugiat";"pim_catalog_text voluptas dolor";"pim_catalog_text quidem iure";"pim_catalog_text vitae animi";1;0;;;
+attr_319;pim_catalog_boolean;attr_gr_4;0;"pim_catalog_text saepe molestias";"pim_catalog_text corrupti ea";"pim_catalog_text dolor ut";"pim_catalog_text et qui";0;0;;;
+attr_320;pim_catalog_date;attr_gr_14;0;"pim_catalog_text enim hic";"pim_catalog_text perferendis quibusdam";"pim_catalog_text nihil facere";"pim_catalog_text tempore alias";0;0;;;
+attr_321;pim_catalog_metric;attr_gr_2;0;"pim_catalog_text tenetur perferendis";"pim_catalog_text enim ut";"pim_catalog_text vel culpa";"pim_catalog_text et vitae";0;0;;Length;METER
+attr_322;pim_catalog_boolean;attr_gr_3;0;"pim_catalog_text perspiciatis deleniti";"pim_catalog_text expedita eveniet";"pim_catalog_text odit omnis";"pim_catalog_text qui et";0;0;;;
+attr_323;pim_catalog_simpleselect;attr_gr_1;0;"pim_catalog_text id facilis";"pim_catalog_text provident et";"pim_catalog_text aut hic";"pim_catalog_text et totam";0;0;;;
+attr_324;pim_catalog_number;attr_gr_0;0;"pim_catalog_text ut aperiam";"pim_catalog_text adipisci et";"pim_catalog_text architecto similique";"pim_catalog_text pariatur velit";0;0;;;
+attr_325;pim_catalog_number;attr_gr_8;0;"pim_catalog_text itaque similique";"pim_catalog_text earum dolor";"pim_catalog_text ut dolorem";"pim_catalog_text quis neque";0;0;;;
+attr_326;pim_catalog_simpleselect;attr_gr_5;0;"pim_catalog_text nihil alias";"pim_catalog_text sint dolores";"pim_catalog_text nostrum eligendi";"pim_catalog_text perferendis modi";0;0;;;
+attr_327;pim_catalog_date;attr_gr_4;0;"pim_catalog_text accusamus quis";"pim_catalog_text et commodi";"pim_catalog_text est unde";"pim_catalog_text et qui";0;0;;;
+attr_328;pim_catalog_simpleselect;attr_gr_8;0;"pim_catalog_text omnis id";"pim_catalog_text asperiores laborum";"pim_catalog_text dolorum voluptatem";"pim_catalog_text molestias assumenda";0;0;;;
+attr_329;pim_catalog_simpleselect;attr_gr_8;0;"pim_catalog_text dicta rerum";"pim_catalog_text eaque repellat";"pim_catalog_text dolorum doloribus";"pim_catalog_text ipsum similique";1;0;;;
+attr_330;pim_catalog_simpleselect;attr_gr_12;0;"pim_catalog_text molestiae sequi";"pim_catalog_text assumenda laudantium";"pim_catalog_text eos exercitationem";"pim_catalog_text veniam sit";0;0;;;
+attr_331;pim_catalog_date;attr_gr_7;0;"pim_catalog_text recusandae et";"pim_catalog_text minima iusto";"pim_catalog_text alias optio";"pim_catalog_text ad modi";0;0;;;
+attr_332;pim_catalog_date;attr_gr_14;0;"pim_catalog_text rerum dolor";"pim_catalog_text maiores id";"pim_catalog_text reprehenderit iure";"pim_catalog_text aperiam fuga";1;0;;;
+attr_333;pim_catalog_number;attr_gr_13;0;"pim_catalog_text atque non";"pim_catalog_text similique est";"pim_catalog_text rerum labore";"pim_catalog_text aliquam molestias";0;0;;;
+attr_334;pim_catalog_number;attr_gr_8;0;"pim_catalog_text tenetur nihil";"pim_catalog_text fugit est";"pim_catalog_text quia itaque";"pim_catalog_text voluptatum dolorem";0;0;;;
+attr_335;pim_catalog_metric;attr_gr_9;0;"pim_catalog_text dolorum illo";"pim_catalog_text quia quasi";"pim_catalog_text ad quo";"pim_catalog_text consequatur necessitatibus";0;0;;Length;METER
+attr_336;pim_catalog_textarea;attr_gr_6;0;"pim_catalog_text necessitatibus aut";"pim_catalog_text dolores ipsum";"pim_catalog_text sit aut";"pim_catalog_text sapiente rerum";0;0;;;
+attr_337;pim_catalog_metric;attr_gr_11;1;"pim_catalog_text corporis occaecati";"pim_catalog_text laborum aut";"pim_catalog_text qui fugit";"pim_catalog_text voluptate ratione";0;0;;Length;METER
+attr_338;pim_catalog_multiselect;attr_gr_13;0;"pim_catalog_text nostrum explicabo";"pim_catalog_text aut quaerat";"pim_catalog_text est dolores";"pim_catalog_text omnis ab";0;0;;;
+attr_339;pim_catalog_simpleselect;attr_gr_2;0;"pim_catalog_text quisquam quia";"pim_catalog_text laborum sit";"pim_catalog_text incidunt corporis";"pim_catalog_text quia architecto";0;0;;;
+attr_340;pim_catalog_multiselect;attr_gr_1;0;"pim_catalog_text labore sunt";"pim_catalog_text aspernatur excepturi";"pim_catalog_text ut eos";"pim_catalog_text ut atque";0;0;;;
+attr_341;pim_catalog_image;attr_gr_3;0;"pim_catalog_text tenetur excepturi";"pim_catalog_text et perspiciatis";"pim_catalog_text exercitationem sed";"pim_catalog_text eos aut";0;0;png,pdf;;
+attr_342;pim_catalog_price_collection;attr_gr_8;0;"pim_catalog_text id rerum";"pim_catalog_text dolore natus";"pim_catalog_text cumque ab";"pim_catalog_text sit et";0;0;;;
+attr_343;pim_catalog_price_collection;attr_gr_1;0;"pim_catalog_text velit neque";"pim_catalog_text voluptate natus";"pim_catalog_text debitis aliquam";"pim_catalog_text illo incidunt";0;0;;;
+attr_344;pim_catalog_textarea;attr_gr_7;0;"pim_catalog_text at impedit";"pim_catalog_text magnam et";"pim_catalog_text in voluptatum";"pim_catalog_text et quo";0;0;;;
+attr_345;pim_catalog_date;attr_gr_8;0;"pim_catalog_text recusandae incidunt";"pim_catalog_text dolorem qui";"pim_catalog_text quo voluptatum";"pim_catalog_text id odio";0;0;;;
+attr_346;pim_catalog_file;attr_gr_14;0;"pim_catalog_text aliquam voluptas";"pim_catalog_text perferendis sit";"pim_catalog_text distinctio aperiam";"pim_catalog_text deserunt adipisci";0;0;png,jpg;;
+attr_347;pim_catalog_textarea;attr_gr_1;0;"pim_catalog_text repellat cumque";"pim_catalog_text consequuntur deserunt";"pim_catalog_text ipsam itaque";"pim_catalog_text et incidunt";0;0;;;
+attr_348;pim_catalog_metric;attr_gr_13;0;"pim_catalog_text excepturi qui";"pim_catalog_text et sunt";"pim_catalog_text dolorem modi";"pim_catalog_text excepturi natus";0;0;;Length;METER
+attr_349;pim_catalog_price_collection;attr_gr_1;0;"pim_catalog_text aut pariatur";"pim_catalog_text amet ut";"pim_catalog_text dolor facere";"pim_catalog_text dolorem dolorum";0;0;;;
+attr_350;pim_catalog_textarea;attr_gr_13;0;"pim_catalog_text est tempora";"pim_catalog_text beatae officiis";"pim_catalog_text odit recusandae";"pim_catalog_text quidem voluptas";0;0;;;
+attr_351;pim_catalog_multiselect;attr_gr_14;0;"pim_catalog_text iure et";"pim_catalog_text optio officia";"pim_catalog_text sit quia";"pim_catalog_text error suscipit";0;0;;;
+attr_352;pim_catalog_metric;attr_gr_0;0;"pim_catalog_text provident veniam";"pim_catalog_text ad iure";"pim_catalog_text officia et";"pim_catalog_text rem non";0;0;;Length;METER
+attr_353;pim_catalog_metric;attr_gr_9;1;"pim_catalog_text sunt saepe";"pim_catalog_text similique in";"pim_catalog_text animi quae";"pim_catalog_text labore autem";1;0;;Length;METER
+attr_354;pim_catalog_image;attr_gr_11;0;"pim_catalog_text molestiae necessitatibus";"pim_catalog_text aliquid nihil";"pim_catalog_text qui et";"pim_catalog_text voluptatem aut";0;0;png,jpg;;
+attr_355;pim_catalog_simpleselect;attr_gr_2;0;"pim_catalog_text nobis dolor";"pim_catalog_text quos harum";"pim_catalog_text velit quis";"pim_catalog_text sed est";0;0;;;
+attr_356;pim_catalog_image;attr_gr_4;0;"pim_catalog_text ut et";"pim_catalog_text quo eum";"pim_catalog_text nesciunt sed";"pim_catalog_text beatae molestias";1;0;jpg,pdf;;
+attr_357;pim_catalog_price_collection;attr_gr_4;0;"pim_catalog_text suscipit voluptate";"pim_catalog_text velit sit";"pim_catalog_text perspiciatis nisi";"pim_catalog_text aliquid sed";0;0;;;
+attr_358;pim_catalog_date;attr_gr_14;0;"pim_catalog_text corporis velit";"pim_catalog_text dolorem ut";"pim_catalog_text dignissimos voluptate";"pim_catalog_text ratione rerum";1;0;;;
+attr_359;pim_catalog_textarea;attr_gr_6;0;"pim_catalog_text repellat eos";"pim_catalog_text et officiis";"pim_catalog_text sint qui";"pim_catalog_text dicta omnis";0;0;;;
+attr_360;pim_catalog_image;attr_gr_14;0;"pim_catalog_text rem suscipit";"pim_catalog_text autem impedit";"pim_catalog_text eos similique";"pim_catalog_text nobis quia";0;0;jpg,pdf;;
+attr_361;pim_catalog_text;attr_gr_12;0;"pim_catalog_text est aperiam";"pim_catalog_text cupiditate et";"pim_catalog_text id dignissimos";"pim_catalog_text quae vel";0;0;;;
+attr_362;pim_catalog_date;attr_gr_10;0;"pim_catalog_text odit repellat";"pim_catalog_text aut velit";"pim_catalog_text beatae repellat";"pim_catalog_text provident sapiente";0;0;;;
+attr_363;pim_catalog_file;attr_gr_11;0;"pim_catalog_text quis sint";"pim_catalog_text saepe dolor";"pim_catalog_text commodi dolorum";"pim_catalog_text aspernatur id";0;0;png,jpg;;
+attr_364;pim_catalog_textarea;attr_gr_4;0;"pim_catalog_text ullam consequuntur";"pim_catalog_text vel doloremque";"pim_catalog_text quis necessitatibus";"pim_catalog_text autem ipsam";0;0;;;
+attr_365;pim_catalog_simpleselect;attr_gr_6;0;"pim_catalog_text beatae sint";"pim_catalog_text quam et";"pim_catalog_text ut qui";"pim_catalog_text atque et";0;1;;;
+attr_366;pim_catalog_metric;attr_gr_9;0;"pim_catalog_text perspiciatis animi";"pim_catalog_text quia et";"pim_catalog_text voluptatem consequatur";"pim_catalog_text a illum";0;0;;Length;METER
+attr_367;pim_catalog_image;attr_gr_14;0;"pim_catalog_text cum ut";"pim_catalog_text corporis qui";"pim_catalog_text itaque qui";"pim_catalog_text libero magnam";0;0;pdf,png;;
+attr_368;pim_catalog_price_collection;attr_gr_4;0;"pim_catalog_text est voluptatibus";"pim_catalog_text dolor ipsam";"pim_catalog_text amet eos";"pim_catalog_text dignissimos nisi";0;0;;;
+attr_369;pim_catalog_simpleselect;attr_gr_14;0;"pim_catalog_text atque itaque";"pim_catalog_text unde ut";"pim_catalog_text corrupti consequatur";"pim_catalog_text quod unde";0;0;;;
+attr_370;pim_catalog_text;attr_gr_13;0;"pim_catalog_text non necessitatibus";"pim_catalog_text quia quidem";"pim_catalog_text repudiandae natus";"pim_catalog_text dolores labore";0;0;;;
+attr_371;pim_catalog_simpleselect;attr_gr_8;0;"pim_catalog_text alias rem";"pim_catalog_text labore qui";"pim_catalog_text perspiciatis nihil";"pim_catalog_text similique et";0;0;;;
+attr_372;pim_catalog_textarea;attr_gr_0;0;"pim_catalog_text qui sint";"pim_catalog_text est est";"pim_catalog_text eum molestiae";"pim_catalog_text dicta nihil";0;0;;;
+attr_373;pim_catalog_boolean;attr_gr_6;0;"pim_catalog_text aut deserunt";"pim_catalog_text at qui";"pim_catalog_text debitis mollitia";"pim_catalog_text fugiat quod";0;0;;;
+attr_374;pim_catalog_textarea;attr_gr_4;0;"pim_catalog_text itaque odit";"pim_catalog_text dignissimos voluptate";"pim_catalog_text sit rerum";"pim_catalog_text iste sunt";0;0;;;
+attr_375;pim_catalog_file;attr_gr_10;0;"pim_catalog_text eligendi distinctio";"pim_catalog_text voluptatum et";"pim_catalog_text corrupti asperiores";"pim_catalog_text possimus nobis";0;0;jpg,pdf;;
+attr_376;pim_catalog_text;attr_gr_9;0;"pim_catalog_text cumque culpa";"pim_catalog_text maiores alias";"pim_catalog_text eum qui";"pim_catalog_text ea nisi";0;0;;;
+attr_377;pim_catalog_price_collection;attr_gr_7;0;"pim_catalog_text ea et";"pim_catalog_text sequi corrupti";"pim_catalog_text cum quia";"pim_catalog_text vel eligendi";0;0;;;
+attr_378;pim_catalog_image;attr_gr_5;0;"pim_catalog_text iure laborum";"pim_catalog_text atque similique";"pim_catalog_text nisi ut";"pim_catalog_text a aliquid";0;0;pdf,png;;
+attr_379;pim_catalog_price_collection;attr_gr_7;0;"pim_catalog_text eius molestiae";"pim_catalog_text eum corrupti";"pim_catalog_text est quos";"pim_catalog_text a atque";0;0;;;
+attr_380;pim_catalog_image;attr_gr_0;0;"pim_catalog_text vero omnis";"pim_catalog_text consequatur aut";"pim_catalog_text sit facilis";"pim_catalog_text iure autem";0;0;pdf,png;;
+attr_381;pim_catalog_simpleselect;attr_gr_2;0;"pim_catalog_text repellat est";"pim_catalog_text minus ipsa";"pim_catalog_text ut sit";"pim_catalog_text quo saepe";0;0;;;
+attr_382;pim_catalog_price_collection;attr_gr_11;1;"pim_catalog_text quasi accusantium";"pim_catalog_text molestiae voluptatem";"pim_catalog_text qui inventore";"pim_catalog_text libero temporibus";0;0;;;
+attr_383;pim_catalog_textarea;attr_gr_1;0;"pim_catalog_text qui et";"pim_catalog_text neque ad";"pim_catalog_text aspernatur est";"pim_catalog_text minima iure";0;0;;;
+attr_384;pim_catalog_textarea;attr_gr_2;1;"pim_catalog_text quidem esse";"pim_catalog_text sequi eligendi";"pim_catalog_text sit facere";"pim_catalog_text eius sint";0;0;;;
+attr_385;pim_catalog_boolean;attr_gr_11;0;"pim_catalog_text natus impedit";"pim_catalog_text accusantium alias";"pim_catalog_text nostrum ducimus";"pim_catalog_text sunt temporibus";0;0;;;
+attr_386;pim_catalog_multiselect;attr_gr_3;0;"pim_catalog_text sed saepe";"pim_catalog_text eos aut";"pim_catalog_text qui modi";"pim_catalog_text iste atque";1;0;;;
+attr_387;pim_catalog_multiselect;attr_gr_11;0;"pim_catalog_text perspiciatis et";"pim_catalog_text quia sunt";"pim_catalog_text alias est";"pim_catalog_text ut perspiciatis";0;0;;;
+attr_388;pim_catalog_file;attr_gr_8;0;"pim_catalog_text quia quia";"pim_catalog_text consequatur consequatur";"pim_catalog_text aut ut";"pim_catalog_text ut corrupti";0;0;jpg,pdf;;
+attr_389;pim_catalog_number;attr_gr_1;0;"pim_catalog_text dignissimos ut";"pim_catalog_text ut accusamus";"pim_catalog_text qui modi";"pim_catalog_text minus delectus";0;0;;;
+attr_390;pim_catalog_text;attr_gr_9;0;"pim_catalog_text ut voluptatem";"pim_catalog_text natus fuga";"pim_catalog_text consequatur qui";"pim_catalog_text quidem aperiam";0;1;;;
+attr_391;pim_catalog_boolean;attr_gr_8;0;"pim_catalog_text qui sunt";"pim_catalog_text mollitia tenetur";"pim_catalog_text dolores deleniti";"pim_catalog_text ut ut";0;0;;;
+attr_392;pim_catalog_number;attr_gr_1;0;"pim_catalog_text ab dolorem";"pim_catalog_text adipisci saepe";"pim_catalog_text suscipit dolores";"pim_catalog_text necessitatibus a";0;0;;;
+attr_393;pim_catalog_file;attr_gr_5;1;"pim_catalog_text odio modi";"pim_catalog_text facere autem";"pim_catalog_text et nemo";"pim_catalog_text nihil aut";0;0;png,jpg;;
+attr_394;pim_catalog_image;attr_gr_10;0;"pim_catalog_text itaque sed";"pim_catalog_text ipsam dolorem";"pim_catalog_text omnis at";"pim_catalog_text vero voluptate";0;0;pdf,jpg;;
+attr_395;pim_catalog_simpleselect;attr_gr_1;0;"pim_catalog_text vitae iure";"pim_catalog_text eius placeat";"pim_catalog_text consequuntur laboriosam";"pim_catalog_text animi consequatur";0;0;;;
+attr_396;pim_catalog_image;attr_gr_8;0;"pim_catalog_text maxime tempore";"pim_catalog_text aut eos";"pim_catalog_text nostrum doloremque";"pim_catalog_text quod corrupti";0;0;jpg,png;;
+attr_397;pim_catalog_date;attr_gr_0;0;"pim_catalog_text aliquid et";"pim_catalog_text ut et";"pim_catalog_text doloribus alias";"pim_catalog_text consectetur dignissimos";0;0;;;
+attr_398;pim_catalog_multiselect;attr_gr_3;1;"pim_catalog_text alias cupiditate";"pim_catalog_text praesentium est";"pim_catalog_text qui eius";"pim_catalog_text beatae hic";0;0;;;
+attr_399;pim_catalog_text;attr_gr_0;0;"pim_catalog_text vero magnam";"pim_catalog_text molestiae ut";"pim_catalog_text iste dolorem";"pim_catalog_text unde vel";0;0;;;

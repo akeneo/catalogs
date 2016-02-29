@@ -1,22 +1,23 @@
 data_generator:
     output_dir: data/small/fixtures
+    seed: 20160219
     entities:
-        attribute:
+        attributes:
             count: 100
             identifier_attribute: "sku"
             localizable_probability: 10
             scopable_probability: 5
             localizable_and_scopable_probability: 2
-        attribute_group:
+        attribute_groups:
             count: 8
-        attribute_option:
+        attribute_options:
             count_per_attribute: 200
-        family:
+        families:
             count: 20
             attributes_count: 50
             identifier_attribute: "sku"
             label_attribute: "sku"
-        category:
+        categories:
             count: 500
             levels: 3
 

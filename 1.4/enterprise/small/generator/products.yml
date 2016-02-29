@@ -1,7 +1,8 @@
 # With this configuration, product data are generated from existing attributes
 # in Akeneo PIM
 data_generator:
-    output_dir: /tmp
+    output_dir: /tmp/fixtures/products
+    seed: 20160219
     entities:
         products:
             filename: product.csv
@@ -9,10 +10,17 @@ data_generator:
             filled_attributes_count: 38
             filled_attributes_standard_deviation: 10
             mandatory_attributes: [sku, name]
+            percentage_complete: 50
             delimiter: ;
-            force_values:
-                - manufacturer = FactoryInc
-                - brand = SuperProd
+            force_values: { attr_60: 'Hello world!' }
             start_index: 0
             categories_count: 2
+        product_drafts:
+            filename: product_draft.csv
+            count: 1000
+            filled_attributes_count: 11
+            filled_attributes_standard_deviation: 3
+            delimiter: ;
+            force_values: { attr_17: 'C/C++/Java/Ruby/Python/PHP/Javascript' }
+            start_index: 0
 
