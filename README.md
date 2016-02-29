@@ -13,7 +13,7 @@ Version | Community | Enterprise
 --------|-----------|-----------
 1.3     | N         | N
 1.4     | N         | Y
-1.5     | N         | N
+1.5     | small and medium Y, large N         | N
 master  | N         | N
 
 ## How to generate a catalog?

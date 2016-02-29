@@ -1,11 +1,18 @@
+# With this configuration, product data are generated from existing attributes
+# in Akeneo PIM
 data_generator:
-    output_dir: data/medium/
+    output_dir: /tmp/fixtures/products
+    seed: 20160219
     entities:
-        product:
+        products:
+            filename: product.csv
             count: 50000
             filled_attributes_count: 75
             filled_attributes_standard_deviation: 10
             mandatory_attributes: [sku, name]
+            percentage_complete: 50
             delimiter: ;
+            force_values: { attr_17: 'Hello world!', attr_390-ecommerce: 'Foo Bar', attr_175-fr_FR: 'Bazbaz FR', attr_175-en_US: 'Bazbaz US' }
             start_index: 0
             categories_count: 2
+

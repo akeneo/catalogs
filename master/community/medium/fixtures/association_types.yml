@@ -1,17 +1,25 @@
 associations:
-    X_SELL:
+    QUO:
         labels:
-            en_US: Cross sell
-            fr_FR: Vente croisée
-    UPSELL:
+            fr_FR: maxime
+            en_US: modi
+            ru_RU: officia
+            it_IT: perferendis
+    DEBITIS:
         labels:
-            en_US: Upsell
-            fr_FR: Vente incitative
-    SUBSTITUTION:
+            fr_FR: est
+            en_US: qui
+            ru_RU: autem
+            it_IT: et
+    NEQUE:
         labels:
-            en_US: Substitution
-            fr_FR: Remplacement
-    PACK:
+            fr_FR: dolorem
+            en_US: nulla
+            ru_RU: ea
+            it_IT: ea
+    EA:
         labels:
-            en_US: Pack
-            fr_FR: Pack
+            fr_FR: non
+            en_US: et
+            ru_RU: nobis
+            it_IT: natus

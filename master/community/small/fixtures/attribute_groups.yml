@@ -1,33 +1,33 @@
 attribute_groups:
     attr_gr_0:
-        sortOrder: 3
+        sortOrder: 8
         labels:
-            en_US: 'Est et.'
+            en_US: 'Modi officia perferendis.'
     attr_gr_1:
-        sortOrder: 7
+        sortOrder: 9
         labels:
-            en_US: 'Eius aliquam.'
+            en_US: 'Qui autem et.'
     attr_gr_2:
-        sortOrder: 5
+        sortOrder: 2
         labels:
-            en_US: 'Corrupti veniam nostrum.'
+            en_US: 'Nulla ea ea.'
     attr_gr_3:
         sortOrder: 5
         labels:
-            en_US: 'Repellendus aliquam vitae.'
+            en_US: 'Et nobis natus.'
     attr_gr_4:
-        sortOrder: 5
+        sortOrder: 8
         labels:
-            en_US: 'Ipsam quia.'
+            en_US: 'Voluptatum eaque voluptatem.'
     attr_gr_5:
         sortOrder: 4
         labels:
-            en_US: 'Minima ad ea.'
+            en_US: 'Mollitia hic velit.'
     attr_gr_6:
-        sortOrder: 6
+        sortOrder: 4
         labels:
-            en_US: 'Voluptate odio facilis.'
+            en_US: 'Voluptate est.'
     attr_gr_7:
-        sortOrder: 10
+        sortOrder: 4
         labels:
-            en_US: 'Aut omnis.'
+            en_US: 'Sunt sunt.'
