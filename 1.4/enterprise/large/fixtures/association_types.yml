@@ -1,17 +1,17 @@
 associations:
-    VEL:
+    QUO:
+        labels:
+            fr_FR: maxime
+            en_US: modi
+    OFFICIA:
+        labels:
+            fr_FR: perferendis
+            en_US: debitis
+    EST:
         labels:
             fr_FR: qui
-            en_US: quidem
-    MAXIME:
+            en_US: autem
+    ET:
         labels:
-            fr_FR: nihil
-            en_US: ratione
-    DOLOREM:
-        labels:
-            fr_FR: autem
-            en_US: eos
-    UT:
-        labels:
-            fr_FR: quia
-            en_US: magni
+            fr_FR: neque
+            en_US: dolorem

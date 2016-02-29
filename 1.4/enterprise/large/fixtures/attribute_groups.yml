@@ -1,101 +1,101 @@
 attribute_groups:
     attr_gr_0:
-        sortOrder: 1
-        labels:
-            fr_FR: 'Consequatur error.'
-            en_US: 'Voluptas reiciendis blanditiis.'
-    attr_gr_1:
-        sortOrder: 1
-        labels:
-            fr_FR: 'Reiciendis labore.'
-            en_US: 'Labore qui est.'
-    attr_gr_2:
-        sortOrder: 7
-        labels:
-            fr_FR: 'Distinctio recusandae.'
-            en_US: 'Perferendis laudantium.'
-    attr_gr_3:
-        sortOrder: 2
-        labels:
-            fr_FR: 'Similique ipsum eaque.'
-            en_US: 'Voluptas dolor totam.'
-    attr_gr_4:
-        sortOrder: 6
-        labels:
-            fr_FR: 'Incidunt animi.'
-            en_US: 'Dignissimos soluta.'
-    attr_gr_5:
         sortOrder: 8
         labels:
-            fr_FR: 'Sequi alias esse.'
-            en_US: 'Possimus aut.'
+            fr_FR: 'Modi officia perferendis.'
+            en_US: 'Est qui autem.'
+    attr_gr_1:
+        sortOrder: 5
+        labels:
+            fr_FR: 'Dolorem nulla.'
+            en_US: 'Ea ea.'
+    attr_gr_2:
+        sortOrder: 6
+        labels:
+            fr_FR: 'Nobis natus quo.'
+            en_US: 'Voluptatum eaque voluptatem.'
+    attr_gr_3:
+        sortOrder: 4
+        labels:
+            fr_FR: 'Mollitia hic velit.'
+            en_US: 'Rem voluptate.'
+    attr_gr_4:
+        sortOrder: 8
+        labels:
+            fr_FR: 'Totam sunt.'
+            en_US: 'Et et.'
+    attr_gr_5:
+        sortOrder: 9
+        labels:
+            fr_FR: 'Saepe et.'
+            en_US: 'Quam non officiis.'
     attr_gr_6:
         sortOrder: 3
         labels:
-            fr_FR: 'Vel dolorum error.'
-            en_US: 'Ut quam quo.'
+            fr_FR: 'Consequatur inventore ut.'
+            en_US: 'Quia nihil ut.'
     attr_gr_7:
-        sortOrder: 6
-        labels:
-            fr_FR: 'Et id natus.'
-            en_US: 'At aut et.'
-    attr_gr_8:
-        sortOrder: 10
-        labels:
-            fr_FR: 'Aperiam velit.'
-            en_US: 'Est rerum.'
-    attr_gr_9:
-        sortOrder: 6
-        labels:
-            fr_FR: 'Ratione libero.'
-            en_US: 'Ut aut quo.'
-    attr_gr_10:
-        sortOrder: 7
-        labels:
-            fr_FR: 'Qui reiciendis.'
-            en_US: 'Nam et accusamus.'
-    attr_gr_11:
-        sortOrder: 6
-        labels:
-            fr_FR: 'Commodi nisi.'
-            en_US: 'Tempora dignissimos.'
-    attr_gr_12:
-        sortOrder: 1
-        labels:
-            fr_FR: 'Aliquid id.'
-            en_US: 'Ratione repudiandae porro.'
-    attr_gr_13:
-        sortOrder: 2
-        labels:
-            fr_FR: 'Quia quos.'
-            en_US: 'Facilis similique enim.'
-    attr_gr_14:
-        sortOrder: 1
-        labels:
-            fr_FR: 'Est ut dignissimos.'
-            en_US: 'Eos eaque corporis.'
-    attr_gr_15:
-        sortOrder: 10
-        labels:
-            fr_FR: 'Excepturi aliquid quaerat.'
-            en_US: 'Quasi non.'
-    attr_gr_16:
-        sortOrder: 5
-        labels:
-            fr_FR: 'Nihil est enim.'
-            en_US: 'Quo est nulla.'
-    attr_gr_17:
-        sortOrder: 8
-        labels:
-            fr_FR: 'At fugiat et.'
-            en_US: 'Nihil et.'
-    attr_gr_18:
         sortOrder: 4
         labels:
-            fr_FR: 'Nobis non ut.'
-            en_US: 'Omnis doloremque asperiores.'
-    attr_gr_19:
+            fr_FR: 'Eum ut.'
+            en_US: 'Ratione rerum.'
+    attr_gr_8:
+        sortOrder: 1
+        labels:
+            fr_FR: 'Eum quae sint.'
+            en_US: 'Id vel modi.'
+    attr_gr_9:
+        sortOrder: 5
+        labels:
+            fr_FR: 'Aut dolores ipsa.'
+            en_US: 'Commodi nam.'
+    attr_gr_10:
         sortOrder: 2
         labels:
-            fr_FR: 'Voluptatibus quos.'
-            en_US: 'Maxime laboriosam temporibus.'
+            fr_FR: 'Minima et.'
+            en_US: 'Ea suscipit.'
+    attr_gr_11:
+        sortOrder: 2
+        labels:
+            fr_FR: 'Quasi impedit.'
+            en_US: 'Fugiat quam distinctio.'
+    attr_gr_12:
+        sortOrder: 4
+        labels:
+            fr_FR: 'Ex labore distinctio.'
+            en_US: 'Et natus.'
+    attr_gr_13:
+        sortOrder: 8
+        labels:
+            fr_FR: 'Fuga optio.'
+            en_US: 'Dignissimos cumque.'
+    attr_gr_14:
+        sortOrder: 4
+        labels:
+            fr_FR: 'Est reiciendis quisquam.'
+            en_US: 'Autem numquam.'
+    attr_gr_15:
+        sortOrder: 2
+        labels:
+            fr_FR: 'Sit iure.'
+            en_US: 'Omnis mollitia.'
+    attr_gr_16:
+        sortOrder: 7
+        labels:
+            fr_FR: 'Eius explicabo.'
+            en_US: 'Amet laudantium est.'
+    attr_gr_17:
+        sortOrder: 6
+        labels:
+            fr_FR: 'Cupiditate sed.'
+            en_US: 'Cumque quam.'
+    attr_gr_18:
+        sortOrder: 7
+        labels:
+            fr_FR: 'Saepe sed suscipit.'
+            en_US: 'Rem iste.'
+    attr_gr_19:
+        sortOrder: 7
+        labels:
+            fr_FR: 'Veritatis velit recusandae.'
+            en_US: 'Officiis soluta est.'

@@ -1,5 +1,6 @@
 data_generator:
     output_dir: /tmp/fixtures
+    seed: 20160219
     entities:
         group_types: ~
         associations:
@@ -421,3 +422,7 @@ data_generator:
         job_profiles_accesses: ~
         locales_accesses: ~
         product_category_accesses: ~
+        variant_groups:
+            count: 10000
+            axes_count: 3
+            attributes_count: 5
