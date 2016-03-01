@@ -425,5 +425,5 @@ data_generator:
             axes_count: 2
             attributes_count: 3
         asset:
-            count: 15000
-            asset_directory: assets
+            count: 5000
+            asset_directory: /tmp/pim/file_storage/mass_upload_scheduled/admin

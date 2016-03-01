@@ -32,4 +32,7 @@ To install a catalog, you will have to:
 gunzip -c /<path_to_catalog>/<community|enterprise>/<catalog_size>/products.csv.gz > /tmp/product.csv
 app/console akeneo:batch:job csv_product_import --env=prod
 ```
-
+- import the assets
+```
+app/console pim:product-asset:mass-upload --user=admin --env=prod
+```

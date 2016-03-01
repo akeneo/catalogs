@@ -1,0 +1,10 @@
+asset_channel_configurations:
+    print:
+        configuration:
+            resize:
+                width: 400
+                height: 500
+    ecommerce:
+        configuration:
+            scale:
+                ratio: 50
