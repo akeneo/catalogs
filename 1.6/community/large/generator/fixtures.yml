@@ -54,10 +54,10 @@ data_generator:
             count: 4000
             levels: 3
         jobs:
-          product_import:
-            connector: Akeneo Native Connector
+          csv_product_import:
+            connector: Akeneo CSV Connector
             alias:     csv_product_import
-            label:     Product import
+            label:     CSV product import
             type:      import
             configuration:
               filePath:           /tmp/product.csv
@@ -70,10 +70,12 @@ data_generator:
               familyColumn:       family
               groupsColumn:       groups
               realTimeVersioning: true
-          product_export:
-            connector: Akeneo Native Connector
+              decimalSeparator:   .
+              dateFormat:         yyyy-MM-dd
+          csv_product_export:
+            connector: Akeneo CSV Connector
             alias:   csv_product_export
-            label:   Product export
+            label:   CSV product export
             type:    export
             configuration:
               channel:    ecommerce
