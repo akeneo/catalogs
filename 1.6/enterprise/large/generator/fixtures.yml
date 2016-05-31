@@ -15,7 +15,6 @@ data_generator:
                 currencies:
                     - USD
                     - EUR
-                color: blue
             print:
                 code: print
                 label: Print
@@ -25,7 +24,6 @@ data_generator:
                 currencies:
                     - USD
                     - EUR
-                color: white
         attribute_groups:
             count: 20
         attributes:
