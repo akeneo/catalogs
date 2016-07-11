@@ -1,0 +1,25 @@
+# With this configuration, product data are generated from existing attributes
+# in Akeneo PIM
+data_generator:
+    output_dir: /tmp/fixtures/products
+    seed: 20160430
+    entities:
+        products:
+            filename: product.csv
+            count: 5000
+            filled_attributes_count: 38
+            filled_attributes_standard_deviation: 10
+            mandatory_attributes: [sku, name]
+            delimiter: ;
+            force_values: { attr_58: 'Hello world!' }
+            start_index: 0
+            categories_count: 2
+            products_per_variant_group: 0
+            percentage_complete: 50
+        product_drafts:
+            filename: product_draft.csv
+            count: 1000
+            filled_attributes_count: 11
+            filled_attributes_standard_deviation: 3
+            delimiter: ;
+            start_index: 0

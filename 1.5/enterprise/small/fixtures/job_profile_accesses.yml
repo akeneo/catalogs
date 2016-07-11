@@ -1,0 +1,70 @@
+job_profile_accesses:
+    csv_product_import:
+        executeJobProfile: ['IT support', Manager]
+        editJobProfile: ['IT support', Manager]
+    csv_product_export:
+        executeJobProfile: ['IT support', Manager]
+        editJobProfile: ['IT support', Manager]
+    csv_category_import:
+        executeJobProfile: ['IT support', Manager]
+        editJobProfile: ['IT support', Manager]
+    csv_category_export:
+        executeJobProfile: ['IT support', Manager]
+        editJobProfile: ['IT support', Manager]
+    csv_association_type_import:
+        executeJobProfile: ['IT support', Manager]
+        editJobProfile: ['IT support', Manager]
+    csv_association_type_export:
+        executeJobProfile: ['IT support', Manager]
+        editJobProfile: ['IT support', Manager]
+    csv_group_import:
+        executeJobProfile: ['IT support', Manager]
+        editJobProfile: ['IT support', Manager]
+    csv_variant_group_import:
+        executeJobProfile: ['IT support', Manager]
+        editJobProfile: ['IT support', Manager]
+    csv_group_export:
+        executeJobProfile: ['IT support', Manager]
+        editJobProfile: ['IT support', Manager]
+    csv_variant_group_export:
+        executeJobProfile: ['IT support', Manager]
+        editJobProfile: ['IT support', Manager]
+    csv_attribute_import:
+        executeJobProfile: ['IT support', Manager]
+        editJobProfile: ['IT support', Manager]
+    csv_attribute_export:
+        executeJobProfile: ['IT support', Manager]
+        editJobProfile: ['IT support', Manager]
+    csv_option_import:
+        executeJobProfile: ['IT support', Manager]
+        editJobProfile: ['IT support', Manager]
+    csv_option_export:
+        executeJobProfile: ['IT support', Manager]
+        editJobProfile: ['IT support', Manager]
+    update_product_value:
+        executeJobProfile: ['IT support', Manager]
+        editJobProfile: ['IT support', Manager]
+    add_product_value:
+        executeJobProfile: ['IT support', Manager]
+        editJobProfile: ['IT support', Manager]
+    add_product_value_with_permission:
+        executeJobProfile: ['IT support', Manager]
+        editJobProfile: ['IT support', Manager]
+    update_product_value_with_permission:
+        executeJobProfile: ['IT support', Manager]
+        editJobProfile: ['IT support', Manager]
+    edit_common_attributes:
+        executeJobProfile: ['IT support', Manager]
+        editJobProfile: ['IT support', Manager]
+    edit_common_attributes_with_permission:
+        executeJobProfile: ['IT support', Manager]
+        editJobProfile: ['IT support', Manager]
+    add_to_variant_group:
+        executeJobProfile: ['IT support', Manager]
+        editJobProfile: ['IT support', Manager]
+    set_attribute_requirements:
+        executeJobProfile: ['IT support', Manager]
+        editJobProfile: ['IT support', Manager]
+    csv_product_quick_export:
+        executeJobProfile: ['IT support', Manager]
+        editJobProfile: ['IT support', Manager]

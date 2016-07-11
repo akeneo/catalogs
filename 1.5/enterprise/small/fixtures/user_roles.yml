@@ -1,0 +1,3 @@
+user_roles:
+    ROLE_ADMINISTRATOR:
+        label: Administrator

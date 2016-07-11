@@ -1,0 +1,21 @@
+channels:
+    ecommerce:
+        code: ecommerce
+        label: Ecommerce
+        tree: master
+        locales:
+            - en_US
+        currencies:
+            - USD
+            - EUR
+        color: blue
+    print:
+        code: print
+        label: Print
+        tree: master
+        locales:
+            - en_US
+        currencies:
+            - USD
+            - EUR
+        color: white
