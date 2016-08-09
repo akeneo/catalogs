@@ -23,11 +23,20 @@ jobs:
         label: 'CSV product export'
         type: export
         configuration:
-            channel: ecommerce
             delimiter: ;
             enclosure: '"'
             withHeader: true
             filePath: /tmp/product.csv
+            decimalSeparator: .
+            dateFormat: yyyy-MM-dd
+            filters:
+                data: []
+                structure:
+                    scope: ecommerce
+                    locales:
+                        - fr_FR
+                        - en_US
+                        - de_DE
     update_product_value:
         connector: 'Akeneo Mass Edit Connector'
         alias: update_product_value
