@@ -285,7 +285,6 @@ jobs:
             delimiter: ;
             enclosure: '"'
             escape: \
-            circularRefsChecked: true
     csv_category_export:
         connector: 'Akeneo CSV Connector'
         alias: csv_category_export
@@ -391,7 +390,6 @@ jobs:
         type: import
         configuration:
             uploadAllowed: true
-            circularRefsChecked: true
     xlsx_category_export:
         connector: 'Akeneo XLSX Connector'
         alias: xlsx_category_export
