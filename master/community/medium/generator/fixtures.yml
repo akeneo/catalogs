@@ -12,6 +12,7 @@ data_generator:
                 locales:
                     - fr_FR
                     - en_US
+                    - de_DE
                     - ru_RU
                     - it_IT
                 currencies:
@@ -23,6 +24,7 @@ data_generator:
                 locales:
                     - fr_FR
                     - en_US
+                    - de_DE
                     - ru_RU
                     - it_IT
                 currencies:

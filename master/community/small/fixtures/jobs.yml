@@ -34,9 +34,7 @@ jobs:
                 structure:
                     scope: ecommerce
                     locales:
-                        - fr_FR
                         - en_US
-                        - de_DE
     update_product_value:
         connector: 'Akeneo Mass Edit Connector'
         alias: update_product_value
