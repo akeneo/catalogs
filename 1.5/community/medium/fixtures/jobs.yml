@@ -21,7 +21,7 @@ jobs:
         label: 'Demo product export'
         type: export
         configuration:
-            channel: mobile
+            channel: ecommerce
             delimiter: ;
             enclosure: '"'
             withHeader: true
