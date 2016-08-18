@@ -26,17 +26,6 @@ jobs:
             enclosure: '"'
             withHeader: true
             filePath: /tmp/product.csv
-    csv_published_product_export:
-        connector: 'Akeneo CSV Connector'
-        alias: csv_published_product_export
-        label: 'Demo published product export'
-        type: export
-        configuration:
-            channel: mobile
-            delimiter: ;
-            enclosure: '"'
-            withHeader: true
-            filePath: /tmp/published-product.csv
     csv_category_import:
         connector: 'Akeneo CSV Connector'
         alias: csv_category_import
@@ -164,36 +153,6 @@ jobs:
             enclosure: '"'
             withHeader: true
             filePath: /tmp/option.csv
-    yml_rule_import:
-        connector: 'Akeneo Rule Engine Connector'
-        alias: yml_rule_import
-        label: 'Demo rules import'
-        type: import
-        configuration:
-            filePath: /tmp/rules.yml
-            uploadAllowed: true
-            multiple: false
-    yml_rule_export:
-        connector: 'Akeneo Rule Engine Connector'
-        alias: yml_rule_export
-        label: 'Demo rules export'
-        type: export
-        configuration:
-            filePath: /tmp/rules.yml
-            header: rules
-    csv_product_proposal_import:
-        connector: 'Akeneo CSV Connector'
-        alias: csv_product_proposal_import
-        label: 'Demo product draft import'
-        type: import
-        configuration:
-            filePath: /tmp/product_draft.csv
-            uploadAllowed: true
-            multiple: false
-            delimiter: ;
-            enclosure: '"'
-            escape: \
-            enabled: true
     update_product_value:
         connector: 'Akeneo Mass Edit Connector'
         alias: update_product_value
@@ -206,39 +165,9 @@ jobs:
         label: 'Mass add products values'
         type: mass_edit
         configuration: {  }
-    add_product_value_with_permission:
-        connector: 'Akeneo Mass Edit Connector'
-        alias: add_product_value_with_permission
-        label: 'Mass add products values with permission check'
-        type: mass_edit
-        configuration: {  }
-    update_product_value_with_permission:
-        connector: 'Akeneo Mass Edit Connector'
-        alias: update_product_value_with_permission
-        label: 'Mass update products values with permission check'
-        type: mass_edit
-        configuration: {  }
-    publish_product:
-        connector: 'Akeneo Mass Edit Connector'
-        alias: publish_product
-        label: 'Mass publish products'
-        type: mass_edit
-        configuration: {  }
-    unpublish_product:
-        connector: 'Akeneo Mass Edit Connector'
-        alias: unpublish_product
-        label: 'Mass unpublish products'
-        type: mass_edit
-        configuration: {  }
     edit_common_attributes:
         connector: 'Akeneo Mass Edit Connector'
         alias: edit_common_attributes
-        label: 'Mass edit common product attributes'
-        type: mass_edit
-        configuration: {  }
-    edit_common_attributes_with_permission:
-        connector: 'Akeneo Mass Edit Connector'
-        alias: edit_common_attributes_with_permission
         label: 'Mass edit common product attributes'
         type: mass_edit
         configuration: {  }
@@ -264,101 +193,3 @@ jobs:
             enclosure: '"'
             withHeader: true
             filePath: /tmp/products_export_%locale%_%scope%_%datetime%.csv
-    csv_published_product_quick_export:
-        connector: 'Akeneo Mass Edit Connector'
-        alias: csv_published_product_quick_export
-        label: 'CSV published product quick export'
-        type: quick_export
-        configuration:
-            delimiter: ;
-            enclosure: '"'
-            withHeader: true
-            filePath: /tmp/published_products_export_%locale%_%scope%_%datetime%.csv
-    approve_product_draft:
-        connector: 'Akeneo CSV Connector'
-        alias: approve_product_draft
-        label: 'Mass approve product drafts'
-        type: mass_edit
-        configuration: {  }
-    refuse_product_draft:
-        connector: 'Akeneo CSV Connector'
-        alias: refuse_product_draft
-        label: 'Mass reject product drafts'
-        type: mass_edit
-        configuration: {  }
-    csv_asset_import:
-        connector: 'Akeneo Product Asset Connector'
-        alias: csv_asset_import
-        label: 'Demo asset import'
-        type: import
-        configuration:
-            filePath: /tmp/assets.csv
-            uploadAllowed: true
-            delimiter: ;
-            enclosure: '"'
-            escape: \
-    csv_asset_category_export:
-        connector: 'Akeneo Product Asset Connector'
-        alias: csv_asset_category_export
-        label: 'Demo asset category export'
-        type: export
-        configuration:
-            delimiter: ;
-            enclosure: '"'
-            withHeader: true
-            filePath: /tmp/asset_category.csv
-    csv_asset_category_import:
-        connector: 'Akeneo Product Asset Connector'
-        alias: csv_asset_category_import
-        label: 'Demo asset category import'
-        type: import
-        configuration:
-            filePath: /tmp/asset_categories.csv
-            uploadAllowed: true
-            delimiter: ;
-            enclosure: '"'
-            escape: \
-    csv_asset_export:
-        connector: 'Akeneo Product Asset Connector'
-        alias: csv_asset_export
-        label: 'Demo asset export'
-        type: export
-        configuration:
-            delimiter: ;
-            enclosure: '"'
-            withHeader: true
-            filePath: /tmp/asset.csv
-    csv_asset_variation_export:
-        connector: 'Akeneo Product Asset Connector'
-        alias: csv_asset_variation_export
-        label: 'Demo asset variation export'
-        type: export
-        configuration:
-            delimiter: ;
-            enclosure: '"'
-            withHeader: true
-            filePath: /tmp/asset_variation.csv
-    apply_assets_mass_upload:
-        connector: 'Akeneo Product Asset Connector'
-        alias: apply_assets_mass_upload
-        label: 'Process mass uploaded assets'
-        type: mass_upload
-        configuration: {  }
-    yml_asset_channel_configuration_import:
-        connector: 'Akeneo Product Asset Connector'
-        alias: yml_asset_channel_configuration_import
-        label: 'Demo asset channel configuration import'
-        type: import
-        configuration:
-            uploadAllowed: true
-            filePath: /tmp/asset_channel_configurations.yml
-    yml_asset_channel_configuration_export:
-        connector: 'Akeneo Product Asset Connector'
-        alias: yml_asset_channel_configuration_export
-        label: 'Demo asset channel configuration export'
-        type: export
-        configuration:
-            filePath: /tmp/asset_channel_configurations.yml
-            uploadAllowed: true
-            multiple: false
-            header: asset_channel_configurations
