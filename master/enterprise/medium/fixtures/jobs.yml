@@ -5,6 +5,7 @@ jobs:
         label: 'CSV product import'
         type: import
         configuration:
+            filePath: /tmp/product.csv
             uploadAllowed: true
             delimiter: ;
             enclosure: '"'
@@ -127,7 +128,6 @@ jobs:
         type: import
         configuration:
             uploadAllowed: true
-            multiple: false
             delimiter: ;
             enclosure: '"'
             escape: \
