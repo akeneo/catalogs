@@ -28,16 +28,10 @@ jobs:
             withHeader: true
             filePath: /tmp/product.csv
             decimalSeparator: .
-            dateFormat: yyyy-MM-dd
             filters:
-                data: []
-                structure:
-                    scope: ecommerce
-                    locales:
-                        - fr_FR
-                        - en_US
-                        - de_DE
-    ecommerce_published_product_export:
+                data: {  }
+                structure: { scope: ecommerce, locales: [fr_FR, en_US, de_DE, ru_RU, it_IT] }
+    csv_published_product_export:
         connector: 'Akeneo CSV Connector'
         alias: csv_published_product_export
         label: 'Published product export for ecommerce'
@@ -48,15 +42,9 @@ jobs:
             withHeader: true
             filePath: /tmp/published-product.csv
             decimalSeparator: .
-            dateFormat: yyyy-MM-dd
             filters:
-                data: []
-                structure:
-                    scope: ecommerce
-                    locales:
-                        - fr_FR
-                        - en_US
-                        - de_DE
+                data: {  }
+                structure: { scope: ecommerce, locales: [fr_FR, en_US, de_DE, ru_RU, it_IT] }
     rule_import:
         connector: 'Akeneo Rule Engine Connector'
         alias: yml_rule_import
@@ -86,7 +74,7 @@ jobs:
         configuration:
             filePath: /tmp/asset_channel_configurations.yml
             uploadAllowed: true
-            multiple: null
+            multiple: true
             header: asset_channel_configurations
     asset_category_import:
         connector: 'Akeneo Product Asset Connector'
@@ -114,13 +102,11 @@ jobs:
         alias: approve_product_draft
         label: 'Mass approve product drafts'
         type: mass_edit
-        configuration: {  }
     refuse_product_draft:
         connector: 'Akeneo Mass Edit Connector'
         alias: refuse_product_draft
         label: 'Mass reject product drafts'
         type: mass_edit
-        configuration: {  }
     product_proposal_import:
         connector: 'Akeneo CSV Connector'
         alias: csv_product_proposal_import
@@ -139,31 +125,26 @@ jobs:
         alias: add_product_value_with_permission
         label: 'Mass add products values with permission check'
         type: mass_edit
-        configuration: {  }
     update_product_value_with_permission:
         connector: 'Akeneo Mass Edit Connector'
         alias: update_product_value_with_permission
         label: 'Mass update products values with permission check'
         type: mass_edit
-        configuration: {  }
     publish_product:
         connector: 'Akeneo Mass Edit Connector'
         alias: publish_product
         label: 'Mass publish products'
         type: mass_edit
-        configuration: {  }
     unpublish_product:
         connector: 'Akeneo Mass Edit Connector'
         alias: unpublish_product
         label: 'Mass unpublish products'
         type: mass_edit
-        configuration: {  }
     edit_common_attributes_with_permission:
         connector: 'Akeneo Mass Edit Connector'
         alias: edit_common_attributes_with_permission
         label: 'Mass edit common product attributes with permission check'
         type: mass_edit
-        configuration: {  }
     asset_import:
         connector: 'Akeneo Product Asset Connector'
         alias: csv_asset_import
@@ -200,7 +181,6 @@ jobs:
         alias: apply_assets_mass_upload
         label: 'Mass approve product drafts'
         type: mass_upload
-        configuration: {  }
     csv_product_import_with_rules:
         connector: 'Akeneo CSV Connector'
         alias: csv_product_import_with_rules
@@ -239,7 +219,6 @@ jobs:
         alias: rule_impacted_product_count
         label: 'Calculation of the matching products for the rules'
         type: mass_edit_rule
-        configuration: {  }
     update_product_value:
         connector: 'Akeneo Mass Edit Connector'
         alias: update_product_value
@@ -249,6 +228,11 @@ jobs:
         connector: 'Akeneo Mass Edit Connector'
         alias: add_product_value
         label: 'Mass add products values'
+        type: mass_edit
+    remove_product_value:
+        connector: 'Akeneo Mass Edit Connector'
+        alias: remove_product_value
+        label: 'Mass remove products values'
         type: mass_edit
     edit_common_attributes:
         connector: 'Akeneo Mass Edit Connector'
