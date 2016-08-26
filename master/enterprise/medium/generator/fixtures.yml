@@ -3,8 +3,6 @@ data_generator:
     seed: 20160430
     entities:
         group_types: ~
-        associations:
-            count: 4
         channels:
             ecommerce:
                 code: ecommerce
@@ -12,6 +10,7 @@ data_generator:
                 locales:
                     - fr_FR
                     - en_US
+                    - de_DE
                     - ru_RU
                     - it_IT
                 currencies:
@@ -23,6 +22,7 @@ data_generator:
                 locales:
                     - fr_FR
                     - en_US
+                    - de_DE
                     - ru_RU
                     - it_IT
                 currencies:
@@ -58,6 +58,7 @@ data_generator:
                 label:     CSV product import
                 type:      import
                 configuration:
+                    filePath:           /tmp/product.csv
                     uploadAllowed:      true
                     delimiter:          ;
                     enclosure:          '"'
@@ -75,22 +76,42 @@ data_generator:
                 label:     CSV product export
                 type:      export
                 configuration:
-                    channel:    ecommerce
                     delimiter:  ;
                     enclosure:  '"'
                     withHeader: true
                     filePath: /tmp/product.csv
-            ecommerce_published_product_export:
+                    decimalSeparator: .
+                    filters:
+                        data: []
+                        structure:
+                            scope: ecommerce
+                            locales:
+                                - fr_FR
+                                - en_US
+                                - de_DE
+                                - ru_RU
+                                - it_IT
+            csv_published_product_export:
                 connector: Akeneo CSV Connector
                 alias:     csv_published_product_export
                 label:     Published product export for ecommerce
                 type:      export
                 configuration:
-                    channel:    ecommerce
                     delimiter:  ;
                     enclosure:  '"'
                     withHeader: true
                     filePath: /tmp/published-product.csv
+                    decimalSeparator: .
+                    filters:
+                        data: []
+                        structure:
+                            scope: ecommerce
+                            locales:
+                                - fr_FR
+                                - en_US
+                                - de_DE
+                                - ru_RU
+                                - it_IT
             rule_import:
                 connector: Akeneo Rule Engine Connector
                 alias:     yml_rule_import
@@ -160,7 +181,6 @@ data_generator:
                 type:      import
                 configuration:
                     uploadAllowed:    true
-                    multiple:         false
                     delimiter:        ;
                     enclosure:        '"'
                     escape:           '\'
@@ -289,7 +309,7 @@ data_generator:
             attributes_count: 5
         asset_categories: ~
         asset_category_accesses: ~
-        attribute_groups_accesses: ~
-        job_profiles_accesses: ~
-        locales_accesses: ~
+        attribute_group_accesses: ~
+        job_profile_accesses: ~
+        locale_accesses: ~
         product_category_accesses: ~
