@@ -3,8 +3,6 @@ data_generator:
     seed: 20160430
     entities:
         group_types: ~
-        associations:
-            count: 4
         channels:
             ecommerce:
                 code: ecommerce
