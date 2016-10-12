@@ -10,7 +10,7 @@ data_generator:
             filled_attributes_count: 250
             filled_attributes_standard_deviation: 30
             mandatory_attributes: [sku, name]
-            percentage_complete: 50
+            percentage_complete: 90
             delimiter: ;
             force_values: { attr_59: 'Hello world!' }
             start_index: 0
