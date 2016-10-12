@@ -1,3 +1,6 @@
 code;label;tree;locales;currencies
-ecommerce;Ecommerce;master;fr_FR,en_US,de_DE,ru_RU,it_IT;USD,EUR
-print;Print;master;fr_FR,en_US,de_DE,ru_RU,it_IT;USD,EUR
+ecommerce;Ecommerce;master;fr_FR,en_US,de_DE,ru_RU,it_IT;USD,EUR,GBP
+mobile_app;"Mobile application";master;fr_FR,en_US,de_DE,ru_RU,it_IT;USD,EUR,GBP
+point_of_sale;"Point of sale";master;fr_FR,en_US,de_DE,ru_RU,it_IT;USD,EUR,GBP
+print;Print;master;fr_FR,en_US,de_DE,ru_RU,it_IT;USD,EUR,GBP
+call-center;"Call center";master;fr_FR,en_US,de_DE,ru_RU,it_IT;USD,EUR,GBP
