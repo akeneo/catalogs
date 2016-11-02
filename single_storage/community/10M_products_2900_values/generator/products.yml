@@ -5,8 +5,8 @@ data_generator:
     seed: 20160430
     entities:
         products:
-            filename: product.csv
-            count: 100
+            filename: products.csv
+            count: 100000
             filled_attributes_count: 250
             filled_attributes_standard_deviation: 30
             mandatory_attributes: [sku, name]
