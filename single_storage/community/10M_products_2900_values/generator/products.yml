@@ -15,3 +15,4 @@ data_generator:
             force_values: { attr_59: 'Hello world!' }
             start_index: 0
             categories_count: 4
+            all_attribute_keys: true
