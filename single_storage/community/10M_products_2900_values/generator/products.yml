@@ -6,7 +6,7 @@ data_generator:
     entities:
         products:
             filename: products.csv
-            count: 55000
+            count: 50000
             filled_attributes_count: 250
             filled_attributes_standard_deviation: 30
             mandatory_attributes: [sku, name]
