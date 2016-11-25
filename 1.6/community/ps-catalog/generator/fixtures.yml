@@ -3,8 +3,6 @@ data_generator:
     seed: 20160430
     entities:
         group_types: ~
-        associations:
-            count: 4
         channels:
             ecommerce:
                 code: ecommerce
@@ -74,35 +72,44 @@ data_generator:
             count: 500
             levels: 3
         jobs:
-          csv_product_import:
-            connector: Akeneo CSV Connector
-            alias:     csv_product_import
-            label:     CSV product import
-            type:      import
-            configuration:
-              filePath:           /tmp/product.csv
-              uploadAllowed:      true
-              delimiter:          ;
-              enclosure:          '"'
-              escape:             '\'
-              enabled:            true
-              categoriesColumn:   categories
-              familyColumn:       family
-              groupsColumn:       groups
-              realTimeVersioning: true
-              decimalSeparator:   .
-              dateFormat:         yyyy-MM-dd
-          csv_product_export:
-            connector: Akeneo CSV Connector
-            alias:   csv_product_export
-            label:   CSV product export
-            type:    export
-            configuration:
-              channel:    ecommerce
-              delimiter:  ;
-              enclosure:  '"'
-              withHeader: true
-              filePath: /tmp/product.csv
+            csv_product_import:
+                connector: Akeneo CSV Connector
+                alias:     csv_product_import
+                label:     CSV product import
+                type:      import
+                configuration:
+                    filePath:           /tmp/product.csv
+                    uploadAllowed:      true
+                    delimiter:          ;
+                    enclosure:          '"'
+                    escape:             '\'
+                    enabled:            true
+                    categoriesColumn:   categories
+                    familyColumn:       family
+                    groupsColumn:       groups
+                    realTimeVersioning: true
+                    decimalSeparator:   .
+                    dateFormat:         yyyy-MM-dd
+            csv_product_export:
+                connector: Akeneo CSV Connector
+                alias:     csv_product_export
+                label:     CSV product export
+                type:      export
+                configuration:
+                    delimiter:  ;
+                    enclosure:  '"'
+                    withHeader: true
+                    filePath: /tmp/product.csv
+                    decimalSeparator: .
+                    filters:
+                        data: []
+                        structure:
+                            scope: ecommerce
+                            locales:
+                                - fr_FR
+                                - en_US
+                                - de_DE
+                                - ru_RU
         user_groups:
             it_support:
                 name: IT support
