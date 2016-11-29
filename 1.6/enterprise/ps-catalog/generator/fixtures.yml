@@ -49,6 +49,17 @@ data_generator:
                 currencies:
                     - USD
                     - EUR
+            advertising:
+                code: advertising
+                label: Advertising
+                locales:
+                    - fr_FR
+                    - en_US
+                    - de_DE
+                    - ru_RU
+                currencies:
+                    - USD
+                    - EUR
         attribute_groups:
             count: 20
         attributes:
