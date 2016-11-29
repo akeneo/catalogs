@@ -1,0 +1,5 @@
+code;label;tree;locales;currencies
+ecommerce;Ecommerce;master;fr_FR,en_US,de_DE,ru_RU;USD,EUR
+print;Print;master;fr_FR,en_US,de_DE,ru_RU;USD,EUR
+mobile;Mobile;master;fr_FR,en_US,de_DE,ru_RU;USD,EUR
+pos;POS;master;fr_FR,en_US,de_DE,ru_RU;USD,EUR
