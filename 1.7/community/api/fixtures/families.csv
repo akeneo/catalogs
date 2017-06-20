@@ -1,0 +1,6 @@
+code;label-en_US;label-fr_FR;attributes;attribute_as_label;requirements-ecommerce;requirements-mobile
+boots;Boots;Bottes;sku,name,manufacturer,description,weather_conditions,price,rating,side_view,top_view,size,color,lace_color;name;sku,name,description,weather_conditions,price,rating,side_view,size,color;sku,name,price,size,color
+heels;Heels;Talons;sku,name,manufacturer,description,price,side_view,top_view,size,color,heel_color,sole_color,sole_fabric;name;sku,name,description,price,side_view,size,color,heel_color,sole_color;sku,name,price,size,color,heel_color,sole_color
+sneakers;Sneakers;Sneakers;sku,name,manufacturer,description,weather_conditions,price,rating,side_view,top_view,size,color,lace_color;name;sku,name,description,weather_conditions,price,rating,side_view,size,color;sku,name,price,size,color
+sandals;Sandals;Sandales;sku,name,manufacturer,description,price,rating,side_view,size,color;name;sku,name,description,price,rating,side_view,size,color;sku,name,price,size,color
+led_tvs;LED TVs;TVs LED;sku,name,manufacturer,description,price,rating,side_view,size,color;name;sku,name,description,price,rating,side_view,size,color;sku,name,price,size,color
