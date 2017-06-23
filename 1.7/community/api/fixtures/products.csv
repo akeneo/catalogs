@@ -1,11 +1,11 @@
-sku;categories;enabled;family;groups;color;description-en_US-ecommerce;description-fr_FR-ecommerce;destocking_date;lace_color;length;length-unit;manufacturer;name-en_US;name-fr_FR;price-EUR;price-USD;rating;side_view;size;top_view;weather_conditions;X_SELL-groups;X_SELL-products
-big_boot;summer_collection,winter_boots,winter_collection;1;boots;similar_boots;black;Big boot for a big foot.;;;laces_white;;;TimberLand;Big boot !;;120.00;110.00;2;images/Ziggy-certification.jpg;37;images/Ziggy.png;dry,wet;;small_boot,medium_boot
-small_boot;summer_collection,winter_boots,winter_collection;1;boots;similar_boots;maroon;;;;laces_brown;;;TimberLand;Small boot;;110.00;110.00;4;;;;wet;;
-medium_boot;winter_boots,winter_collection;1;boots;similar_boots;white;The medium boot.;;;laces_black;;;Caterpillar;Medium boot;;100.50;100.49;4;;41;;dry,wet;;
-dance_shoe;sandals;1;sandals;;greem;To dance all night !;Dansez toute la nuit !;2017-06-30;;;;Converse;Dance shoe;Chaussure de dance;99.49;90.50;5;images/Akeneo-logo.png;40;;;;
-black_sneakers;summer_collection,winter_collection;1;sneakers;;black;The famous sneakers;Les fameuses sneakers;;laces_black;14;CENTIMETER;Converse;Black sneakers;Sneakers;40.00;42.00;2;images/Ziggy-certification.jpg;41;;dry,wet;;
-docks_blue;winter_collection;1;boots;caterpillar_boots;blue;;;;;;;Caterpillar;Docks;;149.49;149.49;;;44;;cold,snowy,wet;;
-docks_black;winter_boots,winter_collection;1;boots;caterpillar_boots;black;;;;;;;Caterpillar;Docks;;149.49;149.49;;;42;;cold,snowy,wet;;
-docks_white;winter_collection;1;boots;caterpillar_boots;white;;;;;;;Caterpillar;Docks;;149.49;149.49;;;44;;cold,snowy,wet;;
-docks_maroon;winter_collection;1;boots;caterpillar_boots;maroon;;;;;;;Caterpillar;Docks;;149.49;149.49;;;44;;cold,snowy,wet;;
-docks_red;winter_collection;1;boots;caterpillar_boots;red;;;;;;;Caterpillar;Docks;;149.49;149.49;;;44;;cold,snowy,wet;;
+sku;categories;enabled;family;groups;color;description-en_US-ecommerce;description-fr_FR-ecommerce;destocking_date;length;length-unit;manufacturer;name-en_US;name-fr_FR;price-EUR;price-USD;side_view;size;weather_conditions;X_SELL-groups;X_SELL-products
+big_boot;summer_collection,winter_boots,winter_collection;1;boots;similar_boots;black;Big boot for a big foot.;;;;;TimberLand;Big boot !;;120.00;110.00;images/Ziggy-certification.jpg;37;dry,wet;;small_boot,medium_boot
+small_boot;summer_collection,winter_boots,winter_collection;1;boots;similar_boots;maroon;;;;;;TimberLand;Small boot;;110.00;110.00;images/Ziggy.png;;wet;;
+medium_boot;winter_boots,winter_collection;1;boots;similar_boots;white;The medium boot.;;;;;Caterpillar;Medium boot;;100.50;100.49;;41;dry,wet;;
+dance_shoe;sandals;1;sandals;;greem;To dance all night !;Dansez toute la nuit !;2017-06-30;;;Converse;Dance shoe;Chaussure de dance;99.49;90.50;images/Akeneo-logo.png;40;;;
+black_sneakers;summer_collection,winter_collection;1;sneakers;;black;The famous sneakers;Les fameuses sneakers;;14;CENTIMETER;Converse;Black sneakers;Sneakers;40.00;42.00;images/Ziggy-certification.jpg;41;dry,wet;;
+docks_blue;winter_collection;1;boots;caterpillar_boots;blue;;;;;;Caterpillar;Docks;;149.49;149.49;;44;cold,snowy,wet;;
+docks_black;winter_boots,winter_collection;1;boots;caterpillar_boots;black;;;;;;Caterpillar;Docks;;149.49;149.49;;42;cold,snowy,wet;;
+docks_white;winter_collection;1;boots;caterpillar_boots;white;;;;;;Caterpillar;Docks;;149.49;149.49;;44;cold,snowy,wet;;
+docks_maroon;winter_collection;1;boots;caterpillar_boots;maroon;;;;;;Caterpillar;Docks;;149.49;149.49;;44;cold,snowy,wet;;
+docks_red;winter_collection;1;boots;caterpillar_boots;red;;;;;;Caterpillar;Docks;;149.49;149.49;;44;cold,snowy,wet;;
