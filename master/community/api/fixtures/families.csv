@@ -1,0 +1,5 @@
+code;label-en_US;label-fr_FR;attributes;attribute_as_label;requirements-ecommerce;requirements-mobile
+boots;Boots;Bottes;sku,name,manufacturer,description,price,side_view,size,color;name;sku,name,description,price,side_view,size,color;sku,name
+heels;Heels;Talons;sku,name,manufacturer,price;name;sku,name,price;sku,name
+sneakers;Sneakers;Sneakers;sku,name,price,side_view,size,color;name;sku,name,price,size,color;sku,name
+sandals;Sandals;Sandales;sku,name,manufacturer,description,price,side_view,size,color;name;sku,name,description,price,side_view,size,color;sku,name
