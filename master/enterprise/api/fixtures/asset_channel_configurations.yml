@@ -1,1 +1,12 @@
-asset_channel_configurations: ~
+asset_channel_configurations:
+    mobile:
+        configuration:
+            scale:
+                width: 128
+            colorspace:
+                colorspace: gray
+    ecommerce:
+        configuration:
+            resize:
+                width: 200
+                height: 200
